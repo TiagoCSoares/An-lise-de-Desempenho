@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
+#include<time.h>
 
 
 double aleatorio() {
@@ -11,13 +12,18 @@ double aleatorio() {
 	return (u);
 }
 
-int minimo(int num1, int num2){
+double minimo(double num1, double num2){
     if(num1 < num2){
         return num1;
     }
     return num2;
 }
-
+double maximo(double num1, double num2){
+    if(num1 > num2){
+        return num1;
+    }
+    return num2;
+}
 
 int main() {
     double tempo_simulacao;
@@ -29,7 +35,11 @@ int main() {
     double chegada;
     double servico;
 
+    double soma_tempo_servico = 0.0;
+
     unsigned long int fila = 0;
+
+    srand(time(NULL));  
 
     printf("Informe o tempo de simulação (segundos): ");
     scanf("%lF", &tempo_simulacao);
@@ -46,22 +56,27 @@ int main() {
     while(tempo_decorrido <= tempo_simulacao){
         tempo_decorrido = !fila ? chegada : minimo(chegada, servico);
 
+        //chegada
         if(tempo_decorrido == chegada){
             printf("Chegada em %lF.\n", tempo_decorrido);
             if(!fila){
                 servico = tempo_decorrido + (-1.0 / (1.0/intervalo_media_chegada)) * log(aleatorio());
+                soma_tempo_servico += servico - tempo_decorrido;
             }
             fila++;
             chegada = tempo_decorrido + (-1.0 / (1.0/intervalo_media_chegada)) * log(aleatorio());
             }
+        //saída
         else{
             printf("Saída em %lF.\n", tempo_decorrido);
             fila--;
 
             if(fila){
                 servico = tempo_decorrido + (-1.0 / (1.0/intervalo_media_chegada)) * log(aleatorio());
+                soma_tempo_servico += servico - tempo_decorrido;
             }
         }
     }
+    printf("Ocupação: %lF\n", soma_tempo_servico/maximo(tempo_simulacao, servico));
     return 0;
 }
