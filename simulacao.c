@@ -3,6 +3,9 @@
 #include <math.h>
 #include <time.h>
 
+//Fórmula da ocupação:
+// ocupacao = chegada/capacidade do sistema
+
 typedef struct little_{
     unsigned long int no_eventos;
     double tempo_anterior;
@@ -59,6 +62,9 @@ int main()
     unsigned long int fila = 0;
     unsigned int max_fila = 0;
 
+    //teste tempo_decorrido double to int
+    int t_decorrido = 0;
+
     /*
     Little
     */
@@ -76,11 +82,13 @@ int main()
 
     srand(time(NULL)); // 0.4 na media
 
-    printf("Informe o tempo de simulação (segundos): ");
-    scanf("%lF", &tempo_simulacao);
+    //printf("Informe o tempo de simulação (segundos): ");
+    //scanf("%lF", &tempo_simulacao);
+    tempo_simulacao = 36000;
 
-    printf("Informe o intervalo médio entre chegadas (segundos): ");
-    scanf("%lF", &intervalo_media_chegada);
+    //printf("Informe o intervalo médio entre chegadas (segundos): ");
+    //scanf("%lF", &intervalo_media_chegada);
+    intervalo_media_chegada = 0.2;
 
     printf("Informe o tempo médio de serviço (segundos): ");
     scanf("%lF", &tempo_medio_servico);
@@ -91,11 +99,16 @@ int main()
     while (tempo_decorrido <= tempo_simulacao)
     {
         tempo_decorrido = !fila ? chegada : minimo(chegada, servico);
-
         // chegada
+
         if (tempo_decorrido == chegada)
         {
             //printf("Chegada em %lF.\n", tempo_decorrido);
+            int t_decorrido = (int)tempo_decorrido;
+            //if (t_decorrido <= 101)
+            {
+                printf("Tempo decorrido: %d /n", t_decorrido);
+            }
             if (!fila)
             {
                 servico = tempo_decorrido + (-1.0 / (1.0 / intervalo_media_chegada)) * log(aleatorio());
@@ -153,5 +166,7 @@ int main()
 
     printf("Ocupação: %lF.\n", soma_tempo_servico / maximo(tempo_decorrido, servico));
     printf("Max Fila: %d\n", max_fila);
+
+    printf("Tempo decorrido: %lF.\n", tempo_decorrido);
     return 0;
 }
