@@ -4,7 +4,7 @@
 #include <time.h>
 
 //Fórmula da ocupação:
-// ocupacao = chegada/capacidade do sistema
+//ocupacao = soma_tempo_servico / max(tempo_decorrido,servico)
 
 typedef struct little_{
     unsigned long int no_eventos;
@@ -54,6 +54,7 @@ int main()
 
     double intervalo_media_chegada;
     double tempo_medio_servico;
+    double tempo_80;
 
     double chegada;
     double servico;
@@ -88,8 +89,6 @@ int main()
     Little - fim
     */
 
-    srand(time(NULL)); // 0.4 na media
-
     //printf("Informe o tempo de simulação (segundos): ");
     //scanf("%lF", &tempo_simulacao);
     tempo_simulacao = 36000;
@@ -108,7 +107,6 @@ int main()
     while (tempo_decorrido <= tempo_simulacao)
     {
         tempo_decorrido = !fila ? chegada : minimo(minimo(chegada, servico), minimo(coleta_dados, servico));
-
         
         // chegada
         if (tempo_decorrido == chegada)
@@ -167,9 +165,12 @@ int main()
             printf("Ocupação: %lF.\n", soma_tempo_servico / maximo(tempo_decorrido, servico));
             printf("E[N] = %lF\n", e_n_final);
             printf("E[W] = %lF\n", e_w_final);
-            printf("Erro de Little: %.20lF\n\n", e_n_final - lambda * e_w_final);
+            printf("Erro de Little: %.20lF\n", (e_n_final - lambda * e_w_final) < 0 ? (e_n_final - lambda * e_w_final) * -1 : (e_n_final - lambda * e_w_final));
+            printf("Ocupação: %lF\n\n", soma_tempo_servico / maximo(tempo_decorrido, servico));
             coleta_dados += 100;
         }
+
+        
     }
     e_n.soma_areas += (tempo_decorrido - e_n.tempo_anterior) * e_n.no_eventos;
     e_w_chegada.soma_areas += (tempo_decorrido - e_w_chegada.tempo_anterior) * e_w_chegada.no_eventos;
@@ -183,7 +184,7 @@ int main()
     printf("E[W] = %lF\n", e_w_final);
     printf("Lambda = %lF\n\n", lambda);
 
-    printf("Erro de Little: %.20lF\n\n", e_n_final - lambda * e_w_final); 
+    printf("Erro de Little: %.20lF\n\n", (e_n_final - lambda * e_w_final) < 0 ? (e_n_final - lambda * e_w_final) * -1 : (e_n_final - lambda * e_w_final));
 
     printf("Ocupação: %lF.\n", soma_tempo_servico / maximo(tempo_decorrido, servico));
     printf("Max Fila: %d\n", max_fila);
