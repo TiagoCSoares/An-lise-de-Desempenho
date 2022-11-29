@@ -50,20 +50,20 @@ int main()
 {
     double tempo_simulacao;
     double tempo_decorrido = 0.0;
+    double tempo_anterior = 0.0;
 
     double intervalo_media_chegada;
     double tempo_medio_servico;
 
     double chegada;
     double servico;
+    double coleta_dados;
 
     double soma_tempo_servico = 0.0;
 
     unsigned long int fila = 0;
     unsigned int max_fila = 0;
 
-    //teste tempo_decorrido double to int
-    int t_decorrido = 0;
 
     /*
     Little
@@ -76,6 +76,14 @@ int main()
     inicia_little(&e_n);
     inicia_little(&e_w_chegada);
     inicia_little(&e_w_saida);
+
+    little e_n_cd;
+    little e_w_chegada_cd;
+    little e_w_saida_cd;
+
+    inicia_little(&e_n_cd);
+    inicia_little(&e_w_chegada_cd);
+    inicia_little(&e_w_saida_cd);
     /*
     Little - fim
     */
@@ -90,25 +98,21 @@ int main()
     //scanf("%lF", &intervalo_media_chegada);
     intervalo_media_chegada = 0.2;
 
-    printf("Informe o tempo médio de serviço (segundos): ");
+    printf("Informe o tempo médio de serviço (segundos):");
     scanf("%lF", &tempo_medio_servico);
 
     // gerando o tempo de chegada da primeira requisição.
     chegada = (-1.0 / (1.0 / intervalo_media_chegada)) * log(aleatorio());
+    coleta_dados = 100.0;
 
     while (tempo_decorrido <= tempo_simulacao)
     {
-        tempo_decorrido = !fila ? chegada : minimo(chegada, servico);
-        // chegada
+        tempo_decorrido = !fila ? chegada : minimo(minimo(chegada, servico), minimo(coleta_dados, servico));
 
+        
+        // chegada
         if (tempo_decorrido == chegada)
         {
-            //printf("Chegada em %lF.\n", tempo_decorrido);
-            /*int t_decorrido = (int)tempo_decorrido;     Funciona como truncamento
-            //if (t_decorrido <= 101)
-            {
-                printf("Tempo decorrido: %d /n", t_decorrido);
-            }*/
             if (!fila)
             {
                 servico = tempo_decorrido + (-1.0 / (1.0 / intervalo_media_chegada)) * log(aleatorio());
@@ -127,9 +131,10 @@ int main()
             e_w_chegada.soma_areas += (tempo_decorrido - e_w_chegada.tempo_anterior) * e_w_chegada.no_eventos;
             e_w_chegada.tempo_anterior = tempo_decorrido;
             e_w_chegada.no_eventos++;
+            tempo_anterior = tempo_decorrido;
         }
         // saída
-        else
+        else if (tempo_decorrido == servico)
         {
             //printf("Saída em %lF.\n", tempo_decorrido);
             fila--;
@@ -148,6 +153,22 @@ int main()
             e_w_saida.soma_areas += (tempo_decorrido - e_w_saida.tempo_anterior) * e_w_saida.no_eventos;
             e_w_saida.tempo_anterior = tempo_decorrido;
             e_w_saida.no_eventos++;
+            tempo_anterior = tempo_decorrido;
+        }
+    
+        else if(tempo_decorrido == coleta_dados)
+        {   
+
+            double e_n_final = e_n.soma_areas / tempo_anterior;
+            double e_w_final = (e_w_chegada.soma_areas - e_w_saida.soma_areas) / e_w_chegada.no_eventos;
+            double lambda = e_w_chegada.no_eventos / tempo_anterior;
+
+            printf("Tempo decorrido: %lF \n", coleta_dados);
+            printf("Ocupação: %lF.\n", soma_tempo_servico / maximo(tempo_decorrido, servico));
+            printf("E[N] = %lF\n", e_n_final);
+            printf("E[W] = %lF\n", e_w_final);
+            printf("Erro de Little: %.20lF\n\n", e_n_final - lambda * e_w_final);
+            coleta_dados += 100;
         }
     }
     e_n.soma_areas += (tempo_decorrido - e_n.tempo_anterior) * e_n.no_eventos;
@@ -157,7 +178,7 @@ int main()
     double e_n_final = e_n.soma_areas / tempo_decorrido;
     double e_w_final = (e_w_chegada.soma_areas - e_w_saida.soma_areas) / e_w_chegada.no_eventos;
     double lambda = e_w_chegada.no_eventos / tempo_decorrido;
-
+    
     printf("E[N] = %lF\n", e_n_final);
     printf("E[W] = %lF\n", e_w_final);
     printf("Lambda = %lF\n\n", lambda);
