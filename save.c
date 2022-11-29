@@ -64,8 +64,6 @@ int main()
 
     //teste tempo_decorrido double to int
     int t_decorrido = 0;
-    int j = 1;
-    int aux = 0;
 
     /*
     Little
@@ -82,8 +80,7 @@ int main()
     Little - fim
     */
 
-    // Retirar para poder fixar os números aleatórios gerados
-    //srand(time(NULL)); // 0.4 na media
+    srand(time(NULL)); // 0.4 na media
 
     //printf("Informe o tempo de simulação (segundos): ");
     //scanf("%lF", &tempo_simulacao);
@@ -103,6 +100,7 @@ int main()
     {
         tempo_decorrido = !fila ? chegada : minimo(chegada, servico);
         // chegada
+
         if (tempo_decorrido == chegada)
         {
             //printf("Chegada em %lF.\n", tempo_decorrido);
@@ -151,31 +149,8 @@ int main()
             e_w_saida.tempo_anterior = tempo_decorrido;
             e_w_saida.no_eventos++;
         }
-        int t_decorrido = (int)tempo_decorrido;
-        //printf("tempo decorrido: %lF\n", tempo_decorrido);
-        //printf("t_decorrido: %d\n", t_decorrido);
-        if(t_decorrido == 100*j)
-        {
-            //printf("%d" "Tempo decorrido: %d\n",aux, t_decorrido);
-            j++;
-            aux++;
-            //e_n.soma_areas += (tempo_decorrido - e_n.tempo_anterior) * e_n.no_eventos;
-            e_w_chegada.soma_areas += (tempo_decorrido - e_w_chegada.tempo_anterior) * e_w_chegada.no_eventos;
-            //e_w_saida.soma_areas += (tempo_decorrido - e_w_saida.tempo_anterior) * e_w_saida.no_eventos;
-
-            double e_n_final = e_n.soma_areas / tempo_decorrido;
-            double e_w_final = (e_w_chegada.soma_areas - e_w_saida.soma_areas) / e_w_chegada.no_eventos;
-            double lambda = e_w_chegada.no_eventos / tempo_decorrido;
-
-
-            printf("Ocupação: %lF.\n", soma_tempo_servico / maximo(tempo_decorrido, servico));
-            printf("E[N] = %lF\n", e_n_final);
-            printf("E[W] = %lF\n", e_w_final);
-            printf("Erro de Little: %.20lF\n\n", e_n_final - lambda * e_w_final); 
-            printf("Soma_tempo_serviço = %lF\n", soma_tempo_servico);
-        }
     }
-    /*e_n.soma_areas += (tempo_decorrido - e_n.tempo_anterior) * e_n.no_eventos;
+    e_n.soma_areas += (tempo_decorrido - e_n.tempo_anterior) * e_n.no_eventos;
     e_w_chegada.soma_areas += (tempo_decorrido - e_w_chegada.tempo_anterior) * e_w_chegada.no_eventos;
     e_w_saida.soma_areas += (tempo_decorrido - e_w_saida.tempo_anterior) * e_w_saida.no_eventos;
 
@@ -191,15 +166,7 @@ int main()
 
     printf("Ocupação: %lF.\n", soma_tempo_servico / maximo(tempo_decorrido, servico));
     printf("Max Fila: %d\n", max_fila);
-    */
+
     printf("Tempo decorrido: %lF.\n", tempo_decorrido);
-    printf("\n\nsoma_tempo_serviço = %lF\n", soma_tempo_servico);
-    printf("ocupação = %lF\n", soma_tempo_servico / maximo(tempo_decorrido, servico));
-    printf("max(tempo_decorrido, servico) = %lF\n", maximo(tempo_decorrido, servico));
-    printf("servico = %lF\n", servico);
-
-
     return 0;
-
-
 }
