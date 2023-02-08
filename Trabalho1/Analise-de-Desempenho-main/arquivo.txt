@@ -1,0 +1,7200 @@
+Tempo decorrido: 100.000000 
+Ocupação: 0.822486
+E[N] = 3.173160
+E[W] = 0.578528
+Erro de Little: 0.28047848772859351740
+Tempo decorrido: 200.000000 
+Ocupação: 0.835172
+E[N] = 4.332717
+E[W] = 0.915299
+Erro de Little: 0.31261184972075017896
+Tempo decorrido: 300.000000 
+Ocupação: 0.858144
+E[N] = 5.108629
+E[W] = 0.182232
+Erro de Little: 4.17510071808592275744
+Tempo decorrido: 400.000000 
+Ocupação: 0.842759
+E[N] = 4.585047
+E[W] = 1.340913
+Erro de Little: 2.15694207344050248309
+Tempo decorrido: 500.000000 
+Ocupação: 0.835900
+E[N] = 4.259791
+E[W] = 1.632348
+Erro de Little: 3.93637768652553177162
+Tempo decorrido: 600.000000 
+Ocupação: 0.825489
+E[N] = 3.978221
+E[W] = 0.937196
+Erro de Little: 0.64861070431574674444
+Tempo decorrido: 700.000000 
+Ocupação: 0.826206
+E[N] = 4.055737
+E[W] = 1.095073
+Erro de Little: 1.39847593820744098281
+Tempo decorrido: 800.000000 
+Ocupação: 0.819418
+E[N] = 3.876273
+E[W] = 0.830151
+Erro de Little: 0.22730278790572189251
+Tempo decorrido: 900.000000 
+Ocupação: 0.820753
+E[N] = 3.989768
+E[W] = 0.757168
+Erro de Little: 0.22561059938639171918
+Tempo decorrido: 1000.000000 
+Ocupação: 0.816672
+E[N] = 3.873721
+E[W] = 1.107247
+Erro de Little: 1.61462323916328820417
+Tempo decorrido: 1100.000000 
+Ocupação: 0.815274
+E[N] = 3.845803
+E[W] = 0.825707
+Erro de Little: 0.24598430813230054426
+Tempo decorrido: 1200.000000 
+Ocupação: 0.821889
+E[N] = 4.055960
+E[W] = 2.007365
+Erro de Little: 5.93061165635997156187
+Tempo decorrido: 1300.000000 
+Ocupação: 0.823056
+E[N] = 4.257314
+E[W] = 0.654752
+Erro de Little: 0.99477756375350212537
+Tempo decorrido: 1400.000000 
+Ocupação: 0.822456
+E[N] = 4.172886
+E[W] = 0.495126
+Erro de Little: 1.70949356538207375422
+Tempo decorrido: 1500.000000 
+Ocupação: 0.823208
+E[N] = 4.202501
+E[W] = 1.288115
+Erro de Little: 2.20619400524292608168
+Tempo decorrido: 1600.000000 
+Ocupação: 0.828688
+E[N] = 4.560622
+E[W] = 1.129698
+Erro de Little: 1.09771738298559373703
+Tempo decorrido: 1700.000000 
+Ocupação: 0.830468
+E[N] = 4.682179
+E[W] = 1.667560
+Erro de Little: 3.69720562966749444200
+Tempo decorrido: 1800.000000 
+Ocupação: 0.830223
+E[N] = 4.628294
+E[W] = 1.041360
+Erro de Little: 0.59989878449429490104
+Tempo decorrido: 1900.000000 
+Ocupação: 0.827165
+E[N] = 4.516985
+E[W] = 0.748967
+Erro de Little: 0.76507236902077480067
+Tempo decorrido: 2000.000000 
+Ocupação: 0.823127
+E[N] = 4.413984
+E[W] = 1.002966
+Erro de Little: 0.59483917252277773713
+Tempo decorrido: 2100.000000 
+Ocupação: 0.823250
+E[N] = 4.388529
+E[W] = 0.650462
+Erro de Little: 1.13401793849904919398
+Tempo decorrido: 2200.000000 
+Ocupação: 0.823388
+E[N] = 4.332037
+E[W] = 1.004131
+Erro de Little: 0.67437333458935810881
+Tempo decorrido: 2300.000000 
+Ocupação: 0.823405
+E[N] = 4.305793
+E[W] = 0.655974
+Erro de Little: 1.03500602837305910597
+Tempo decorrido: 2400.000000 
+Ocupação: 0.822945
+E[N] = 4.324354
+E[W] = 1.274982
+Erro de Little: 2.00613449348032535369
+Tempo decorrido: 2500.000000 
+Ocupação: 0.825600
+E[N] = 4.316691
+E[W] = 0.949657
+Erro de Little: 0.41156423333647396134
+Tempo decorrido: 2600.000000 
+Ocupação: 0.829508
+E[N] = 4.488976
+E[W] = 1.019415
+Erro de Little: 0.60503035336228538910
+Tempo decorrido: 2700.000000 
+Ocupação: 0.831332
+E[N] = 4.511153
+E[W] = 1.051434
+Erro de Little: 0.75935268006296041676
+Tempo decorrido: 2800.000000 
+Ocupação: 0.830915
+E[N] = 4.458128
+E[W] = 0.875788
+Erro de Little: 0.07244931043396984904
+Tempo decorrido: 2900.000000 
+Ocupação: 0.831148
+E[N] = 4.449599
+E[W] = 1.012315
+Erro de Little: 0.60709965654738606844
+Tempo decorrido: 3000.000000 
+Ocupação: 0.830109
+E[N] = 4.462673
+E[W] = 0.842964
+Erro de Little: 0.25318768090683541061
+Tempo decorrido: 3100.000000 
+Ocupação: 0.831704
+E[N] = 4.547633
+E[W] = 1.310723
+Erro de Little: 1.99459906894999861038
+Tempo decorrido: 3200.000000 
+Ocupação: 0.830835
+E[N] = 4.501836
+E[W] = 1.145995
+Erro de Little: 1.22406566998498433918
+Tempo decorrido: 3300.000000 
+Ocupação: 0.831974
+E[N] = 4.569169
+E[W] = 1.064539
+Erro de Little: 0.75946556420170896473
+Tempo decorrido: 3400.000000 
+Ocupação: 0.832346
+E[N] = 4.538502
+E[W] = 1.489967
+Erro de Little: 2.92076166741909215574
+Tempo decorrido: 3500.000000 
+Ocupação: 0.834052
+E[N] = 4.603818
+E[W] = 1.643820
+Erro de Little: 3.64431099597373098220
+Tempo decorrido: 3600.000000 
+Ocupação: 0.833902
+E[N] = 4.575466
+E[W] = 0.856623
+Erro de Little: 0.27354286675155581321
+Tempo decorrido: 3700.000000 
+Ocupação: 0.835477
+E[N] = 4.556288
+E[W] = 1.044180
+Erro de Little: 0.68962104783432121025
+Tempo decorrido: 3800.000000 
+Ocupação: 0.836104
+E[N] = 4.536665
+E[W] = 1.222801
+Erro de Little: 1.60935824506703450965
+Tempo decorrido: 3900.000000 
+Ocupação: 0.835790
+E[N] = 4.526346
+E[W] = 1.454523
+Erro de Little: 2.78551380795697767212
+Tempo decorrido: 4000.000000 
+Ocupação: 0.836745
+E[N] = 4.537993
+E[W] = 0.897532
+Erro de Little: 0.02645137883477843843
+Tempo decorrido: 4100.000000 
+Ocupação: 0.836132
+E[N] = 4.517956
+E[W] = 1.366513
+Erro de Little: 2.34512047816602997585
+Tempo decorrido: 4200.000000 
+Ocupação: 0.836896
+E[N] = 4.528634
+E[W] = 0.893787
+Erro de Little: 0.03520818024901561927
+Tempo decorrido: 4300.000000 
+Ocupação: 0.837428
+E[N] = 4.559127
+E[W] = 1.065702
+Erro de Little: 0.79721250462870951736
+Tempo decorrido: 4400.000000 
+Ocupação: 0.835526
+E[N] = 4.516852
+E[W] = 1.312031
+Erro de Little: 2.07069806817666712817
+Tempo decorrido: 4500.000000 
+Ocupação: 0.834360
+E[N] = 4.477667
+E[W] = 1.610566
+Erro de Little: 3.60778879208664715605
+Tempo decorrido: 4600.000000 
+Ocupação: 0.834251
+E[N] = 4.487328
+E[W] = 0.937057
+Erro de Little: 0.21656846305629517957
+Tempo decorrido: 4700.000000 
+Ocupação: 0.834115
+E[N] = 4.463642
+E[W] = 1.398137
+Erro de Little: 2.55694978242120019019
+Tempo decorrido: 4800.000000 
+Ocupação: 0.833242
+E[N] = 4.451126
+E[W] = 0.977750
+Erro de Little: 0.45767062939061453619
+Tempo decorrido: 4900.000000 
+Ocupação: 0.832828
+E[N] = 4.444115
+E[W] = 1.587910
+Erro de Little: 3.52137807716600015340
+Tempo decorrido: 5000.000000 
+Ocupação: 0.833098
+E[N] = 4.433187
+E[W] = 0.872612
+Erro de Little: 0.05844640490383579134
+Tempo decorrido: 5100.000000 
+Ocupação: 0.833276
+E[N] = 4.426361
+E[W] = 0.886408
+Erro de Little: 0.01716699549117439716
+Tempo decorrido: 5200.000000 
+Ocupação: 0.835282
+E[N] = 4.456336
+E[W] = 0.784741
+Erro de Little: 0.51654715719028931886
+Tempo decorrido: 5300.000000 
+Ocupação: 0.834622
+E[N] = 4.430103
+E[W] = 1.115857
+Erro de Little: 1.16949236657362565239
+Tempo decorrido: 5400.000000 
+Ocupação: 0.835890
+E[N] = 4.469174
+E[W] = 0.719923
+Erro de Little: 0.85555637118435390320
+Tempo decorrido: 5500.000000 
+Ocupação: 0.835818
+E[N] = 4.464401
+E[W] = 0.751623
+Erro de Little: 0.69068163408998595187
+Tempo decorrido: 5600.000000 
+Ocupação: 0.835175
+E[N] = 4.441237
+E[W] = 1.237208
+Erro de Little: 1.77127730999376975518
+Tempo decorrido: 5700.000000 
+Ocupação: 0.835031
+E[N] = 4.427780
+E[W] = 1.167950
+Erro de Little: 1.43792290882784801198
+Tempo decorrido: 5800.000000 
+Ocupação: 0.834103
+E[N] = 4.396749
+E[W] = 0.880576
+Erro de Little: 0.02344234802144740115
+Tempo decorrido: 5900.000000 
+Ocupação: 0.834959
+E[N] = 4.453949
+E[W] = 0.406268
+Erro de Little: 2.41353599199751522875
+Tempo decorrido: 6000.000000 
+Ocupação: 0.835407
+E[N] = 4.461107
+E[W] = 0.886512
+Erro de Little: 0.00601064776368698261
+Tempo decorrido: 6100.000000 
+Ocupação: 0.835317
+E[N] = 4.445689
+E[W] = 0.947520
+Erro de Little: 0.31055401607677879383
+Tempo decorrido: 6200.000000 
+Ocupação: 0.835717
+E[N] = 4.435439
+E[W] = 1.273324
+Erro de Little: 1.95403034660116414756
+Tempo decorrido: 6300.000000 
+Ocupação: 0.836136
+E[N] = 4.433100
+E[W] = 0.763686
+Erro de Little: 0.60188510500848435569
+Tempo decorrido: 6400.000000 
+Ocupação: 0.835412
+E[N] = 4.411675
+E[W] = 0.581630
+Erro de Little: 1.49760209925196141612
+Tempo decorrido: 6500.000000 
+Ocupação: 0.835342
+E[N] = 4.410463
+E[W] = 0.549769
+Erro de Little: 1.65628433869973967774
+Tempo decorrido: 6600.000000 
+Ocupação: 0.835792
+E[N] = 4.398767
+E[W] = 0.940781
+Erro de Little: 0.31926469204422947001
+Tempo decorrido: 6700.000000 
+Ocupação: 0.835798
+E[N] = 4.377685
+E[W] = 0.473101
+Erro de Little: 2.00576256047888978884
+Tempo decorrido: 6800.000000 
+Ocupação: 0.836884
+E[N] = 4.408165
+E[W] = 1.197122
+Erro de Little: 1.60030301436951916116
+Tempo decorrido: 6900.000000 
+Ocupação: 0.835562
+E[N] = 4.384133
+E[W] = 1.026431
+Erro de Little: 0.75710086503505813482
+Tempo decorrido: 7000.000000 
+Ocupação: 0.835352
+E[N] = 4.373336
+E[W] = 0.719577
+Erro de Little: 0.76987533608127156626
+Tempo decorrido: 7100.000000 
+Ocupação: 0.835995
+E[N] = 4.398247
+E[W] = 0.791164
+Erro de Little: 0.43483636413017556777
+Tempo decorrido: 7200.000000 
+Ocupação: 0.835956
+E[N] = 4.394177
+E[W] = 0.830217
+Erro de Little: 0.23697323894147537260
+Tempo decorrido: 7300.000000 
+Ocupação: 0.834978
+E[N] = 4.368263
+E[W] = 1.487788
+Erro de Little: 3.07353062347080907557
+Tempo decorrido: 7400.000000 
+Ocupação: 0.835413
+E[N] = 4.372054
+E[W] = 1.233790
+Erro de Little: 1.79595238217971431283
+Tempo decorrido: 7500.000000 
+Ocupação: 0.835914
+E[N] = 4.406880
+E[W] = 0.429245
+Erro de Little: 2.25903035593418533011
+Tempo decorrido: 7600.000000 
+Ocupação: 0.836299
+E[N] = 4.414761
+E[W] = 0.930426
+Erro de Little: 0.24056853837126368489
+Tempo decorrido: 7700.000000 
+Ocupação: 0.836455
+E[N] = 4.408997
+E[W] = 0.888873
+Erro de Little: 0.04083345072769706263
+Tempo decorrido: 7800.000000 
+Ocupação: 0.836534
+E[N] = 4.434283
+E[W] = 0.817045
+Erro de Little: 0.34359140659484310731
+Tempo decorrido: 7900.000000 
+Ocupação: 0.836665
+E[N] = 4.453239
+E[W] = 1.319918
+Erro de Little: 2.15076708435440089318
+Tempo decorrido: 8000.000000 
+Ocupação: 0.836676
+E[N] = 4.454808
+E[W] = 0.992045
+Erro de Little: 0.51045854485104857901
+Tempo decorrido: 8100.000000 
+Ocupação: 0.836636
+E[N] = 4.443325
+E[W] = 0.538944
+Erro de Little: 1.74366884487002682391
+Tempo decorrido: 8200.000000 
+Ocupação: 0.837116
+E[N] = 4.458907
+E[W] = 0.814981
+Erro de Little: 0.37557860084350558338
+Tempo decorrido: 8300.000000 
+Ocupação: 0.836444
+E[N] = 4.437939
+E[W] = 0.845754
+Erro de Little: 0.20120260336112405497
+Tempo decorrido: 8400.000000 
+Ocupação: 0.836560
+E[N] = 4.446633
+E[W] = 0.646808
+Erro de Little: 1.20675108354110038889
+Tempo decorrido: 8500.000000 
+Ocupação: 0.836219
+E[N] = 4.436712
+E[W] = 1.070550
+Erro de Little: 0.92625522295749540547
+Tempo decorrido: 8600.000000 
+Ocupação: 0.837133
+E[N] = 4.454095
+E[W] = 0.446303
+Erro de Little: 2.21706228382091463658
+Tempo decorrido: 8700.000000 
+Ocupação: 0.837825
+E[N] = 4.495739
+E[W] = 0.815158
+Erro de Little: 0.40799502442172830285
+Tempo decorrido: 8800.000000 
+Ocupação: 0.837981
+E[N] = 4.498403
+E[W] = 0.970427
+Erro de Little: 0.36793047384267296707
+Tempo decorrido: 8900.000000 
+Ocupação: 0.838791
+E[N] = 4.568792
+E[W] = 0.634900
+Erro de Little: 1.38351265160813463595
+Tempo decorrido: 9000.000000 
+Ocupação: 0.838911
+E[N] = 4.579577
+E[W] = 0.893964
+Erro de Little: 0.09253811498986674877
+Tempo decorrido: 9100.000000 
+Ocupação: 0.839313
+E[N] = 4.585841
+E[W] = 0.810694
+Erro de Little: 0.51665335143165247445
+Tempo decorrido: 9200.000000 
+Ocupação: 0.839001
+E[N] = 4.573244
+E[W] = 0.818219
+Erro de Little: 0.46944846884765922823
+Tempo decorrido: 9300.000000 
+Ocupação: 0.838721
+E[N] = 4.572285
+E[W] = 1.005534
+Erro de Little: 0.46934590182933266789
+Tempo decorrido: 9400.000000 
+Ocupação: 0.838595
+E[N] = 4.563185
+E[W] = 0.129703
+Erro de Little: 3.91331688585897286004
+Tempo decorrido: 9500.000000 
+Ocupação: 0.838002
+E[N] = 4.543697
+E[W] = 0.550197
+Erro de Little: 1.78834668215018099957
+Tempo decorrido: 9600.000000 
+Ocupação: 0.837842
+E[N] = 4.543101
+E[W] = 0.563403
+Erro de Little: 1.72074347876748490194
+Tempo decorrido: 9700.000000 
+Ocupação: 0.837693
+E[N] = 4.532345
+E[W] = 0.957645
+Erro de Little: 0.26481669929292284138
+Tempo decorrido: 9800.000000 
+Ocupação: 0.837646
+E[N] = 4.521371
+E[W] = 1.133594
+Erro de Little: 1.15589764679640438771
+Tempo decorrido: 9900.000000 
+Ocupação: 0.837421
+E[N] = 4.511684
+E[W] = 0.597956
+Erro de Little: 1.51681900343195108505
+Tempo decorrido: 10000.000000 
+Ocupação: 0.836943
+E[N] = 4.501040
+E[W] = 1.114357
+Erro de Little: 1.07802655818447945535
+Tempo decorrido: 10100.000000 
+Ocupação: 0.836698
+E[N] = 4.491786
+E[W] = 0.788205
+Erro de Little: 0.54962484511203113513
+Tempo decorrido: 10200.000000 
+Ocupação: 0.836204
+E[N] = 4.478635
+E[W] = 0.964663
+Erro de Little: 0.34446520369100674941
+Tempo decorrido: 10300.000000 
+Ocupação: 0.836785
+E[N] = 4.499584
+E[W] = 0.830775
+Erro de Little: 0.34559236376128499302
+Tempo decorrido: 10400.000000 
+Ocupação: 0.835951
+E[N] = 4.478889
+E[W] = 0.934858
+Erro de Little: 0.19056437479655130574
+Tempo decorrido: 10500.000000 
+Ocupação: 0.836378
+E[N] = 4.506534
+E[W] = 1.171502
+Erro de Little: 1.34654019789119860917
+Tempo decorrido: 10600.000000 
+Ocupação: 0.836122
+E[N] = 4.495792
+E[W] = 0.989038
+Erro de Little: 0.44400154100694333437
+Tempo decorrido: 10700.000000 
+Ocupação: 0.835884
+E[N] = 4.493064
+E[W] = 1.914155
+Erro de Little: 5.06700836248204744550
+Tempo decorrido: 10800.000000 
+Ocupação: 0.835867
+E[N] = 4.486073
+E[W] = 0.985163
+Erro de Little: 0.43373271590154782729
+Tempo decorrido: 10900.000000 
+Ocupação: 0.835301
+E[N] = 4.468938
+E[W] = 1.055565
+Erro de Little: 0.80230652706064731206
+Tempo decorrido: 11000.000000 
+Ocupação: 0.834340
+E[N] = 4.449806
+E[W] = 1.629994
+Erro de Little: 3.68586235640345449838
+Tempo decorrido: 11100.000000 
+Ocupação: 0.834438
+E[N] = 4.447704
+E[W] = 0.998436
+Erro de Little: 0.53657726985617060222
+Tempo decorrido: 11200.000000 
+Ocupação: 0.834302
+E[N] = 4.438731
+E[W] = 1.010174
+Erro de Little: 0.60367012337569825320
+Tempo decorrido: 11300.000000 
+Ocupação: 0.834420
+E[N] = 4.432688
+E[W] = 0.956571
+Erro de Little: 0.34296408203930894842
+Tempo decorrido: 11400.000000 
+Ocupação: 0.834600
+E[N] = 4.427584
+E[W] = 0.874669
+Erro de Little: 0.06034999406016083867
+Tempo decorrido: 11500.000000 
+Ocupação: 0.834561
+E[N] = 4.420094
+E[W] = 1.480727
+Erro de Little: 2.97127642952390846887
+Tempo decorrido: 11600.000000 
+Ocupação: 0.833859
+E[N] = 4.404687
+E[W] = 0.792560
+Erro de Little: 0.44944622606123241226
+Tempo decorrido: 11700.000000 
+Ocupação: 0.834146
+E[N] = 4.418453
+E[W] = 1.235990
+Erro de Little: 1.75348366596881710677
+Tempo decorrido: 11800.000000 
+Ocupação: 0.834341
+E[N] = 4.416831
+E[W] = 0.880761
+Erro de Little: 0.01779585057728549913
+Tempo decorrido: 11900.000000 
+Ocupação: 0.833437
+E[N] = 4.399012
+E[W] = 1.449190
+Erro de Little: 2.83654853824539721074
+Tempo decorrido: 12000.000000 
+Ocupação: 0.833829
+E[N] = 4.421868
+E[W] = 0.972280
+Erro de Little: 0.43334984256372521827
+Tempo decorrido: 12100.000000 
+Ocupação: 0.834212
+E[N] = 4.428703
+E[W] = 1.179777
+Erro de Little: 1.46566357264840974040
+Tempo decorrido: 12200.000000 
+Ocupação: 0.834501
+E[N] = 4.436748
+E[W] = 0.840408
+Erro de Little: 0.23710925039877839282
+Tempo decorrido: 12300.000000 
+Ocupação: 0.834298
+E[N] = 4.427226
+E[W] = 1.449035
+Erro de Little: 2.81202274719107503387
+Tempo decorrido: 12400.000000 
+Ocupação: 0.833884
+E[N] = 4.418945
+E[W] = 1.585193
+Erro de Little: 3.49801625695782103520
+Tempo decorrido: 12500.000000 
+Ocupação: 0.834270
+E[N] = 4.435961
+E[W] = 1.237402
+Erro de Little: 1.74735866953659346734
+Tempo decorrido: 12600.000000 
+Ocupação: 0.833811
+E[N] = 4.421415
+E[W] = 1.054201
+Erro de Little: 0.84550589698859557330
+Tempo decorrido: 12700.000000 
+Ocupação: 0.833963
+E[N] = 4.415737
+E[W] = 0.915857
+Erro de Little: 0.16268923387838540862
+Tempo decorrido: 12800.000000 
+Ocupação: 0.834065
+E[N] = 4.428410
+E[W] = 1.497472
+Erro de Little: 3.05914983208155977223
+Tempo decorrido: 12900.000000 
+Ocupação: 0.833308
+E[N] = 4.412933
+E[W] = 0.667932
+Erro de Little: 1.07399189204382983220
+Tempo decorrido: 13000.000000 
+Ocupação: 0.833382
+E[N] = 4.407979
+E[W] = 0.802547
+Erro de Little: 0.39581843522735482566
+Tempo decorrido: 13100.000000 
+Ocupação: 0.833373
+E[N] = 4.401268
+E[W] = 0.739008
+Erro de Little: 0.70673238876953181631
+Tempo decorrido: 13200.000000 
+Ocupação: 0.833343
+E[N] = 4.395274
+E[W] = 0.881045
+Erro de Little: 0.00923714069200798349
+Tempo decorrido: 13300.000000 
+Ocupação: 0.833539
+E[N] = 4.386448
+E[W] = 0.827989
+Erro de Little: 0.24798113925491271914
+Tempo decorrido: 13400.000000 
+Ocupação: 0.833016
+E[N] = 4.379723
+E[W] = 1.141012
+Erro de Little: 1.32036511393543687376
+Tempo decorrido: 13500.000000 
+Ocupação: 0.832871
+E[N] = 4.375512
+E[W] = 1.031206
+Erro de Little: 0.77681999241835164582
+Tempo decorrido: 13600.000000 
+Ocupação: 0.832994
+E[N] = 4.373832
+E[W] = 0.872218
+Erro de Little: 0.01369268131389222987
+Tempo decorrido: 13700.000000 
+Ocupação: 0.832742
+E[N] = 4.374893
+E[W] = 1.317953
+Erro de Little: 2.20965551717775454676
+Tempo decorrido: 13800.000000 
+Ocupação: 0.832546
+E[N] = 4.364574
+E[W] = 0.781023
+Erro de Little: 0.46374841651968612410
+Tempo decorrido: 13900.000000 
+Ocupação: 0.832684
+E[N] = 4.380397
+E[W] = 0.954741
+Erro de Little: 0.39052474859923602679
+Tempo decorrido: 14000.000000 
+Ocupação: 0.832986
+E[N] = 4.392647
+E[W] = 1.294259
+Erro de Little: 2.07611026621936378689
+Tempo decorrido: 14100.000000 
+Ocupação: 0.833015
+E[N] = 4.389744
+E[W] = 1.098399
+Erro de Little: 1.09992617602317466208
+Tempo decorrido: 14200.000000 
+Ocupação: 0.833492
+E[N] = 4.398621
+E[W] = 0.884330
+Erro de Little: 0.02199976302549533358
+Tempo decorrido: 14300.000000 
+Ocupação: 0.833632
+E[N] = 4.393216
+E[W] = 1.457478
+Erro de Little: 2.89345980452351358991
+Tempo decorrido: 14400.000000 
+Ocupação: 0.833645
+E[N] = 4.397942
+E[W] = 0.901107
+Erro de Little: 0.10666096513531275747
+Tempo decorrido: 14500.000000 
+Ocupação: 0.833908
+E[N] = 4.412490
+E[W] = 0.864940
+Erro de Little: 0.08545137180859008197
+Tempo decorrido: 14600.000000 
+Ocupação: 0.833711
+E[N] = 4.410702
+E[W] = 0.236126
+Erro de Little: 3.22994036854660482305
+Tempo decorrido: 14700.000000 
+Ocupação: 0.834083
+E[N] = 4.409448
+E[W] = 0.782840
+Erro de Little: 0.49295196256488482689
+Tempo decorrido: 14800.000000 
+Ocupação: 0.834418
+E[N] = 4.407991
+E[W] = 0.822385
+Erro de Little: 0.29349344266941468362
+Tempo decorrido: 14900.000000 
+Ocupação: 0.834867
+E[N] = 4.428425
+E[W] = 1.522815
+Erro de Little: 3.19262699958478979312
+Tempo decorrido: 15000.000000 
+Ocupação: 0.834935
+E[N] = 4.433662
+E[W] = 1.016464
+Erro de Little: 0.65156687229926113503
+Tempo decorrido: 15100.000000 
+Ocupação: 0.834680
+E[N] = 4.422963
+E[W] = 0.296937
+Erro de Little: 2.93766233294482193017
+Tempo decorrido: 15200.000000 
+Ocupação: 0.834895
+E[N] = 4.424821
+E[W] = 1.023369
+Erro de Little: 0.69627986787264184443
+Tempo decorrido: 15300.000000 
+Ocupação: 0.834714
+E[N] = 4.416593
+E[W] = 0.865987
+Erro de Little: 0.08428000290537607242
+Tempo decorrido: 15400.000000 
+Ocupação: 0.834671
+E[N] = 4.408853
+E[W] = 0.831851
+Erro de Little: 0.24724362369636043724
+Tempo decorrido: 15500.000000 
+Ocupação: 0.834343
+E[N] = 4.397022
+E[W] = 1.186461
+Erro de Little: 1.53606948539878551685
+Tempo decorrido: 15600.000000 
+Ocupação: 0.834716
+E[N] = 4.433994
+E[W] = 1.211998
+Erro de Little: 1.63049350346236643361
+Tempo decorrido: 15700.000000 
+Ocupação: 0.834632
+E[N] = 4.425162
+E[W] = 1.018107
+Erro de Little: 0.66997858874783755567
+Tempo decorrido: 15800.000000 
+Ocupação: 0.834717
+E[N] = 4.420234
+E[W] = 1.116410
+Erro de Little: 1.16729730437751388905
+Tempo decorrido: 15900.000000 
+Ocupação: 0.835132
+E[N] = 4.428509
+E[W] = 0.297434
+Erro de Little: 2.93923121133252340798
+Tempo decorrido: 16000.000000 
+Ocupação: 0.835078
+E[N] = 4.429713
+E[W] = 0.846480
+Erro de Little: 0.19156904209720515553
+Tempo decorrido: 16100.000000 
+Ocupação: 0.835054
+E[N] = 4.427923
+E[W] = 0.715153
+Erro de Little: 0.84746873980841685992
+Tempo decorrido: 16200.000000 
+Ocupação: 0.835006
+E[N] = 4.423149
+E[W] = 1.435969
+Erro de Little: 2.76675573157500931387
+Tempo decorrido: 16300.000000 
+Ocupação: 0.835104
+E[N] = 4.419618
+E[W] = 0.860704
+Erro de Little: 0.10927703874723704303
+Tempo decorrido: 16400.000000 
+Ocupação: 0.834627
+E[N] = 4.408303
+E[W] = 0.435216
+Erro de Little: 2.22959043202839657383
+Tempo decorrido: 16500.000000 
+Ocupação: 0.835044
+E[N] = 4.413937
+E[W] = 0.540732
+Erro de Little: 1.70594775650815355661
+Tempo decorrido: 16600.000000 
+Ocupação: 0.834915
+E[N] = 4.408401
+E[W] = 1.469184
+Erro de Little: 2.94721177261814837323
+Tempo decorrido: 16700.000000 
+Ocupação: 0.834912
+E[N] = 4.400852
+E[W] = 0.944129
+Erro de Little: 0.32607451004162246733
+Tempo decorrido: 16800.000000 
+Ocupação: 0.834673
+E[N] = 4.402084
+E[W] = 0.952963
+Erro de Little: 0.37008711308804542739
+Tempo decorrido: 16900.000000 
+Ocupação: 0.834787
+E[N] = 4.406481
+E[W] = 0.360466
+Erro de Little: 2.60131371304474212636
+Tempo decorrido: 17000.000000 
+Ocupação: 0.834763
+E[N] = 4.404295
+E[W] = 1.182202
+Erro de Little: 1.51699487113337738720
+Tempo decorrido: 17100.000000 
+Ocupação: 0.834570
+E[N] = 4.396265
+E[W] = 0.909302
+Erro de Little: 0.15622374721336029779
+Tempo decorrido: 17200.000000 
+Ocupação: 0.834218
+E[N] = 4.386476
+E[W] = 1.257646
+Erro de Little: 1.90652293841804709729
+Tempo decorrido: 17300.000000 
+Ocupação: 0.834362
+E[N] = 4.380525
+E[W] = 0.830302
+Erro de Little: 0.22477928867796315160
+Tempo decorrido: 17400.000000 
+Ocupação: 0.834157
+E[N] = 4.371437
+E[W] = 1.438267
+Erro de Little: 2.82857736884249622022
+Tempo decorrido: 17500.000000 
+Ocupação: 0.834124
+E[N] = 4.368271
+E[W] = 0.439013
+Erro de Little: 2.17062130799684238625
+Tempo decorrido: 17600.000000 
+Ocupação: 0.833830
+E[N] = 4.359686
+E[W] = 0.444101
+Erro de Little: 2.13735256376364013420
+Tempo decorrido: 17700.000000 
+Ocupação: 0.833985
+E[N] = 4.358631
+E[W] = 0.906464
+Erro de Little: 0.17810819758177753869
+Tempo decorrido: 17800.000000 
+Ocupação: 0.833841
+E[N] = 4.350487
+E[W] = 0.853501
+Erro de Little: 0.07875733297119680287
+Tempo decorrido: 17900.000000 
+Ocupação: 0.834188
+E[N] = 4.358058
+E[W] = 1.168692
+Erro de Little: 1.49252081834954353212
+Tempo decorrido: 18000.000000 
+Ocupação: 0.834459
+E[N] = 4.361997
+E[W] = 1.182335
+Erro de Little: 1.55803020084683119251
+Tempo decorrido: 18100.000000 
+Ocupação: 0.834616
+E[N] = 4.362745
+E[W] = 0.921144
+Erro de Little: 0.25076907767392153659
+Tempo decorrido: 18200.000000 
+Ocupação: 0.834449
+E[N] = 4.366022
+E[W] = 0.844308
+Erro de Little: 0.13770355276431889280
+Tempo decorrido: 18300.000000 
+Ocupação: 0.834212
+E[N] = 4.362949
+E[W] = 0.839904
+Erro de Little: 0.15800020475403719900
+Tempo decorrido: 18400.000000 
+Ocupação: 0.833841
+E[N] = 4.353741
+E[W] = 1.584711
+Erro de Little: 3.57727755765544763733
+Tempo decorrido: 18500.000000 
+Ocupação: 0.833925
+E[N] = 4.354807
+E[W] = 0.907735
+Erro de Little: 0.18809784836561060928
+Tempo decorrido: 18600.000000 
+Ocupação: 0.833976
+E[N] = 4.365423
+E[W] = 0.422931
+Erro de Little: 2.24842138992142359655
+Tempo decorrido: 18700.000000 
+Ocupação: 0.834312
+E[N] = 4.375899
+E[W] = 1.635677
+Erro de Little: 3.81527697590626679869
+Tempo decorrido: 18800.000000 
+Ocupação: 0.834126
+E[N] = 4.374650
+E[W] = 0.705346
+Erro de Little: 0.84239344912613312033
+Tempo decorrido: 18900.000000 
+Ocupação: 0.834146
+E[N] = 4.369873
+E[W] = 1.321189
+Erro de Little: 2.24580340225947328037
+Tempo decorrido: 19000.000000 
+Ocupação: 0.834102
+E[N] = 4.368085
+E[W] = 1.961463
+Erro de Little: 5.45085326058584840325
+Tempo decorrido: 19100.000000 
+Ocupação: 0.834297
+E[N] = 4.367579
+E[W] = 1.321967
+Erro de Little: 2.25051108007711242465
+Tempo decorrido: 19200.000000 
+Ocupação: 0.834354
+E[N] = 4.365677
+E[W] = 1.081442
+Erro de Little: 1.04941983656975335037
+Tempo decorrido: 19300.000000 
+Ocupação: 0.834298
+E[N] = 4.361058
+E[W] = 0.940444
+Erro de Little: 0.34746728820842243124
+Tempo decorrido: 19400.000000 
+Ocupação: 0.834306
+E[N] = 4.369774
+E[W] = 0.846462
+Erro de Little: 0.13044640466588486305
+Tempo decorrido: 19500.000000 
+Ocupação: 0.834049
+E[N] = 4.360944
+E[W] = 1.398534
+Erro de Little: 2.64328408543746729009
+Tempo decorrido: 19600.000000 
+Ocupação: 0.833788
+E[N] = 4.355871
+E[W] = 1.579149
+Erro de Little: 3.55249431997243458881
+Tempo decorrido: 19700.000000 
+Ocupação: 0.834274
+E[N] = 4.385066
+E[W] = 0.769079
+Erro de Little: 0.53279248684345059672
+Tempo decorrido: 19800.000000 
+Ocupação: 0.834116
+E[N] = 4.376899
+E[W] = 0.833147
+Erro de Little: 0.20522404302847974122
+Tempo decorrido: 19900.000000 
+Ocupação: 0.834075
+E[N] = 4.369484
+E[W] = 0.769816
+Erro de Little: 0.51556748722712697486
+Tempo decorrido: 20000.000000 
+Ocupação: 0.834010
+E[N] = 4.365819
+E[W] = 0.899499
+Erro de Little: 0.13676186009913493535
+Tempo decorrido: 20100.000000 
+Ocupação: 0.833813
+E[N] = 4.359185
+E[W] = 0.802403
+Erro de Little: 0.34292662938430495956
+Tempo decorrido: 20200.000000 
+Ocupação: 0.834053
+E[N] = 4.363402
+E[W] = 0.830038
+Erro de Little: 0.20678007863606495675
+Tempo decorrido: 20300.000000 
+Ocupação: 0.834008
+E[N] = 4.363379
+E[W] = 0.979747
+Erro de Little: 0.54218885995146770540
+Tempo decorrido: 20400.000000 
+Ocupação: 0.834500
+E[N] = 4.373495
+E[W] = 0.833607
+Erro de Little: 0.19878157772578752827
+Tempo decorrido: 20500.000000 
+Ocupação: 0.834276
+E[N] = 4.364408
+E[W] = 1.071075
+Erro de Little: 0.99824476752049218220
+Tempo decorrido: 20600.000000 
+Ocupação: 0.834094
+E[N] = 4.362443
+E[W] = 0.767852
+Erro de Little: 0.51845547087750354365
+Tempo decorrido: 20700.000000 
+Ocupação: 0.834261
+E[N] = 4.363867
+E[W] = 1.226005
+Erro de Little: 1.77497860439108023911
+Tempo decorrido: 20800.000000 
+Ocupação: 0.834433
+E[N] = 4.363273
+E[W] = 0.856369
+Erro de Little: 0.07370752824159243488
+Tempo decorrido: 20900.000000 
+Ocupação: 0.834463
+E[N] = 4.360490
+E[W] = 0.758101
+Erro de Little: 0.56290191151661161939
+Tempo decorrido: 21000.000000 
+Ocupação: 0.834461
+E[N] = 4.359412
+E[W] = 1.049840
+Erro de Little: 0.90034791866678620664
+Tempo decorrido: 21100.000000 
+Ocupação: 0.834017
+E[N] = 4.349856
+E[W] = 0.614932
+Erro de Little: 1.27012353476964401366
+Tempo decorrido: 21200.000000 
+Ocupação: 0.834319
+E[N] = 4.357325
+E[W] = 1.093671
+Erro de Little: 1.12081985554687069140
+Tempo decorrido: 21300.000000 
+Ocupação: 0.834237
+E[N] = 4.354497
+E[W] = 0.863367
+Erro de Little: 0.02989530810481788592
+Tempo decorrido: 21400.000000 
+Ocupação: 0.834303
+E[N] = 4.350896
+E[W] = 0.970606
+Erro de Little: 0.51075650179721776567
+Tempo decorrido: 21500.000000 
+Ocupação: 0.834076
+E[N] = 4.346480
+E[W] = 0.880875
+Erro de Little: 0.06523527333075040957
+Tempo decorrido: 21600.000000 
+Ocupação: 0.833944
+E[N] = 4.338977
+E[W] = 0.793928
+Erro de Little: 0.36398027431699286893
+Tempo decorrido: 21700.000000 
+Ocupação: 0.834028
+E[N] = 4.338813
+E[W] = 0.979079
+Erro de Little: 0.56326557681695899049
+Tempo decorrido: 21800.000000 
+Ocupação: 0.833978
+E[N] = 4.336058
+E[W] = 0.923663
+Erro de Little: 0.28914689345220878636
+Tempo decorrido: 21900.000000 
+Ocupação: 0.833914
+E[N] = 4.331736
+E[W] = 0.301601
+Erro de Little: 2.82163532307567432866
+Tempo decorrido: 22000.000000 
+Ocupação: 0.834101
+E[N] = 4.335244
+E[W] = 0.488024
+Erro de Little: 1.89177917448796328870
+Tempo decorrido: 22100.000000 
+Ocupação: 0.833849
+E[N] = 4.327132
+E[W] = 0.849142
+Erro de Little: 0.07768302980499353083
+Tempo decorrido: 22200.000000 
+Ocupação: 0.833689
+E[N] = 4.320550
+E[W] = 0.689615
+Erro de Little: 0.86991209868617414003
+Tempo decorrido: 22300.000000 
+Ocupação: 0.833419
+E[N] = 4.314211
+E[W] = 0.872756
+Erro de Little: 0.05184448717585610211
+Tempo decorrido: 22400.000000 
+Ocupação: 0.833372
+E[N] = 4.309190
+E[W] = 1.227498
+Erro de Little: 1.83187302545227570505
+Tempo decorrido: 22500.000000 
+Ocupação: 0.833580
+E[N] = 4.310404
+E[W] = 0.759149
+Erro de Little: 0.51228413809043882310
+Tempo decorrido: 22600.000000 
+Ocupação: 0.833595
+E[N] = 4.306934
+E[W] = 0.939110
+Erro de Little: 0.39106457122926929770
+Tempo decorrido: 22700.000000 
+Ocupação: 0.833680
+E[N] = 4.305733
+E[W] = 0.955981
+Erro de Little: 0.47686971180777071311
+Tempo decorrido: 22800.000000 
+Ocupação: 0.833886
+E[N] = 4.310525
+E[W] = 0.907232
+Erro de Little: 0.22851865153395767294
+Tempo decorrido: 22900.000000 
+Ocupação: 0.833835
+E[N] = 4.307019
+E[W] = 1.349144
+Erro de Little: 2.44166949666792731932
+Tempo decorrido: 23000.000000 
+Ocupação: 0.833841
+E[N] = 4.308166
+E[W] = 1.233506
+Erro de Little: 1.86084227495085841042
+Tempo decorrido: 23100.000000 
+Ocupação: 0.834013
+E[N] = 4.315628
+E[W] = 0.938995
+Erro de Little: 0.38055349827122064710
+Tempo decorrido: 23200.000000 
+Ocupação: 0.834038
+E[N] = 4.319797
+E[W] = 1.081653
+Erro de Little: 1.08911623654044920073
+Tempo decorrido: 23300.000000 
+Ocupação: 0.834354
+E[N] = 4.324615
+E[W] = 0.808383
+Erro de Little: 0.28113507512528368437
+Tempo decorrido: 23400.000000 
+Ocupação: 0.834056
+E[N] = 4.320857
+E[W] = 1.343243
+Erro de Little: 2.39735212115616214135
+Tempo decorrido: 23500.000000 
+Ocupação: 0.833780
+E[N] = 4.321663
+E[W] = 0.705493
+Erro de Little: 0.79405474022274091794
+Tempo decorrido: 23600.000000 
+Ocupação: 0.833667
+E[N] = 4.316587
+E[W] = 0.911785
+Erro de Little: 0.24245389796155070172
+Tempo decorrido: 23700.000000 
+Ocupação: 0.833483
+E[N] = 4.312678
+E[W] = 0.943195
+Erro de Little: 0.40433352275384404351
+Tempo decorrido: 23800.000000 
+Ocupação: 0.833093
+E[N] = 4.304902
+E[W] = 1.533794
+Erro de Little: 3.36376795254272753510
+Tempo decorrido: 23900.000000 
+Ocupação: 0.833013
+E[N] = 4.301306
+E[W] = 0.840262
+Erro de Little: 0.09911302052459269873
+Tempo decorrido: 24000.000000 
+Ocupação: 0.833336
+E[N] = 4.313141
+E[W] = 0.828630
+Erro de Little: 0.16891400518821875210
+Tempo decorrido: 24100.000000 
+Ocupação: 0.833332
+E[N] = 4.310300
+E[W] = 0.919011
+Erro de Little: 0.28732793770845077574
+Tempo decorrido: 24200.000000 
+Ocupação: 0.833321
+E[N] = 4.304391
+E[W] = 1.226834
+Erro de Little: 1.83286288031593169734
+Tempo decorrido: 24300.000000 
+Ocupação: 0.833377
+E[N] = 4.303435
+E[W] = 1.192860
+Erro de Little: 1.66526956291588223991
+Tempo decorrido: 24400.000000 
+Ocupação: 0.833257
+E[N] = 4.299897
+E[W] = 0.849804
+Erro de Little: 0.04723910913265161327
+Tempo decorrido: 24500.000000 
+Ocupação: 0.832934
+E[N] = 4.291096
+E[W] = 0.957643
+Erro de Little: 0.49942560507491862154
+Tempo decorrido: 24600.000000 
+Ocupação: 0.832758
+E[N] = 4.289651
+E[W] = 0.660751
+Erro de Little: 0.98430907504387388229
+Tempo decorrido: 24700.000000 
+Ocupação: 0.832701
+E[N] = 4.285809
+E[W] = 0.871807
+Erro de Little: 0.07545262274919561918
+Tempo decorrido: 24800.000000 
+Ocupação: 0.832580
+E[N] = 4.283415
+E[W] = 0.793660
+Erro de Little: 0.31309649708233466825
+Tempo decorrido: 24900.000000 
+Ocupação: 0.832572
+E[N] = 4.284270
+E[W] = 0.870703
+Erro de Little: 0.07179670260184511932
+Tempo decorrido: 25000.000000 
+Ocupação: 0.832691
+E[N] = 4.295676
+E[W] = 1.111837
+Erro de Little: 1.26725646088422916336
+Tempo decorrido: 25100.000000 
+Ocupação: 0.832761
+E[N] = 4.293650
+E[W] = 0.924316
+Erro de Little: 0.33095787783709518237
+Tempo decorrido: 25200.000000 
+Ocupação: 0.832894
+E[N] = 4.299517
+E[W] = 1.048258
+Erro de Little: 0.94618132814375677242
+Tempo decorrido: 25300.000000 
+Ocupação: 0.833197
+E[N] = 4.305277
+E[W] = 0.869534
+Erro de Little: 0.04640202066786791590
+Tempo decorrido: 25400.000000 
+Ocupação: 0.833118
+E[N] = 4.302470
+E[W] = 0.855567
+Erro de Little: 0.02220092254812477961
+Tempo decorrido: 25500.000000 
+Ocupação: 0.832938
+E[N] = 4.296393
+E[W] = 0.855300
+Erro de Little: 0.01847410404836136166
+Tempo decorrido: 25600.000000 
+Ocupação: 0.833139
+E[N] = 4.311198
+E[W] = 0.606871
+Erro de Little: 1.27562726252822766781
+Tempo decorrido: 25700.000000 
+Ocupação: 0.833181
+E[N] = 4.307627
+E[W] = 0.678330
+Erro de Little: 0.91526326815856151597
+Tempo decorrido: 25800.000000 
+Ocupação: 0.833229
+E[N] = 4.307889
+E[W] = 0.919545
+Erro de Little: 0.29142218446858159098
+Tempo decorrido: 25900.000000 
+Ocupação: 0.833211
+E[N] = 4.308182
+E[W] = 1.428881
+Erro de Little: 2.83971965204788734383
+Tempo decorrido: 26000.000000 
+Ocupação: 0.833149
+E[N] = 4.306372
+E[W] = 0.991302
+Erro de Little: 0.65174661253254662086
+Tempo decorrido: 26100.000000 
+Ocupação: 0.833040
+E[N] = 4.300152
+E[W] = 0.964443
+Erro de Little: 0.52193327988537507878
+Tempo decorrido: 26200.000000 
+Ocupação: 0.833212
+E[N] = 4.303644
+E[W] = 0.899385
+Erro de Little: 0.19369450274616806240
+Tempo decorrido: 26300.000000 
+Ocupação: 0.832889
+E[N] = 4.297786
+E[W] = 0.593444
+Erro de Little: 1.33152888866185525885
+Tempo decorrido: 26400.000000 
+Ocupação: 0.832871
+E[N] = 4.292954
+E[W] = 0.655326
+Erro de Little: 1.01739116224438053138
+Tempo decorrido: 26500.000000 
+Ocupação: 0.833125
+E[N] = 4.306996
+E[W] = 0.608975
+Erro de Little: 1.26232327868552607342
+Tempo decorrido: 26600.000000 
+Ocupação: 0.833076
+E[N] = 4.302428
+E[W] = 0.950645
+Erro de Little: 0.45028037342070348359
+Tempo decorrido: 26700.000000 
+Ocupação: 0.833255
+E[N] = 4.306322
+E[W] = 1.449159
+Erro de Little: 2.94133933072359532446
+Tempo decorrido: 26800.000000 
+Ocupação: 0.833220
+E[N] = 4.302457
+E[W] = 0.789321
+Erro de Little: 0.35546942767321221268
+Tempo decorrido: 26900.000000 
+Ocupação: 0.833182
+E[N] = 4.304538
+E[W] = 0.409142
+Erro de Little: 2.25893595019985449213
+Tempo decorrido: 27000.000000 
+Ocupação: 0.833180
+E[N] = 4.308369
+E[W] = 0.827376
+Erro de Little: 0.17175061129823010475
+Tempo decorrido: 27100.000000 
+Ocupação: 0.832744
+E[N] = 4.300214
+E[W] = 0.747245
+Erro de Little: 0.56495273814504765042
+Tempo decorrido: 27200.000000 
+Ocupação: 0.832964
+E[N] = 4.302406
+E[W] = 1.043068
+Erro de Little: 0.91301390735026455303
+Tempo decorrido: 27300.000000 
+Ocupação: 0.832919
+E[N] = 4.297289
+E[W] = 0.920262
+Erro de Little: 0.30414783359377839389
+Tempo decorrido: 27400.000000 
+Ocupação: 0.833126
+E[N] = 4.300267
+E[W] = 0.816154
+Erro de Little: 0.21901926931882798044
+Tempo decorrido: 27500.000000 
+Ocupação: 0.833197
+E[N] = 4.298073
+E[W] = 0.779602
+Erro de Little: 0.39978459751297057423
+Tempo decorrido: 27600.000000 
+Ocupação: 0.833563
+E[N] = 4.305746
+E[W] = 0.757386
+Erro de Little: 0.51781622940034166547
+Tempo decorrido: 27700.000000 
+Ocupação: 0.833509
+E[N] = 4.301802
+E[W] = 1.029213
+Erro de Little: 0.84503066621165867645
+Tempo decorrido: 27800.000000 
+Ocupação: 0.833558
+E[N] = 4.299693
+E[W] = 0.779421
+Erro de Little: 0.40235945732436295685
+Tempo decorrido: 27900.000000 
+Ocupação: 0.833562
+E[N] = 4.297040
+E[W] = 1.230094
+Erro de Little: 1.85524698139514576667
+Tempo decorrido: 28000.000000 
+Ocupação: 0.833625
+E[N] = 4.295557
+E[W] = 0.814408
+Erro de Little: 0.22223467290131448948
+Tempo decorrido: 28100.000000 
+Ocupação: 0.833614
+E[N] = 4.297230
+E[W] = 1.204741
+Erro de Little: 1.72798232745291180379
+Tempo decorrido: 28200.000000 
+Ocupação: 0.833735
+E[N] = 4.298202
+E[W] = 0.811274
+Erro de Little: 0.24102199076858354942
+Tempo decorrido: 28300.000000 
+Ocupação: 0.833737
+E[N] = 4.296725
+E[W] = 0.958680
+Erro de Little: 0.49785626927484205595
+Tempo decorrido: 28400.000000 
+Ocupação: 0.833695
+E[N] = 4.294073
+E[W] = 1.088085
+Erro de Little: 1.14718268147851798489
+Tempo decorrido: 28500.000000 
+Ocupação: 0.833705
+E[N] = 4.292673
+E[W] = 0.800325
+Erro de Little: 0.28944030926387220859
+Tempo decorrido: 28600.000000 
+Ocupação: 0.833727
+E[N] = 4.291682
+E[W] = 0.796578
+Erro de Little: 0.30705833632222301333
+Tempo decorrido: 28700.000000 
+Ocupação: 0.833533
+E[N] = 4.286388
+E[W] = 0.818565
+Erro de Little: 0.19266476151357903035
+Tempo decorrido: 28800.000000 
+Ocupação: 0.833476
+E[N] = 4.285914
+E[W] = 1.012417
+Erro de Little: 0.77736380538337268575
+Tempo decorrido: 28900.000000 
+Ocupação: 0.833514
+E[N] = 4.283873
+E[W] = 0.516204
+Erro de Little: 1.70201360820845826183
+Tempo decorrido: 29000.000000 
+Ocupação: 0.833660
+E[N] = 4.285903
+E[W] = 1.340973
+Erro de Little: 2.42307621786885718507
+Tempo decorrido: 29100.000000 
+Ocupação: 0.833742
+E[N] = 4.290338
+E[W] = 0.828582
+Erro de Little: 0.14394852539500213595
+Tempo decorrido: 29200.000000 
+Ocupação: 0.833876
+E[N] = 4.296886
+E[W] = 0.976796
+Erro de Little: 0.59159304775361754025
+Tempo decorrido: 29300.000000 
+Ocupação: 0.834123
+E[N] = 4.302184
+E[W] = 0.852007
+Erro de Little: 0.03801677962809790756
+Tempo decorrido: 29400.000000 
+Ocupação: 0.834242
+E[N] = 4.306975
+E[W] = 0.876744
+Erro de Little: 0.08100929339977636090
+Tempo decorrido: 29500.000000 
+Ocupação: 0.834206
+E[N] = 4.306242
+E[W] = 0.936300
+Erro de Little: 0.38076425599279772882
+Tempo decorrido: 29600.000000 
+Ocupação: 0.834194
+E[N] = 4.309723
+E[W] = 1.377235
+Erro de Little: 2.58278282007018589184
+Tempo decorrido: 29700.000000 
+Ocupação: 0.834321
+E[N] = 4.309784
+E[W] = 1.020377
+Erro de Little: 0.79760084451238721925
+Tempo decorrido: 29800.000000 
+Ocupação: 0.834380
+E[N] = 4.308177
+E[W] = 0.869282
+Erro de Little: 0.04298686217398728360
+Tempo decorrido: 29900.000000 
+Ocupação: 0.834345
+E[N] = 4.303482
+E[W] = 0.849546
+Erro de Little: 0.05117430205105488739
+Tempo decorrido: 30000.000000 
+Ocupação: 0.834200
+E[N] = 4.299049
+E[W] = 0.997618
+Erro de Little: 0.69325691747223050498
+Tempo decorrido: 30100.000000 
+Ocupação: 0.834077
+E[N] = 4.293475
+E[W] = 0.807349
+Erro de Little: 0.25396757323658114558
+Tempo decorrido: 30200.000000 
+Ocupação: 0.834206
+E[N] = 4.301427
+E[W] = 1.031629
+Erro de Little: 0.86056431745366435138
+Tempo decorrido: 30300.000000 
+Ocupação: 0.834385
+E[N] = 4.303257
+E[W] = 0.754373
+Erro de Little: 0.52785648911837768082
+Tempo decorrido: 30400.000000 
+Ocupação: 0.834688
+E[N] = 4.313724
+E[W] = 0.743698
+Erro de Little: 0.59143993303177211374
+Tempo decorrido: 30500.000000 
+Ocupação: 0.834482
+E[N] = 4.309266
+E[W] = 0.681524
+Erro de Little: 0.89858516210583916362
+Tempo decorrido: 30600.000000 
+Ocupação: 0.834479
+E[N] = 4.306286
+E[W] = 0.929116
+Erro de Little: 0.34427638386897463363
+Tempo decorrido: 30700.000000 
+Ocupação: 0.834422
+E[N] = 4.303690
+E[W] = 1.494789
+Erro de Little: 3.17771661932259874561
+Tempo decorrido: 30800.000000 
+Ocupação: 0.834327
+E[N] = 4.298441
+E[W] = 0.765233
+Erro de Little: 0.46886549145809475192
+Tempo decorrido: 30900.000000 
+Ocupação: 0.834358
+E[N] = 4.297536
+E[W] = 0.817078
+Erro de Little: 0.20910257810729770966
+Tempo decorrido: 31000.000000 
+Ocupação: 0.834363
+E[N] = 4.298474
+E[W] = 1.062865
+Erro de Little: 1.02011486154002195548
+Tempo decorrido: 31100.000000 
+Ocupação: 0.834210
+E[N] = 4.296600
+E[W] = 0.750525
+Erro de Little: 0.54125320774226137743
+Tempo decorrido: 31200.000000 
+Ocupação: 0.834347
+E[N] = 4.297424
+E[W] = 0.913322
+Erro de Little: 0.27249004003831434062
+Tempo decorrido: 31300.000000 
+Ocupação: 0.834373
+E[N] = 4.297446
+E[W] = 0.983237
+Erro de Little: 0.62185797836809530992
+Tempo decorrido: 31400.000000 
+Ocupação: 0.834399
+E[N] = 4.297720
+E[W] = 0.970671
+Erro de Little: 0.55833371059008296555
+Tempo decorrido: 31500.000000 
+Ocupação: 0.834289
+E[N] = 4.294017
+E[W] = 0.901686
+Erro de Little: 0.21713470086171682283
+Tempo decorrido: 31600.000000 
+Ocupação: 0.834258
+E[N] = 4.293269
+E[W] = 0.732225
+Erro de Little: 0.62982689813877312801
+Tempo decorrido: 31700.000000 
+Ocupação: 0.834194
+E[N] = 4.293087
+E[W] = 1.019795
+Erro de Little: 0.80889039507483051494
+Tempo decorrido: 31800.000000 
+Ocupação: 0.834168
+E[N] = 4.300310
+E[W] = 1.429686
+Erro de Little: 2.85138489035746900413
+Tempo decorrido: 31900.000000 
+Ocupação: 0.834336
+E[N] = 4.297413
+E[W] = 0.903580
+Erro de Little: 0.22273129144996861584
+Tempo decorrido: 32000.000000 
+Ocupação: 0.834178
+E[N] = 4.292336
+E[W] = 1.333402
+Erro de Little: 2.37689008308349425391
+Tempo decorrido: 32100.000000 
+Ocupação: 0.834128
+E[N] = 4.294062
+E[W] = 0.863314
+Erro de Little: 0.02334265517097300346
+Tempo decorrido: 32200.000000 
+Ocupação: 0.834085
+E[N] = 4.290042
+E[W] = 1.823071
+Erro de Little: 4.82752291872798977579
+Tempo decorrido: 32300.000000 
+Ocupação: 0.834132
+E[N] = 4.289936
+E[W] = 0.615429
+Erro de Little: 1.21188315743506924704
+Tempo decorrido: 32400.000000 
+Ocupação: 0.834406
+E[N] = 4.291753
+E[W] = 0.611329
+Erro de Little: 1.23422776306543546809
+Tempo decorrido: 32500.000000 
+Ocupação: 0.834439
+E[N] = 4.290440
+E[W] = 0.781053
+Erro de Little: 0.38370226465763845880
+Tempo decorrido: 32600.000000 
+Ocupação: 0.834623
+E[N] = 4.293859
+E[W] = 0.835701
+Erro de Little: 0.11389096459532588312
+Tempo decorrido: 32700.000000 
+Ocupação: 0.834550
+E[N] = 4.290272
+E[W] = 1.312970
+Erro de Little: 2.27679606383025312510
+Tempo decorrido: 32800.000000 
+Ocupação: 0.834500
+E[N] = 4.289738
+E[W] = 0.854425
+Erro de Little: 0.01586448692852560072
+Tempo decorrido: 32900.000000 
+Ocupação: 0.834527
+E[N] = 4.289423
+E[W] = 0.751546
+Erro de Little: 0.53004604116869957764
+Tempo decorrido: 33000.000000 
+Ocupação: 0.834650
+E[N] = 4.294094
+E[W] = 1.092537
+Erro de Little: 1.17143713352690692631
+Tempo decorrido: 33100.000000 
+Ocupação: 0.834632
+E[N] = 4.290047
+E[W] = 0.866264
+Erro de Little: 0.04308042251417809609
+Tempo decorrido: 33200.000000 
+Ocupação: 0.834515
+E[N] = 4.287134
+E[W] = 0.874276
+Erro de Little: 0.08575448199554625006
+Tempo decorrido: 33300.000000 
+Ocupação: 0.834548
+E[N] = 4.284626
+E[W] = 1.061626
+Erro de Little: 1.02501533795509569558
+Tempo decorrido: 33400.000000 
+Ocupação: 0.834584
+E[N] = 4.282407
+E[W] = 1.229123
+Erro de Little: 1.86509110866016847297
+Tempo decorrido: 33500.000000 
+Ocupação: 0.834591
+E[N] = 4.279583
+E[W] = 0.848630
+Erro de Little: 0.03568238974335713465
+Tempo decorrido: 33600.000000 
+Ocupação: 0.834793
+E[N] = 4.280510
+E[W] = 0.920785
+Erro de Little: 0.32530715077571326077
+Tempo decorrido: 33700.000000 
+Ocupação: 0.834721
+E[N] = 4.279116
+E[W] = 0.820460
+Erro de Little: 0.17534731167443595723
+Tempo decorrido: 33800.000000 
+Ocupação: 0.834559
+E[N] = 4.275434
+E[W] = 1.118876
+Erro de Little: 1.31968081471803344584
+Tempo decorrido: 33900.000000 
+Ocupação: 0.834417
+E[N] = 4.274490
+E[W] = 1.042086
+Erro de Little: 0.93634604622133377205
+Tempo decorrido: 34000.000000 
+Ocupação: 0.834384
+E[N] = 4.275943
+E[W] = 1.582917
+Erro de Little: 3.63792164034520659754
+Tempo decorrido: 34100.000000 
+Ocupação: 0.834413
+E[N] = 4.275351
+E[W] = 0.833804
+Erro de Little: 0.10676980540160485589
+Tempo decorrido: 34200.000000 
+Ocupação: 0.834534
+E[N] = 4.275948
+E[W] = 0.952446
+Erro de Little: 0.48655942356444104036
+Tempo decorrido: 34300.000000 
+Ocupação: 0.834433
+E[N] = 4.273901
+E[W] = 0.972073
+Erro de Little: 0.58540746321186798440
+Tempo decorrido: 34400.000000 
+Ocupação: 0.834496
+E[N] = 4.271080
+E[W] = 1.169584
+Erro de Little: 1.57661795878981703112
+Tempo decorrido: 34500.000000 
+Ocupação: 0.834572
+E[N] = 4.270253
+E[W] = 1.236986
+Erro de Little: 1.91419612119572057907
+Tempo decorrido: 34600.000000 
+Ocupação: 0.834387
+E[N] = 4.266005
+E[W] = 0.971546
+Erro de Little: 0.59130654586171793596
+Tempo decorrido: 34700.000000 
+Ocupação: 0.834546
+E[N] = 4.267305
+E[W] = 0.647154
+Erro de Little: 1.03172161701569420345
+Tempo decorrido: 34800.000000 
+Ocupação: 0.834585
+E[N] = 4.266493
+E[W] = 1.377276
+Erro de Little: 2.62046456863027810158
+Tempo decorrido: 34900.000000 
+Ocupação: 0.834639
+E[N] = 4.264633
+E[W] = 0.698486
+Erro de Little: 0.77210365279463077925
+Tempo decorrido: 35000.000000 
+Ocupação: 0.834511
+E[N] = 4.262669
+E[W] = 0.731870
+Erro de Little: 0.60296454618842787454
+Tempo decorrido: 35100.000000 
+Ocupação: 0.834365
+E[N] = 4.258802
+E[W] = 1.250007
+Erro de Little: 1.99102720606183059004
+Tempo decorrido: 35200.000000 
+Ocupação: 0.834273
+E[N] = 4.257024
+E[W] = 0.892350
+Erro de Little: 0.20442406400759516316
+Tempo decorrido: 35300.000000 
+Ocupação: 0.834248
+E[N] = 4.254824
+E[W] = 0.846170
+Erro de Little: 0.02458804923746349402
+Tempo decorrido: 35400.000000 
+Ocupação: 0.834061
+E[N] = 4.251685
+E[W] = 0.949361
+Erro de Little: 0.49309953229286929144
+Tempo decorrido: 35500.000000 
+Ocupação: 0.833952
+E[N] = 4.252680
+E[W] = 0.631942
+Erro de Little: 1.09402842248581366746
+Tempo decorrido: 35600.000000 
+Ocupação: 0.833935
+E[N] = 4.252354
+E[W] = 0.866045
+Erro de Little: 0.07556808018277649808
+Tempo decorrido: 35700.000000 
+Ocupação: 0.833834
+E[N] = 4.247553
+E[W] = 0.610083
+Erro de Little: 1.19873167011988490671
+Tempo decorrido: 35800.000000 
+Ocupação: 0.833694
+E[N] = 4.243446
+E[W] = 0.729412
+Erro de Little: 0.59809496269494921705
+Tempo decorrido: 35900.000000 
+Ocupação: 0.833604
+E[N] = 4.240252
+E[W] = 0.832836
+Erro de Little: 0.07812921933701577615
+Tempo decorrido: 36000.000000 
+Ocupação: 0.833686
+E[N] = 4.237982
+E[W] = 1.027365
+Erro de Little: 0.89680582879304271415
+Tempo decorrido: 100.000000 
+Ocupação: 0.933112
+E[N] = 102.218020
+E[W] = 0.252038
+Erro de Little: 352.60675617927307712307
+Tempo decorrido: 200.000000 
+Ocupação: 0.939222
+E[N] = 62.925528
+E[W] = 0.254022
+Erro de Little: 166.90264259752467523867
+Tempo decorrido: 300.000000 
+Ocupação: 0.938496
+E[N] = 46.320895
+E[W] = 0.264867
+Erro de Little: 113.90704629612842779807
+Tempo decorrido: 400.000000 
+Ocupação: 0.922164
+E[N] = 37.328869
+E[W] = -0.086423
+Erro de Little: 76.63943236698244731997
+Tempo decorrido: 500.000000 
+Ocupação: 0.910314
+E[N] = 32.210872
+E[W] = 0.134524
+Erro de Little: 16.88130727686247922747
+Tempo decorrido: 600.000000 
+Ocupação: 0.925252
+E[N] = 31.852583
+E[W] = -0.044201
+Erro de Little: 45.32812159514911343194
+Tempo decorrido: 700.000000 
+Ocupação: 0.912011
+E[N] = 28.401571
+E[W] = 0.235556
+Erro de Little: 33.30135391657930199472
+Tempo decorrido: 800.000000 
+Ocupação: 0.917439
+E[N] = 26.688835
+E[W] = -0.040812
+Erro de Little: 36.06973632654889172500
+Tempo decorrido: 900.000000 
+Ocupação: 0.910649
+E[N] = 24.653581
+E[W] = 0.343513
+Erro de Little: 45.72110496906319099253
+Tempo decorrido: 1000.000000 
+Ocupação: 0.912972
+E[N] = 23.405208
+E[W] = 0.702951
+Erro de Little: 106.56842273610318727606
+Tempo decorrido: 1100.000000 
+Ocupação: 0.920090
+E[N] = 23.359035
+E[W] = 0.175909
+Erro de Little: 6.29318769710852876642
+Tempo decorrido: 1200.000000 
+Ocupação: 0.917631
+E[N] = 22.297114
+E[W] = 0.866927
+Erro de Little: 111.91984911394285973074
+Tempo decorrido: 1300.000000 
+Ocupação: 0.918548
+E[N] = 21.755565
+E[W] = 0.306838
+Erro de Little: 22.24432989470923871522
+Tempo decorrido: 1400.000000 
+Ocupação: 0.919791
+E[N] = 21.022289
+E[W] = 0.334837
+Erro de Little: 23.68828946195866791413
+Tempo decorrido: 1500.000000 
+Ocupação: 0.914241
+E[N] = 20.199488
+E[W] = -0.171720
+Erro de Little: 41.65704710786815923029
+Tempo decorrido: 1600.000000 
+Ocupação: 0.912232
+E[N] = 19.518272
+E[W] = 0.530648
+Erro de Little: 42.80317290328304835612
+Tempo decorrido: 1700.000000 
+Ocupação: 0.912052
+E[N] = 18.884407
+E[W] = 0.325462
+Erro de Little: 17.19627490603686226223
+Tempo decorrido: 1800.000000 
+Ocupação: 0.912562
+E[N] = 18.580295
+E[W] = -0.091974
+Erro de Little: 28.23645799921745691563
+Tempo decorrido: 1900.000000 
+Ocupação: 0.904168
+E[N] = 17.953916
+E[W] = 0.621358
+Erro de Little: 43.98626162627375890679
+Tempo decorrido: 2000.000000 
+Ocupação: 0.903454
+E[N] = 17.561135
+E[W] = 0.459859
+Erro de Little: 26.10330834089356599748
+Tempo decorrido: 2100.000000 
+Ocupação: 0.906278
+E[N] = 17.713644
+E[W] = 0.108360
+Erro de Little: 7.88826075845714136392
+Tempo decorrido: 2200.000000 
+Ocupação: 0.907927
+E[N] = 17.595004
+E[W] = 0.170249
+Erro de Little: 2.81948368861848841505
+Tempo decorrido: 2300.000000 
+Ocupação: 0.907396
+E[N] = 17.312033
+E[W] = 0.233281
+Erro de Little: 2.10459838216141292833
+Tempo decorrido: 2400.000000 
+Ocupação: 0.911109
+E[N] = 17.446314
+E[W] = 0.401429
+Erro de Little: 14.65939046736567163975
+Tempo decorrido: 2500.000000 
+Ocupação: 0.912389
+E[N] = 17.336815
+E[W] = 0.302388
+Erro de Little: 5.94361438503055694582
+Tempo decorrido: 2600.000000 
+Ocupação: 0.915600
+E[N] = 17.365853
+E[W] = 0.326220
+Erro de Little: 6.85019371522018971632
+Tempo decorrido: 2700.000000 
+Ocupação: 0.916695
+E[N] = 17.515159
+E[W] = 0.036646
+Erro de Little: 14.88887827199535962563
+Tempo decorrido: 2800.000000 
+Ocupação: 0.916191
+E[N] = 17.417502
+E[W] = 0.538250
+Erro de Little: 19.87470445048133171895
+Tempo decorrido: 2900.000000 
+Ocupação: 0.915185
+E[N] = 17.168883
+E[W] = 0.278914
+Erro de Little: 1.53540197472280226521
+Tempo decorrido: 3000.000000 
+Ocupação: 0.914813
+E[N] = 16.932702
+E[W] = 0.181693
+Erro de Little: 5.12512500951643801272
+Tempo decorrido: 3100.000000 
+Ocupação: 0.911842
+E[N] = 16.642616
+E[W] = 0.002311
+Erro de Little: 16.49691856249378574262
+Tempo decorrido: 3200.000000 
+Ocupação: 0.910739
+E[N] = 16.550415
+E[W] = 0.324813
+Erro de Little: 3.34121173994092401927
+Tempo decorrido: 3300.000000 
+Ocupação: 0.909915
+E[N] = 16.431692
+E[W] = 0.230796
+Erro de Little: 2.69229705257220963688
+Tempo decorrido: 3400.000000 
+Ocupação: 0.909878
+E[N] = 16.218313
+E[W] = 0.262157
+Erro de Little: 1.03472377489383049465
+Tempo decorrido: 3500.000000 
+Ocupação: 0.909693
+E[N] = 16.038018
+E[W] = 0.548232
+Erro de Little: 14.88550130567949736360
+Tempo decorrido: 3600.000000 
+Ocupação: 0.908002
+E[N] = 15.792799
+E[W] = 0.265923
+Erro de Little: 1.17549852060116322150
+Tempo decorrido: 3700.000000 
+Ocupação: 0.906771
+E[N] = 15.651496
+E[W] = 0.193930
+Erro de Little: 5.25235830060711705869
+Tempo decorrido: 3800.000000 
+Ocupação: 0.908963
+E[N] = 15.933768
+E[W] = 0.440002
+Erro de Little: 7.09802137887531259253
+Tempo decorrido: 3900.000000 
+Ocupação: 0.907198
+E[N] = 15.779429
+E[W] = 0.132859
+Erro de Little: 8.98658563468855220435
+Tempo decorrido: 4000.000000 
+Ocupação: 0.907592
+E[N] = 15.687764
+E[W] = 0.080236
+Erro de Little: 11.67781305273095782127
+Tempo decorrido: 4100.000000 
+Ocupação: 0.907358
+E[N] = 15.604221
+E[W] = 1.139044
+Erro de Little: 40.07482868379834428652
+Tempo decorrido: 4200.000000 
+Ocupação: 0.907107
+E[N] = 15.501873
+E[W] = -0.141448
+Erro de Little: 22.26842575994498218961
+Tempo decorrido: 4300.000000 
+Ocupação: 0.909245
+E[N] = 15.804177
+E[W] = 0.247430
+Erro de Little: 4.21208657720978862926
+Tempo decorrido: 4400.000000 
+Ocupação: 0.909195
+E[N] = 15.798147
+E[W] = -0.117222
+Erro de Little: 21.17843437347527313364
+Tempo decorrido: 4500.000000 
+Ocupação: 0.908731
+E[N] = 15.678098
+E[W] = 0.437942
+Erro de Little: 4.02295694087511357395
+Tempo decorrido: 4600.000000 
+Ocupação: 0.906839
+E[N] = 15.510141
+E[W] = 0.380356
+Erro de Little: 1.26796397248330094953
+Tempo decorrido: 4700.000000 
+Ocupação: 0.906350
+E[N] = 15.423854
+E[W] = 0.223755
+Erro de Little: 5.74085601599143124929
+Tempo decorrido: 4800.000000 
+Ocupação: 0.905278
+E[N] = 15.317516
+E[W] = 0.255285
+Erro de Little: 4.47351954453499089936
+Tempo decorrido: 4900.000000 
+Ocupação: 0.905980
+E[N] = 15.337232
+E[W] = 0.876323
+Erro de Little: 21.21055426396206655681
+Tempo decorrido: 5000.000000 
+Ocupação: 0.905636
+E[N] = 15.310191
+E[W] = 0.594423
+Erro de Little: 9.04822280731724681857
+Tempo decorrido: 5100.000000 
+Ocupação: 0.906308
+E[N] = 15.186685
+E[W] = 0.421064
+Erro de Little: 1.77228615853980109307
+Tempo decorrido: 5200.000000 
+Ocupação: 0.905813
+E[N] = 15.086436
+E[W] = 0.226841
+Erro de Little: 6.10436894241364669256
+Tempo decorrido: 5300.000000 
+Ocupação: 0.906316
+E[N] = 15.005324
+E[W] = 0.375804
+Erro de Little: 0.36946003466066912324
+Tempo decorrido: 5400.000000 
+Ocupação: 0.904921
+E[N] = 14.877027
+E[W] = 0.444419
+Erro de Little: 2.15215732561671302392
+Tempo decorrido: 5500.000000 
+Ocupação: 0.904494
+E[N] = 14.804682
+E[W] = -0.230751
+Erro de Little: 23.50759009282514355732
+Tempo decorrido: 5600.000000 
+Ocupação: 0.905000
+E[N] = 14.739358
+E[W] = 0.215005
+Erro de Little: 6.75461060083445552493
+Tempo decorrido: 5700.000000 
+Ocupação: 0.904664
+E[N] = 14.636062
+E[W] = 0.189005
+Erro de Little: 7.72333230884101329394
+Tempo decorrido: 5800.000000 
+Ocupação: 0.905458
+E[N] = 14.613083
+E[W] = 0.463802
+Erro de Little: 2.09950884369273360619
+Tempo decorrido: 5900.000000 
+Ocupação: 0.905131
+E[N] = 14.500056
+E[W] = 1.124307
+Erro de Little: 25.42119130380425673366
+Tempo decorrido: 6000.000000 
+Ocupação: 0.904465
+E[N] = 14.436932
+E[W] = 0.417019
+Erro de Little: 0.15799743238114416499
+Tempo decorrido: 6100.000000 
+Ocupação: 0.904863
+E[N] = 14.471686
+E[W] = 0.466484
+Erro de Little: 1.62448936519410125356
+Tempo decorrido: 6200.000000 
+Ocupação: 0.905232
+E[N] = 14.438805
+E[W] = 0.298937
+Erro de Little: 4.26498562654627377810
+Tempo decorrido: 6300.000000 
+Ocupação: 0.905110
+E[N] = 14.395906
+E[W] = 0.520097
+Erro de Little: 3.06479613682288487553
+Tempo decorrido: 6400.000000 
+Ocupação: 0.904615
+E[N] = 14.358022
+E[W] = 0.143630
+Erro de Little: 9.60084195300812481833
+Tempo decorrido: 6500.000000 
+Ocupação: 0.903925
+E[N] = 14.291330
+E[W] = 0.362989
+Erro de Little: 2.42674123152191256736
+Tempo decorrido: 6600.000000 
+Ocupação: 0.904833
+E[N] = 14.316682
+E[W] = 0.516740
+Erro de Little: 2.35840676376973767958
+Tempo decorrido: 6700.000000 
+Ocupação: 0.904395
+E[N] = 14.255363
+E[W] = 1.103092
+Erro de Little: 20.89005636983310409960
+Tempo decorrido: 6800.000000 
+Ocupação: 0.903654
+E[N] = 14.153403
+E[W] = 0.506501
+Erro de Little: 1.78173366513869169125
+Tempo decorrido: 6900.000000 
+Ocupação: 0.904591
+E[N] = 14.237399
+E[W] = 0.344510
+Erro de Little: 3.52868075340911602211
+Tempo decorrido: 7000.000000 
+Ocupação: 0.904219
+E[N] = 14.237586
+E[W] = 0.182262
+Erro de Little: 8.64016753389739911029
+Tempo decorrido: 7100.000000 
+Ocupação: 0.905161
+E[N] = 14.250389
+E[W] = 0.556569
+Erro de Little: 2.63822997680443016577
+Tempo decorrido: 7200.000000 
+Ocupação: 0.904268
+E[N] = 14.183413
+E[W] = 0.856150
+Erro de Little: 11.49042242797957591449
+Tempo decorrido: 7300.000000 
+Ocupação: 0.903334
+E[N] = 14.098797
+E[W] = 0.613964
+Erro de Little: 4.10007870245819461275
+Tempo decorrido: 7400.000000 
+Ocupação: 0.903731
+E[N] = 14.082510
+E[W] = 0.357971
+Erro de Little: 3.58990884457643844030
+Tempo decorrido: 7500.000000 
+Ocupação: 0.903742
+E[N] = 14.025530
+E[W] = 0.544823
+Erro de Little: 1.76722094516448180457
+Tempo decorrido: 7600.000000 
+Ocupação: 0.903368
+E[N] = 13.980615
+E[W] = 0.806650
+Erro de Little: 9.14683277007192074848
+Tempo decorrido: 7700.000000 
+Ocupação: 0.903545
+E[N] = 13.978449
+E[W] = 0.652295
+Erro de Little: 4.52386499731551516845
+Tempo decorrido: 7800.000000 
+Ocupação: 0.903164
+E[N] = 13.920373
+E[W] = 0.615653
+Erro de Little: 3.35787575079974054404
+Tempo decorrido: 7900.000000 
+Ocupação: 0.902880
+E[N] = 13.846910
+E[W] = -0.243389
+Erro de Little: 20.60586316527468753179
+Tempo decorrido: 8000.000000 
+Ocupação: 0.902872
+E[N] = 13.795414
+E[W] = 0.421338
+Erro de Little: 2.21462499669458878770
+Tempo decorrido: 8100.000000 
+Ocupação: 0.902506
+E[N] = 13.794082
+E[W] = 0.747553
+Erro de Little: 6.54471502387089998365
+Tempo decorrido: 8200.000000 
+Ocupação: 0.903228
+E[N] = 13.816559
+E[W] = 0.613848
+Erro de Little: 2.71979042983629604180
+Tempo decorrido: 8300.000000 
+Ocupação: 0.902964
+E[N] = 13.796168
+E[W] = 0.476480
+Erro de Little: 1.08670826137274900702
+Tempo decorrido: 8400.000000 
+Ocupação: 0.902805
+E[N] = 13.751504
+E[W] = 0.846652
+Erro de Little: 8.61171106343609160660
+Tempo decorrido: 8500.000000 
+Ocupação: 0.903469
+E[N] = 13.761121
+E[W] = 0.545155
+Erro de Little: 0.50311482931157058829
+Tempo decorrido: 8600.000000 
+Ocupação: 0.903995
+E[N] = 13.730313
+E[W] = 1.167087
+Erro de Little: 16.52050546714477974319
+Tempo decorrido: 8700.000000 
+Ocupação: 0.904111
+E[N] = 13.685595
+E[W] = 0.572334
+Erro de Little: 1.01101348769556942386
+Tempo decorrido: 8800.000000 
+Ocupação: 0.904284
+E[N] = 13.655651
+E[W] = -0.205895
+Erro de Little: 18.89494066515107562054
+Tempo decorrido: 8900.000000 
+Ocupação: 0.904543
+E[N] = 13.615288
+E[W] = 0.348755
+Erro de Little: 4.82167326372570315129
+Tempo decorrido: 9000.000000 
+Ocupação: 0.904026
+E[N] = 13.548248
+E[W] = 0.485936
+Erro de Little: 1.40528798303498980715
+Tempo decorrido: 9100.000000 
+Ocupação: 0.903751
+E[N] = 13.493145
+E[W] = 0.428133
+Erro de Little: 2.88865200735466132187
+Tempo decorrido: 9200.000000 
+Ocupação: 0.903967
+E[N] = 13.483023
+E[W] = 0.726291
+Erro de Little: 4.35260781610523395102
+Tempo decorrido: 9300.000000 
+Ocupação: 0.902659
+E[N] = 13.421947
+E[W] = 0.333468
+Erro de Little: 5.30519711658481440963
+Tempo decorrido: 9400.000000 
+Ocupação: 0.903439
+E[N] = 13.455592
+E[W] = 1.035971
+Erro de Little: 11.55085471208561997969
+Tempo decorrido: 9500.000000 
+Ocupação: 0.902622
+E[N] = 13.400389
+E[W] = 0.759214
+Erro de Little: 4.76999224645912534015
+Tempo decorrido: 9600.000000 
+Ocupação: 0.902241
+E[N] = 13.350060
+E[W] = 0.489814
+Erro de Little: 1.72560420645557854868
+Tempo decorrido: 9700.000000 
+Ocupação: 0.901626
+E[N] = 13.324894
+E[W] = 1.049982
+Erro de Little: 11.39185650529020854549
+Tempo decorrido: 9800.000000 
+Ocupação: 0.901887
+E[N] = 13.377918
+E[W] = 0.369199
+Erro de Little: 4.75742959849500124392
+Tempo decorrido: 9900.000000 
+Ocupação: 0.901857
+E[N] = 13.351169
+E[W] = 0.765645
+Erro de Little: 4.38391159594892165785
+Tempo decorrido: 10000.000000 
+Ocupação: 0.901714
+E[N] = 13.312731
+E[W] = 0.064348
+Erro de Little: 11.83385490029825781733
+Tempo decorrido: 10100.000000 
+Ocupação: 0.901595
+E[N] = 13.266470
+E[W] = 0.602512
+Erro de Little: 0.47399017168008938938
+Tempo decorrido: 10200.000000 
+Ocupação: 0.901879
+E[N] = 13.489230
+E[W] = 0.515513
+Erro de Little: 1.82232957707025278182
+Tempo decorrido: 10300.000000 
+Ocupação: 0.901915
+E[N] = 13.517287
+E[W] = 1.384657
+Erro de Little: 17.58241952994134038590
+Tempo decorrido: 10400.000000 
+Ocupação: 0.902374
+E[N] = 13.668026
+E[W] = 0.818493
+Erro de Little: 4.57931093541671607738
+Tempo decorrido: 10500.000000 
+Ocupação: 0.901740
+E[N] = 13.608391
+E[W] = 0.769860
+Erro de Little: 3.42529475648517767183
+Tempo decorrido: 10600.000000 
+Ocupação: 0.900662
+E[N] = 13.546295
+E[W] = 0.474979
+Erro de Little: 3.11566385577868487644
+Tempo decorrido: 10700.000000 
+Ocupação: 0.901447
+E[N] = 13.701665
+E[W] = 0.629177
+Erro de Little: 0.01719036485730107700
+Tempo decorrido: 10800.000000 
+Ocupação: 0.901670
+E[N] = 13.681182
+E[W] = 0.915699
+Erro de Little: 6.14446807427689556391
+Tempo decorrido: 10900.000000 
+Ocupação: 0.901562
+E[N] = 13.657959
+E[W] = 0.887319
+Erro de Little: 5.41611354970106795292
+Tempo decorrido: 11000.000000 
+Ocupação: 0.901416
+E[N] = 13.620591
+E[W] = 0.401821
+Erro de Little: 5.04358656801606564102
+Tempo decorrido: 11100.000000 
+Ocupação: 0.902303
+E[N] = 13.869000
+E[W] = 0.832425
+Erro de Little: 3.77943794225075713200
+Tempo decorrido: 11200.000000 
+Ocupação: 0.903030
+E[N] = 14.003016
+E[W] = 0.684528
+Erro de Little: 0.41260624654786681731
+Tempo decorrido: 11300.000000 
+Ocupação: 0.903888
+E[N] = 14.080122
+E[W] = 0.078453
+Erro de Little: 12.43875970740812952897
+Tempo decorrido: 11400.000000 
+Ocupação: 0.903848
+E[N] = 14.027137
+E[W] = 0.796362
+Erro de Little: 2.52121652634784432223
+Tempo decorrido: 11500.000000 
+Ocupação: 0.903707
+E[N] = 13.992828
+E[W] = 0.823535
+Erro de Little: 3.00725157812984100758
+Tempo decorrido: 11600.000000 
+Ocupação: 0.903538
+E[N] = 13.972639
+E[W] = 0.824372
+Erro de Little: 2.93294869874325492276
+Tempo decorrido: 11700.000000 
+Ocupação: 0.903781
+E[N] = 13.978289
+E[W] = 0.509603
+Erro de Little: 3.59597270946824920657
+Tempo decorrido: 11800.000000 
+Ocupação: 0.903566
+E[N] = 13.930507
+E[W] = 1.351861
+Erro de Little: 13.43073497736423860260
+Tempo decorrido: 11900.000000 
+Ocupação: 0.903505
+E[N] = 13.888253
+E[W] = 0.106738
+Erro de Little: 11.74134726412515306038
+Tempo decorrido: 12000.000000 
+Ocupação: 0.903454
+E[N] = 13.856691
+E[W] = 0.508916
+Erro de Little: 3.68469506965936410836
+Tempo decorrido: 12100.000000 
+Ocupação: 0.903702
+E[N] = 13.893834
+E[W] = 0.570391
+Erro de Little: 2.56339295793909549559
+Tempo decorrido: 12200.000000 
+Ocupação: 0.903782
+E[N] = 13.860544
+E[W] = 0.927107
+Erro de Little: 4.44345150113194442554
+Tempo decorrido: 12300.000000 
+Ocupação: 0.904063
+E[N] = 13.891893
+E[W] = 0.710102
+Erro de Little: 0.04251419054836524936
+Tempo decorrido: 12400.000000 
+Ocupação: 0.903903
+E[N] = 13.842085
+E[W] = 1.207542
+Erro de Little: 9.71032198357945652845
+Tempo decorrido: 12500.000000 
+Ocupação: 0.904115
+E[N] = 13.829477
+E[W] = 0.829736
+Erro de Little: 2.25856907771456505429
+Tempo decorrido: 12600.000000 
+Ocupação: 0.903940
+E[N] = 13.788670
+E[W] = 0.547862
+Erro de Little: 3.22862995342003600285
+Tempo decorrido: 12700.000000 
+Ocupação: 0.903856
+E[N] = 13.747521
+E[W] = 0.976195
+Erro de Little: 4.95850277387501670034
+Tempo decorrido: 12800.000000 
+Ocupação: 0.903984
+E[N] = 13.713646
+E[W] = 0.914801
+Erro de Little: 3.71739441965171657500
+Tempo decorrido: 12900.000000 
+Ocupação: 0.903159
+E[N] = 13.662080
+E[W] = 0.465597
+Erro de Little: 4.84286381436156787572
+Tempo decorrido: 13000.000000 
+Ocupação: 0.903021
+E[N] = 13.629518
+E[W] = 0.731260
+Erro de Little: 0.14341026674622803228
+Tempo decorrido: 13100.000000 
+Ocupação: 0.902981
+E[N] = 13.630483
+E[W] = 0.563342
+Erro de Little: 3.08079213924597006269
+Tempo decorrido: 13200.000000 
+Ocupação: 0.902757
+E[N] = 13.608847
+E[W] = 1.150353
+Erro de Little: 7.81071405679350583284
+Tempo decorrido: 13300.000000 
+Ocupação: 0.903037
+E[N] = 13.588991
+E[W] = 0.441619
+Erro de Little: 5.41064892545423070658
+Tempo decorrido: 13400.000000 
+Ocupação: 0.903242
+E[N] = 13.582541
+E[W] = 0.892593
+Erro de Little: 2.85978012724321040139
+Tempo decorrido: 13500.000000 
+Ocupação: 0.903154
+E[N] = 13.546581
+E[W] = 0.463535
+Erro de Little: 5.05414165080210864289
+Tempo decorrido: 13600.000000 
+Ocupação: 0.903000
+E[N] = 13.522271
+E[W] = 0.727559
+Erro de Little: 0.26336180926014129966
+Tempo decorrido: 13700.000000 
+Ocupação: 0.903339
+E[N] = 13.508328
+E[W] = 0.482972
+Erro de Little: 4.75315420981294067815
+Tempo decorrido: 13800.000000 
+Ocupação: 0.903594
+E[N] = 13.517000
+E[W] = 0.595215
+Erro de Little: 2.78497187899662179689
+Tempo decorrido: 13900.000000 
+Ocupação: 0.903380
+E[N] = 13.482896
+E[W] = 1.005177
+Erro de Little: 4.54701660329422097107
+Tempo decorrido: 14000.000000 
+Ocupação: 0.903325
+E[N] = 13.473675
+E[W] = 0.940498
+Erro de Little: 3.30928365544545499688
+Tempo decorrido: 14100.000000 
+Ocupação: 0.903656
+E[N] = 13.510535
+E[W] = 0.839337
+Erro de Little: 1.39040961370798932251
+Tempo decorrido: 14200.000000 
+Ocupação: 0.903406
+E[N] = 13.478630
+E[W] = 0.748737
+Erro de Little: 0.25330120920116172556
+Tempo decorrido: 14300.000000 
+Ocupação: 0.903353
+E[N] = 13.450756
+E[W] = 0.935654
+Erro de Little: 2.99229805753322075645
+Tempo decorrido: 14400.000000 
+Ocupação: 0.903730
+E[N] = 13.452410
+E[W] = 0.665149
+Erro de Little: 1.82051207067392795125
+Tempo decorrido: 14500.000000 
+Ocupação: 0.903624
+E[N] = 13.433430
+E[W] = 0.762839
+Erro de Little: 0.15978524755523437761
+Tempo decorrido: 14600.000000 
+Ocupação: 0.903828
+E[N] = 13.405347
+E[W] = 0.437420
+Erro de Little: 5.83094832204283264332
+Tempo decorrido: 14700.000000 
+Ocupação: 0.903913
+E[N] = 13.411194
+E[W] = 0.641609
+Erro de Little: 2.35500264644368151323
+Tempo decorrido: 14800.000000 
+Ocupação: 0.903854
+E[N] = 13.402492
+E[W] = 0.694751
+Erro de Little: 1.48810101128973748530
+Tempo decorrido: 14900.000000 
+Ocupação: 0.904500
+E[N] = 13.503173
+E[W] = 0.800857
+Erro de Little: 0.16720670076405497184
+Tempo decorrido: 15000.000000 
+Ocupação: 0.904204
+E[N] = 13.480043
+E[W] = 0.999084
+Erro de Little: 3.49276170887379144858
+Tempo decorrido: 15100.000000 
+Ocupação: 0.904651
+E[N] = 13.553391
+E[W] = 0.884475
+Erro de Little: 1.40338261090176352752
+Tempo decorrido: 15200.000000 
+Ocupação: 0.905115
+E[N] = 13.581087
+E[W] = 0.886290
+Erro de Little: 1.33851006567968333627
+Tempo decorrido: 15300.000000 
+Ocupação: 0.905227
+E[N] = 13.575916
+E[W] = 0.856270
+Erro de Little: 0.77102654861350394810
+Tempo decorrido: 15400.000000 
+Ocupação: 0.905387
+E[N] = 13.571840
+E[W] = 0.248309
+Erro de Little: 9.43012399007528046013
+Tempo decorrido: 15500.000000 
+Ocupação: 0.905640
+E[N] = 13.563380
+E[W] = 1.174019
+Erro de Little: 5.93129157234897874673
+Tempo decorrido: 15600.000000 
+Ocupação: 0.905289
+E[N] = 13.546899
+E[W] = 1.045415
+Erro de Little: 3.73237605830223095893
+Tempo decorrido: 15700.000000 
+Ocupação: 0.905295
+E[N] = 13.561098
+E[W] = 0.825123
+Erro de Little: 0.01690627735929695064
+Tempo decorrido: 15800.000000 
+Ocupação: 0.905529
+E[N] = 13.560671
+E[W] = 0.717106
+Erro de Little: 1.81160881139045493171
+Tempo decorrido: 15900.000000 
+Ocupação: 0.905712
+E[N] = 13.541626
+E[W] = 0.520313
+Erro de Little: 5.05455638524295380876
+Tempo decorrido: 16000.000000 
+Ocupação: 0.905701
+E[N] = 13.534412
+E[W] = 0.414179
+Erro de Little: 6.80727109779952055391
+Tempo decorrido: 16100.000000 
+Ocupação: 0.906127
+E[N] = 13.569677
+E[W] = 0.265826
+Erro de Little: 9.27022103558605437001
+Tempo decorrido: 16200.000000 
+Ocupação: 0.906235
+E[N] = 13.552842
+E[W] = 0.786030
+Erro de Little: 0.89440159415923226049
+Tempo decorrido: 16300.000000 
+Ocupação: 0.906135
+E[N] = 13.549728
+E[W] = 0.500574
+Erro de Little: 5.52215427178135342956
+Tempo decorrido: 16400.000000 
+Ocupação: 0.906575
+E[N] = 13.552337
+E[W] = 1.135786
+Erro de Little: 4.58773916960884164951
+Tempo decorrido: 16500.000000 
+Ocupação: 0.906366
+E[N] = 13.535009
+E[W] = 0.907569
+Erro de Little: 0.89886257555459714297
+Tempo decorrido: 16600.000000 
+Ocupação: 0.906017
+E[N] = 13.506591
+E[W] = 0.415817
+Erro de Little: 6.92060014485356234104
+Tempo decorrido: 16700.000000 
+Ocupação: 0.905694
+E[N] = 13.477406
+E[W] = 2.153742
+Erro de Little: 20.49155857364596045045
+Tempo decorrido: 16800.000000 
+Ocupação: 0.905877
+E[N] = 13.526347
+E[W] = 1.111180
+Erro de Little: 3.93198748060096292534
+Tempo decorrido: 16900.000000 
+Ocupação: 0.905350
+E[N] = 13.490486
+E[W] = 1.160478
+Erro de Little: 4.66669341320178077126
+Tempo decorrido: 17000.000000 
+Ocupação: 0.904806
+E[N] = 13.452221
+E[W] = 0.870806
+Erro de Little: 0.11725032822322312143
+Tempo decorrido: 17100.000000 
+Ocupação: 0.904314
+E[N] = 13.418160
+E[W] = 0.691634
+Erro de Little: 2.68479128635324393315
+Tempo decorrido: 17200.000000 
+Ocupação: 0.904188
+E[N] = 13.407907
+E[W] = 1.678246
+Erro de Little: 12.53197658945692083421
+Tempo decorrido: 17300.000000 
+Ocupação: 0.904367
+E[N] = 13.388435
+E[W] = 1.145648
+Erro de Little: 4.25131398987107367304
+Tempo decorrido: 17400.000000 
+Ocupação: 0.904400
+E[N] = 13.387531
+E[W] = 1.824782
+Erro de Little: 14.59713173979075229170
+Tempo decorrido: 17500.000000 
+Ocupação: 0.904373
+E[N] = 13.367673
+E[W] = 1.371190
+Erro de Little: 7.57933844092966069184
+Tempo decorrido: 17600.000000 
+Ocupação: 0.904289
+E[N] = 13.355057
+E[W] = 1.648995
+Erro de Little: 11.73958004219139716895
+Tempo decorrido: 17700.000000 
+Ocupação: 0.904557
+E[N] = 13.342661
+E[W] = 1.091514
+Erro de Little: 3.20754929905907104626
+Tempo decorrido: 17800.000000 
+Ocupação: 0.904978
+E[N] = 13.448095
+E[W] = 1.391535
+Erro de Little: 7.57266277502116302855
+Tempo decorrido: 17900.000000 
+Ocupação: 0.905084
+E[N] = 13.435731
+E[W] = 0.866086
+Erro de Little: 0.40163036416191744138
+Tempo decorrido: 18000.000000 
+Ocupação: 0.904676
+E[N] = 13.405266
+E[W] = 1.107034
+Erro de Little: 3.19268478367339447743
+Tempo decorrido: 18100.000000 
+Ocupação: 0.904753
+E[N] = 13.439146
+E[W] = 1.119436
+Erro de Little: 3.28049068258595255543
+Tempo decorrido: 18200.000000 
+Ocupação: 0.905094
+E[N] = 13.448399
+E[W] = 0.777020
+Erro de Little: 1.88532716589638837945
+Tempo decorrido: 18300.000000 
+Ocupação: 0.905234
+E[N] = 13.444618
+E[W] = 1.272715
+Erro de Little: 5.42449462089000711273
+Tempo decorrido: 18400.000000 
+Ocupação: 0.905327
+E[N] = 13.442176
+E[W] = 0.845522
+Erro de Little: 0.95189192192691507444
+Tempo decorrido: 18500.000000 
+Ocupação: 0.905007
+E[N] = 13.413855
+E[W] = 0.819065
+Erro de Little: 1.35836006966749422986
+Tempo decorrido: 18600.000000 
+Ocupação: 0.904913
+E[N] = 13.403682
+E[W] = 0.923767
+Erro de Little: 0.14312250902124645791
+Tempo decorrido: 18700.000000 
+Ocupação: 0.904783
+E[N] = 13.383594
+E[W] = 1.545686
+Erro de Little: 9.20319129148136383378
+Tempo decorrido: 18800.000000 
+Ocupação: 0.904750
+E[N] = 13.365778
+E[W] = 0.879335
+Erro de Little: 0.56153552331653600049
+Tempo decorrido: 18900.000000 
+Ocupação: 0.904611
+E[N] = 13.350623
+E[W] = 0.215515
+Erro de Little: 10.22342733782372192763
+Tempo decorrido: 19000.000000 
+Ocupação: 0.904758
+E[N] = 13.364558
+E[W] = 0.841624
+Erro de Little: 1.19368434329362393953
+Tempo decorrido: 19100.000000 
+Ocupação: 0.904637
+E[N] = 13.344670
+E[W] = 0.895314
+Erro de Little: 0.44183862861579115133
+Tempo decorrido: 19200.000000 
+Ocupação: 0.904507
+E[N] = 13.317489
+E[W] = 1.404313
+Erro de Little: 6.85288507197920360170
+Tempo decorrido: 19300.000000 
+Ocupação: 0.904740
+E[N] = 13.343795
+E[W] = 1.132397
+Erro de Little: 2.86744354348448382552
+Tempo decorrido: 19400.000000 
+Ocupação: 0.905171
+E[N] = 13.418767
+E[W] = 0.926355
+Erro de Little: 0.19908297128116636543
+Tempo decorrido: 19500.000000 
+Ocupação: 0.905658
+E[N] = 13.608481
+E[W] = 1.274656
+Erro de Little: 4.52423049358675477549
+Tempo decorrido: 19600.000000 
+Ocupação: 0.905698
+E[N] = 13.633628
+E[W] = 1.066931
+Erro de Little: 1.49314745006775595471
+Tempo decorrido: 19700.000000 
+Ocupação: 0.905692
+E[N] = 13.626066
+E[W] = 1.397649
+Erro de Little: 6.12506538233432173968
+Tempo decorrido: 19800.000000 
+Ocupação: 0.905710
+E[N] = 13.628475
+E[W] = 0.939394
+Erro de Little: 0.39678471083315969281
+Tempo decorrido: 19900.000000 
+Ocupação: 0.905959
+E[N] = 13.634909
+E[W] = 0.738706
+Erro de Little: 3.26260397318799100219
+Tempo decorrido: 20000.000000 
+Ocupação: 0.905646
+E[N] = 13.639117
+E[W] = 1.005306
+Erro de Little: 0.43031816238624820414
+Tempo decorrido: 20100.000000 
+Ocupação: 0.905581
+E[N] = 13.646921
+E[W] = 1.336310
+Erro de Little: 4.99453456266529194352
+Tempo decorrido: 20200.000000 
+Ocupação: 0.905652
+E[N] = 13.641535
+E[W] = 1.315737
+Erro de Little: 4.65631711432558681452
+Tempo decorrido: 20300.000000 
+Ocupação: 0.905832
+E[N] = 13.656712
+E[W] = 0.597536
+Erro de Little: 5.37297451312486451513
+Tempo decorrido: 20400.000000 
+Ocupação: 0.905608
+E[N] = 13.634913
+E[W] = 0.542291
+Erro de Little: 6.14185284526903796376
+Tempo decorrido: 20500.000000 
+Ocupação: 0.905739
+E[N] = 13.652367
+E[W] = 0.985574
+Erro de Little: 0.07623249833211609428
+Tempo decorrido: 20600.000000 
+Ocupação: 0.906000
+E[N] = 13.683678
+E[W] = 1.298645
+Erro de Little: 4.15109163352069288067
+Tempo decorrido: 20700.000000 
+Ocupação: 0.906280
+E[N] = 13.695610
+E[W] = 1.678550
+Erro de Little: 9.28561136907705098054
+Tempo decorrido: 20800.000000 
+Ocupação: 0.906291
+E[N] = 13.687698
+E[W] = 0.891173
+Erro de Little: 1.52307106386426482914
+Tempo decorrido: 20900.000000 
+Ocupação: 0.906272
+E[N] = 13.673879
+E[W] = 0.947627
+Erro de Little: 0.77584364056006194232
+Tempo decorrido: 21000.000000 
+Ocupação: 0.906250
+E[N] = 13.663209
+E[W] = 1.075346
+Erro de Little: 0.92960773457321366209
+Tempo decorrido: 21100.000000 
+Ocupação: 0.906593
+E[N] = 13.700472
+E[W] = 1.236671
+Erro de Little: 3.03380505586657989170
+Tempo decorrido: 21200.000000 
+Ocupação: 0.906384
+E[N] = 13.684940
+E[W] = 0.893598
+Erro de Little: 1.62876407179181370566
+Tempo decorrido: 21300.000000 
+Ocupação: 0.906593
+E[N] = 13.683994
+E[W] = 1.252687
+Erro de Little: 3.16703501962375355561
+Tempo decorrido: 21400.000000 
+Ocupação: 0.906680
+E[N] = 13.693331
+E[W] = 1.419055
+Erro de Little: 5.34310887662485534122
+Tempo decorrido: 21500.000000 
+Ocupação: 0.906685
+E[N] = 13.682161
+E[W] = 0.679855
+Erro de Little: 4.59005493787131335637
+Tempo decorrido: 21600.000000 
+Ocupação: 0.906479
+E[N] = 13.658979
+E[W] = 1.120342
+Erro de Little: 1.28043835604138855899
+Tempo decorrido: 21700.000000 
+Ocupação: 0.906650
+E[N] = 13.650216
+E[W] = 0.707315
+Erro de Little: 4.24587369570694228571
+Tempo decorrido: 21800.000000 
+Ocupação: 0.906725
+E[N] = 13.630054
+E[W] = 0.972413
+Erro de Little: 0.73743140046085642325
+Tempo decorrido: 21900.000000 
+Ocupação: 0.906516
+E[N] = 13.610548
+E[W] = 1.223432
+Erro de Little: 2.56274060807672299234
+Tempo decorrido: 22000.000000 
+Ocupação: 0.906715
+E[N] = 13.601090
+E[W] = 0.951638
+Erro de Little: 1.05501982485919931776
+Tempo decorrido: 22100.000000 
+Ocupação: 0.906851
+E[N] = 13.592363
+E[W] = 0.762674
+Erro de Little: 3.56558554154355888954
+Tempo decorrido: 22200.000000 
+Ocupação: 0.906636
+E[N] = 13.574799
+E[W] = 1.191252
+Erro de Little: 2.04182350335914364337
+Tempo decorrido: 22300.000000 
+Ocupação: 0.906779
+E[N] = 13.567746
+E[W] = 0.977923
+Erro de Little: 0.78283396391935511360
+Tempo decorrido: 22400.000000 
+Ocupação: 0.906995
+E[N] = 13.574580
+E[W] = 0.801632
+Erro de Little: 3.12258417020398404418
+Tempo decorrido: 22500.000000 
+Ocupação: 0.907129
+E[N] = 13.562168
+E[W] = 1.166157
+Erro de Little: 1.60122197167263280448
+Tempo decorrido: 22600.000000 
+Ocupação: 0.907092
+E[N] = 13.545262
+E[W] = 0.982616
+Erro de Little: 0.80393794883936564588
+Tempo decorrido: 22700.000000 
+Ocupação: 0.906973
+E[N] = 13.528999
+E[W] = 1.040073
+Erro de Little: 0.07947813734890374349
+Tempo decorrido: 22800.000000 
+Ocupação: 0.907119
+E[N] = 13.529000
+E[W] = 1.891408
+Erro de Little: 10.86362875487918167039
+Tempo decorrido: 22900.000000 
+Ocupação: 0.907044
+E[N] = 13.510411
+E[W] = 1.163409
+Erro de Little: 1.45163928192984315046
+Tempo decorrido: 23000.000000 
+Ocupação: 0.906849
+E[N] = 13.487321
+E[W] = 1.136527
+Erro de Little: 1.08893839926085789216
+Tempo decorrido: 23100.000000 
+Ocupação: 0.906737
+E[N] = 13.477023
+E[W] = 1.023453
+Erro de Little: 0.38623397776180290464
+Tempo decorrido: 23200.000000 
+Ocupação: 0.906772
+E[N] = 13.470428
+E[W] = 0.931835
+Erro de Little: 1.58349457340676913475
+Tempo decorrido: 23300.000000 
+Ocupação: 0.906764
+E[N] = 13.467580
+E[W] = 0.006171
+Erro de Little: 13.38907130980507353968
+Tempo decorrido: 23400.000000 
+Ocupação: 0.906742
+E[N] = 13.455343
+E[W] = 1.073464
+Erro de Little: 0.16716570968148936061
+Tempo decorrido: 23500.000000 
+Ocupação: 0.906863
+E[N] = 13.443914
+E[W] = 1.186541
+Erro de Little: 1.57508687146970238757
+Tempo decorrido: 23600.000000 
+Ocupação: 0.906918
+E[N] = 13.430127
+E[W] = 1.064606
+Erro de Little: 0.01037960333512977229
+Tempo decorrido: 23700.000000 
+Ocupação: 0.906761
+E[N] = 13.410394
+E[W] = 1.363723
+Erro de Little: 3.76168175260800019544
+Tempo decorrido: 23800.000000 
+Ocupação: 0.906614
+E[N] = 13.388731
+E[W] = 1.288610
+Erro de Little: 2.79548045888909513224
+Tempo decorrido: 23900.000000 
+Ocupação: 0.906645
+E[N] = 13.418107
+E[W] = 0.162503
+Erro de Little: 11.38229227099308360494
+Tempo decorrido: 24000.000000 
+Ocupação: 0.906775
+E[N] = 13.433954
+E[W] = 1.114643
+Erro de Little: 0.49567931372913953680
+Tempo decorrido: 24100.000000 
+Ocupação: 0.906665
+E[N] = 13.426366
+E[W] = 1.235895
+Erro de Little: 1.98002205614594828376
+Tempo decorrido: 24200.000000 
+Ocupação: 0.906429
+E[N] = 13.408115
+E[W] = 1.055637
+Erro de Little: 0.28196773320588519596
+Tempo decorrido: 24300.000000 
+Ocupação: 0.906538
+E[N] = 13.409259
+E[W] = 1.356412
+Erro de Little: 3.41532832392108964825
+Tempo decorrido: 24400.000000 
+Ocupação: 0.906771
+E[N] = 13.412790
+E[W] = 1.103562
+Erro de Little: 0.24126871078494716016
+Tempo decorrido: 24500.000000 
+Ocupação: 0.906844
+E[N] = 13.411767
+E[W] = 1.285205
+Erro de Little: 2.45004918201731847205
+Tempo decorrido: 24600.000000 
+Ocupação: 0.907068
+E[N] = 13.409589
+E[W] = 0.940266
+Erro de Little: 1.83218032183076395825
+Tempo decorrido: 24700.000000 
+Ocupação: 0.906963
+E[N] = 13.395509
+E[W] = 0.984581
+Erro de Little: 1.30294948442350388973
+Tempo decorrido: 24800.000000 
+Ocupação: 0.906498
+E[N] = 13.370341
+E[W] = 1.310186
+Erro de Little: 2.68017229541473511745
+Tempo decorrido: 24900.000000 
+Ocupação: 0.906526
+E[N] = 13.352977
+E[W] = 1.019613
+Erro de Little: 0.89211926452800582865
+Tempo decorrido: 25000.000000 
+Ocupação: 0.906533
+E[N] = 13.347821
+E[W] = 1.613233
+Erro de Little: 6.32034773437590047251
+Tempo decorrido: 25100.000000 
+Ocupação: 0.906378
+E[N] = 13.327550
+E[W] = 0.713462
+Erro de Little: 4.65060080468391312536
+Tempo decorrido: 25200.000000 
+Ocupação: 0.906407
+E[N] = 13.314657
+E[W] = 1.057657
+Erro de Little: 0.48241977618694420471
+Tempo decorrido: 25300.000000 
+Ocupação: 0.906551
+E[N] = 13.312520
+E[W] = 1.741272
+Erro de Little: 7.76526135006190898480
+Tempo decorrido: 25400.000000 
+Ocupação: 0.906640
+E[N] = 13.302651
+E[W] = 1.074927
+Erro de Little: 0.32022090752159293459
+Tempo decorrido: 25500.000000 
+Ocupação: 0.906768
+E[N] = 13.299653
+E[W] = 1.554737
+Erro de Little: 5.43417907846259673477
+Tempo decorrido: 25600.000000 
+Ocupação: 0.906652
+E[N] = 13.294886
+E[W] = 0.961459
+Erro de Little: 1.73638761868238589159
+Tempo decorrido: 25700.000000 
+Ocupação: 0.906471
+E[N] = 13.286022
+E[W] = 0.990084
+Erro de Little: 1.41100463273978782297
+Tempo decorrido: 25800.000000 
+Ocupação: 0.906477
+E[N] = 13.275630
+E[W] = 1.320323
+Erro de Little: 2.52622184009093686541
+Tempo decorrido: 25900.000000 
+Ocupação: 0.906319
+E[N] = 13.259574
+E[W] = 0.979167
+Erro de Little: 1.56737981197704812075
+Tempo decorrido: 26000.000000 
+Ocupação: 0.906493
+E[N] = 13.256152
+E[W] = 1.118729
+Erro de Little: 0.07399581159920565199
+Tempo decorrido: 26100.000000 
+Ocupação: 0.906434
+E[N] = 13.258840
+E[W] = 1.020963
+Erro de Little: 1.12083857236578232630
+Tempo decorrido: 26200.000000 
+Ocupação: 0.906741
+E[N] = 13.282621
+E[W] = 1.091155
+Erro de Little: 0.33831272433381620601
+Tempo decorrido: 26300.000000 
+Ocupação: 0.906974
+E[N] = 13.306494
+E[W] = 1.728406
+Erro de Little: 7.15303276678787902654
+Tempo decorrido: 26400.000000 
+Ocupação: 0.907053
+E[N] = 13.303754
+E[W] = 1.037598
+Erro de Little: 1.04827505628894002143
+Tempo decorrido: 26500.000000 
+Ocupação: 0.907071
+E[N] = 13.292884
+E[W] = 0.281273
+Erro de Little: 9.97801560596134606840
+Tempo decorrido: 26600.000000 
+Ocupação: 0.907247
+E[N] = 13.284765
+E[W] = 1.002643
+Erro de Little: 1.49369461598412556214
+Tempo decorrido: 26700.000000 
+Ocupação: 0.907309
+E[N] = 13.293774
+E[W] = 1.254349
+Erro de Little: 1.42737247608781459007
+Tempo decorrido: 26800.000000 
+Ocupação: 0.907382
+E[N] = 13.295547
+E[W] = 1.520464
+Erro de Little: 4.51185288384046678800
+Tempo decorrido: 26900.000000 
+Ocupação: 0.907199
+E[N] = 13.281628
+E[W] = 0.784169
+Erro de Little: 4.11788991587841479713
+Tempo decorrido: 27000.000000 
+Ocupação: 0.907402
+E[N] = 13.311486
+E[W] = 1.241717
+Erro de Little: 1.16912871896321490794
+Tempo decorrido: 27100.000000 
+Ocupação: 0.907627
+E[N] = 13.338100
+E[W] = 1.381143
+Erro de Little: 2.73675477223333629695
+Tempo decorrido: 27200.000000 
+Ocupação: 0.907760
+E[N] = 13.353699
+E[W] = 1.223417
+Erro de Little: 0.85516300699329228507
+Tempo decorrido: 27300.000000 
+Ocupação: 0.908098
+E[N] = 13.397449
+E[W] = 0.983311
+Erro de Little: 1.99864777169032770132
+Tempo decorrido: 27400.000000 
+Ocupação: 0.908150
+E[N] = 13.422691
+E[W] = 1.737293
+Erro de Little: 6.67389080477508578326
+Tempo decorrido: 27500.000000 
+Ocupação: 0.907914
+E[N] = 13.401325
+E[W] = 0.968137
+Erro de Little: 2.22560505416292819802
+Tempo decorrido: 27600.000000 
+Ocupação: 0.908057
+E[N] = 13.404376
+E[W] = 1.254673
+Erro de Little: 1.05025360793567301698
+Tempo decorrido: 27700.000000 
+Ocupação: 0.908016
+E[N] = 13.387554
+E[W] = 1.265408
+Erro de Little: 1.15960133771945805847
+Tempo decorrido: 27800.000000 
+Ocupação: 0.907958
+E[N] = 13.374490
+E[W] = 1.386839
+Erro de Little: 2.53586733936203856388
+Tempo decorrido: 27900.000000 
+Ocupação: 0.907712
+E[N] = 13.356762
+E[W] = 2.113194
+Erro de Little: 10.83658901019141573840
+Tempo decorrido: 28000.000000 
+Ocupação: 0.907445
+E[N] = 13.341137
+E[W] = 1.555287
+Erro de Little: 4.42952863759780157693
+Tempo decorrido: 28100.000000 
+Ocupação: 0.907394
+E[N] = 13.329229
+E[W] = 1.386908
+Erro de Little: 2.48430980639061793624
+Tempo decorrido: 28200.000000 
+Ocupação: 0.907601
+E[N] = 13.349778
+E[W] = 1.128566
+Erro de Little: 0.50747900905417253625
+Tempo decorrido: 28300.000000 
+Ocupação: 0.907519
+E[N] = 13.340017
+E[W] = 1.780744
+Erro de Little: 6.88370438318544053402
+Tempo decorrido: 28400.000000 
+Ocupação: 0.907536
+E[N] = 13.339319
+E[W] = 1.522476
+Erro de Little: 3.91797736280317998592
+Tempo decorrido: 28500.000000 
+Ocupação: 0.907191
+E[N] = 13.317986
+E[W] = 1.212081
+Erro de Little: 0.39350497879270385226
+Tempo decorrido: 28600.000000 
+Ocupação: 0.907462
+E[N] = 13.344387
+E[W] = 1.105224
+Erro de Little: 0.86461675116695424492
+Tempo decorrido: 28700.000000 
+Ocupação: 0.907417
+E[N] = 13.341198
+E[W] = 1.353053
+Erro de Little: 1.90715172811714239742
+Tempo decorrido: 28800.000000 
+Ocupação: 0.907474
+E[N] = 13.327542
+E[W] = 0.948890
+Erro de Little: 2.65453191176550618025
+Tempo decorrido: 28900.000000 
+Ocupação: 0.907571
+E[N] = 13.327691
+E[W] = 1.378898
+Erro de Little: 2.15294399679295445083
+Tempo decorrido: 29000.000000 
+Ocupação: 0.907416
+E[N] = 13.314631
+E[W] = 1.173279
+Erro de Little: 0.16789608405590072948
+Tempo decorrido: 29100.000000 
+Ocupação: 0.907642
+E[N] = 13.333592
+E[W] = 1.256440
+Erro de Little: 0.71934945775808856183
+Tempo decorrido: 29200.000000 
+Ocupação: 0.907867
+E[N] = 13.362549
+E[W] = 0.725657
+Erro de Little: 5.26138000233953562201
+Tempo decorrido: 29300.000000 
+Ocupação: 0.907660
+E[N] = 13.342777
+E[W] = 1.258159
+Erro de Little: 0.67701692375109878697
+Tempo decorrido: 29400.000000 
+Ocupação: 0.907672
+E[N] = 13.326821
+E[W] = 1.176692
+Erro de Little: 0.23919980044022537413
+Tempo decorrido: 29500.000000 
+Ocupação: 0.907596
+E[N] = 13.311785
+E[W] = 0.786746
+Erro de Little: 4.57819608331596228368
+Tempo decorrido: 29600.000000 
+Ocupação: 0.907464
+E[N] = 13.296842
+E[W] = 1.311227
+Erro de Little: 1.23149439383149328364
+Tempo decorrido: 29700.000000 
+Ocupação: 0.907297
+E[N] = 13.279087
+E[W] = 1.196624
+Erro de Little: 0.04610024518709643360
+Tempo decorrido: 29800.000000 
+Ocupação: 0.907285
+E[N] = 13.271781
+E[W] = 1.083099
+Erro de Little: 1.31632239665686334718
+Tempo decorrido: 29900.000000 
+Ocupação: 0.907381
+E[N] = 13.295668
+E[W] = 1.121833
+Erro de Little: 0.93475007823514211225
+Tempo decorrido: 30000.000000 
+Ocupação: 0.907537
+E[N] = 13.327299
+E[W] = 1.302884
+Erro de Little: 1.00300170301315638710
+Tempo decorrido: 30100.000000 
+Ocupação: 0.907472
+E[N] = 13.321866
+E[W] = 0.706368
+Erro de Little: 5.56718261605417108484
+Tempo decorrido: 30200.000000 
+Ocupação: 0.907419
+E[N] = 13.310494
+E[W] = 1.472266
+Erro de Little: 2.82236736156913359252
+Tempo decorrido: 30300.000000 
+Ocupação: 0.907703
+E[N] = 13.349304
+E[W] = 1.284287
+Erro de Little: 0.69981728422542310852
+Tempo decorrido: 30400.000000 
+Ocupação: 0.908007
+E[N] = 13.376255
+E[W] = 1.235352
+Erro de Little: 0.11424032109138693158
+Tempo decorrido: 30500.000000 
+Ocupação: 0.907910
+E[N] = 13.378887
+E[W] = 1.493390
+Erro de Little: 2.89929360150430071030
+Tempo decorrido: 30600.000000 
+Ocupação: 0.907778
+E[N] = 13.361785
+E[W] = 1.884885
+Erro de Little: 7.14818543185897503633
+Tempo decorrido: 30700.000000 
+Ocupação: 0.907876
+E[N] = 13.357746
+E[W] = 1.695012
+Erro de Little: 5.05451360299377583374
+Tempo decorrido: 30800.000000 
+Ocupação: 0.908020
+E[N] = 13.356922
+E[W] = 1.366396
+Erro de Little: 1.45920254288637707418
+Tempo decorrido: 30900.000000 
+Ocupação: 0.908107
+E[N] = 13.353099
+E[W] = 1.392063
+Erro de Little: 1.71459505627935726579
+Tempo decorrido: 31000.000000 
+Ocupação: 0.908145
+E[N] = 13.345541
+E[W] = 1.033088
+Erro de Little: 2.18244879501616217965
+Tempo decorrido: 31100.000000 
+Ocupação: 0.908343
+E[N] = 13.345550
+E[W] = 1.294917
+Erro de Little: 0.62349903200192180464
+Tempo decorrido: 31200.000000 
+Ocupação: 0.908358
+E[N] = 13.333561
+E[W] = 1.226520
+Erro de Little: 0.12618565967726524946
+Tempo decorrido: 31300.000000 
+Ocupação: 0.908264
+E[N] = 13.322127
+E[W] = 0.446219
+Erro de Little: 8.52534556709139579311
+Tempo decorrido: 31400.000000 
+Ocupação: 0.908350
+E[N] = 13.315215
+E[W] = 1.098228
+Erro de Little: 1.52978147099021377642
+Tempo decorrido: 31500.000000 
+Ocupação: 0.908517
+E[N] = 13.317276
+E[W] = 1.243733
+Erro de Little: 0.00758859048096027777
+Tempo decorrido: 31600.000000 
+Ocupação: 0.908560
+E[N] = 13.332042
+E[W] = 1.208370
+Erro de Little: 0.40782041241225641670
+Tempo decorrido: 31700.000000 
+Ocupação: 0.908707
+E[N] = 13.343478
+E[W] = 1.384846
+Erro de Little: 1.44360570133283339089
+Tempo decorrido: 31800.000000 
+Ocupação: 0.908596
+E[N] = 13.327365
+E[W] = 1.077758
+Erro de Little: 1.83808304532319866098
+Tempo decorrido: 31900.000000 
+Ocupação: 0.908346
+E[N] = 13.308658
+E[W] = 0.899106
+Erro de Little: 3.74051042019228319191
+Tempo decorrido: 32000.000000 
+Ocupação: 0.908420
+E[N] = 13.307334
+E[W] = 1.238035
+Erro de Little: 0.15255502278493970891
+Tempo decorrido: 32100.000000 
+Ocupação: 0.908192
+E[N] = 13.290440
+E[W] = 1.279183
+Erro de Little: 0.27834510593658201572
+Tempo decorrido: 32200.000000 
+Ocupação: 0.908038
+E[N] = 13.278077
+E[W] = 1.658002
+Erro de Little: 4.27953371543435423519
+Tempo decorrido: 32300.000000 
+Ocupação: 0.908046
+E[N] = 13.274680
+E[W] = 1.839913
+Erro de Little: 6.17662619872207585558
+Tempo decorrido: 32400.000000 
+Ocupação: 0.908006
+E[N] = 13.262568
+E[W] = 1.364304
+Erro de Little: 1.13644381317172360468
+Tempo decorrido: 32500.000000 
+Ocupação: 0.907778
+E[N] = 13.253927
+E[W] = 1.097705
+Erro de Little: 1.68743314275361733223
+Tempo decorrido: 32600.000000 
+Ocupação: 0.907835
+E[N] = 13.271282
+E[W] = 1.215660
+Erro de Little: 0.48227118696033244305
+Tempo decorrido: 32700.000000 
+Ocupação: 0.907814
+E[N] = 13.255874
+E[W] = 1.365164
+Erro de Little: 1.08334928819084552742
+Tempo decorrido: 32800.000000 
+Ocupação: 0.907894
+E[N] = 13.256496
+E[W] = 1.394756
+Erro de Little: 1.37085628890513255840
+Tempo decorrido: 32900.000000 
+Ocupação: 0.908166
+E[N] = 13.291754
+E[W] = 0.905428
+Erro de Little: 3.80988928271498572542
+Tempo decorrido: 33000.000000 
+Ocupação: 0.908121
+E[N] = 13.277306
+E[W] = 1.618643
+Erro de Little: 3.64647120387087042559
+Tempo decorrido: 33100.000000 
+Ocupação: 0.908076
+E[N] = 13.266141
+E[W] = 1.379070
+Erro de Little: 1.12906257650792518632
+Tempo decorrido: 33200.000000 
+Ocupação: 0.908177
+E[N] = 13.266497
+E[W] = 1.095037
+Erro de Little: 1.85325180421500412820
+Tempo decorrido: 33300.000000 
+Ocupação: 0.908325
+E[N] = 13.271386
+E[W] = 1.395698
+Erro de Little: 1.25263411107719413451
+Tempo decorrido: 33400.000000 
+Ocupação: 0.908306
+E[N] = 13.263397
+E[W] = 1.677908
+Erro de Little: 4.17118012613707556113
+Tempo decorrido: 33500.000000 
+Ocupação: 0.908181
+E[N] = 13.267947
+E[W] = 1.332962
+Erro de Little: 0.56023273431855535875
+Tempo decorrido: 33600.000000 
+Ocupação: 0.908103
+E[N] = 13.252601
+E[W] = 1.256407
+Erro de Little: 0.23916135082188816341
+Tempo decorrido: 33700.000000 
+Ocupação: 0.907779
+E[N] = 13.235150
+E[W] = 1.340681
+Erro de Little: 0.62882003197776725756
+Tempo decorrido: 33800.000000 
+Ocupação: 0.907891
+E[N] = 13.229630
+E[W] = 1.065247
+Erro de Little: 2.23019000837954806116
+Tempo decorrido: 33900.000000 
+Ocupação: 0.907669
+E[N] = 13.215320
+E[W] = 1.342473
+Erro de Little: 0.62384206618168569491
+Tempo decorrido: 34000.000000 
+Ocupação: 0.907739
+E[N] = 13.206410
+E[W] = 1.504200
+Erro de Little: 2.27786860475049479646
+Tempo decorrido: 34100.000000 
+Ocupação: 0.907661
+E[N] = 13.202750
+E[W] = 1.577537
+Erro de Little: 3.01081204217626563491
+Tempo decorrido: 34200.000000 
+Ocupação: 0.907858
+E[N] = 13.212685
+E[W] = 1.496895
+Erro de Little: 2.14990115095089073805
+Tempo decorrido: 34300.000000 
+Ocupação: 0.907919
+E[N] = 13.226035
+E[W] = 0.661134
+Erro de Little: 6.45095039413011495100
+Tempo decorrido: 34400.000000 
+Ocupação: 0.907893
+E[N] = 13.216236
+E[W] = 1.394032
+Erro de Little: 1.04744224678248620819
+Tempo decorrido: 34500.000000 
+Ocupação: 0.908091
+E[N] = 13.230395
+E[W] = 1.130348
+Erro de Little: 1.68118905751503433521
+Tempo decorrido: 34600.000000 
+Ocupação: 0.907919
+E[N] = 13.218784
+E[W] = 1.304498
+Erro de Little: 0.08960848364231566165
+Tempo decorrido: 34700.000000 
+Ocupação: 0.908136
+E[N] = 13.235147
+E[W] = 1.358396
+Erro de Little: 0.60336923451856705469
+Tempo decorrido: 34800.000000 
+Ocupação: 0.907995
+E[N] = 13.220262
+E[W] = 1.393074
+Erro de Little: 0.95067806638342666758
+Tempo decorrido: 34900.000000 
+Ocupação: 0.907850
+E[N] = 13.206002
+E[W] = 1.412516
+Erro de Little: 1.14149939721433391071
+Tempo decorrido: 35000.000000 
+Ocupação: 0.907976
+E[N] = 13.208860
+E[W] = 1.840747
+Erro de Little: 5.46364748804630551149
+Tempo decorrido: 35100.000000 
+Ocupação: 0.907797
+E[N] = 13.195439
+E[W] = 1.294240
+Erro de Little: 0.08589046619933782267
+Tempo decorrido: 35200.000000 
+Ocupação: 0.907989
+E[N] = 13.211290
+E[W] = 1.170878
+Erro de Little: 1.36825964981561831735
+Tempo decorrido: 35300.000000 
+Ocupação: 0.908084
+E[N] = 13.216487
+E[W] = 1.503026
+Erro de Little: 1.96365638153241661712
+Tempo decorrido: 35400.000000 
+Ocupação: 0.908075
+E[N] = 13.218712
+E[W] = 1.456448
+Erro de Little: 1.47096729699876149766
+Tempo decorrido: 35500.000000 
+Ocupação: 0.908281
+E[N] = 13.218660
+E[W] = 1.366408
+Erro de Little: 0.54348549556703495966
+Tempo decorrido: 35600.000000 
+Ocupação: 0.908487
+E[N] = 13.234418
+E[W] = 1.405841
+Erro de Little: 0.90527653970780441739
+Tempo decorrido: 35700.000000 
+Ocupação: 0.908531
+E[N] = 13.233716
+E[W] = 1.161843
+Erro de Little: 1.56454970468123200078
+Tempo decorrido: 35800.000000 
+Ocupação: 0.908708
+E[N] = 13.229869
+E[W] = 1.169355
+Erro de Little: 1.50129649525770503260
+Tempo decorrido: 35900.000000 
+Ocupação: 0.908672
+E[N] = 13.217793
+E[W] = 2.149642
+Erro de Little: 8.31246826143758354988
+Tempo decorrido: 36000.000000 
+Ocupação: 0.908551
+E[N] = 13.204317
+E[W] = 1.134236
+Erro de Little: 1.86089473894788071107
+Tempo decorrido: 100.000000 
+Ocupação: 0.970962
+E[N] = 2273.771487
+E[W] = 0.718352
+Erro de Little: 318.03708004818281551707
+Tempo decorrido: 200.000000 
+Ocupação: 0.985478
+E[N] = 1161.786197
+E[W] = 0.749444
+Erro de Little: 191.41078830701076185505
+Tempo decorrido: 300.000000 
+Ocupação: 0.990322
+E[N] = 795.291066
+E[W] = 0.089615
+Erro de Little: 687.27584859443766163167
+Tempo decorrido: 400.000000 
+Ocupação: 0.977468
+E[N] = 602.342636
+E[W] = 0.683411
+Erro de Little: 16.26105502524444545998
+Tempo decorrido: 500.000000 
+Ocupação: 0.965081
+E[N] = 485.750498
+E[W] = 0.584562
+Erro de Little: 61.83131443818439265669
+Tempo decorrido: 600.000000 
+Ocupação: 0.970048
+E[N] = 408.548546
+E[W] = 0.694669
+Erro de Little: 11.77825883785226324107
+Tempo decorrido: 700.000000 
+Ocupação: 0.970468
+E[N] = 353.748400
+E[W] = 0.889564
+Erro de Little: 108.32007269695327522641
+Tempo decorrido: 800.000000 
+Ocupação: 0.968276
+E[N] = 311.798840
+E[W] = 0.868090
+Erro de Little: 83.19069595348480561370
+Tempo decorrido: 900.000000 
+Ocupação: 0.968149
+E[N] = 278.934127
+E[W] = 0.334523
+Erro de Little: 143.41489650755121942893
+Tempo decorrido: 1000.000000 
+Ocupação: 0.967077
+E[N] = 252.779770
+E[W] = 1.030961
+Erro de Little: 123.61600797777998650417
+Tempo decorrido: 1100.000000 
+Ocupação: 0.965022
+E[N] = 231.604366
+E[W] = 1.759492
+Erro de Little: 353.18781408972552071646
+Tempo decorrido: 1200.000000 
+Ocupação: 0.946945
+E[N] = 213.207155
+E[W] = 1.228158
+Erro de Little: 161.45453252889285522542
+Tempo decorrido: 1300.000000 
+Ocupação: 0.951025
+E[N] = 199.811024
+E[W] = 0.467046
+Erro de Little: 68.10622936353348677585
+Tempo decorrido: 1400.000000 
+Ocupação: 0.953764
+E[N] = 187.403029
+E[W] = 0.504868
+Erro de Little: 55.01991837760809289648
+Tempo decorrido: 1500.000000 
+Ocupação: 0.952390
+E[N] = 176.345875
+E[W] = 0.399396
+Erro de Little: 78.47448738525919509357
+Tempo decorrido: 1600.000000 
+Ocupação: 0.951671
+E[N] = 166.469496
+E[W] = 0.862735
+Erro de Little: 32.00971700707074774073
+Tempo decorrido: 1700.000000 
+Ocupação: 0.953015
+E[N] = 158.106756
+E[W] = 0.860648
+Erro de Little: 28.49750750114759512144
+Tempo decorrido: 1800.000000 
+Ocupação: 0.948905
+E[N] = 150.234995
+E[W] = 0.728503
+Erro de Little: 0.84850981063496533352
+Tempo decorrido: 1900.000000 
+Ocupação: 0.948426
+E[N] = 143.312069
+E[W] = 1.000107
+Erro de Little: 51.20326479857382651062
+Tempo decorrido: 2000.000000 
+Ocupação: 0.949634
+E[N] = 137.268278
+E[W] = 0.411224
+Erro de Little: 61.16234517200467735165
+Tempo decorrido: 2100.000000 
+Ocupação: 0.947586
+E[N] = 131.453937
+E[W] = 0.535934
+Erro de Little: 36.88182139577558871224
+Tempo decorrido: 2200.000000 
+Ocupação: 0.943835
+E[N] = 126.038337
+E[W] = -0.010836
+Erro de Little: 127.86583700816103714715
+Tempo decorrido: 2300.000000 
+Ocupação: 0.944862
+E[N] = 121.631256
+E[W] = 1.525294
+Erro de Little: 124.76625905103027491805
+Tempo decorrido: 2400.000000 
+Ocupação: 0.946610
+E[N] = 118.414495
+E[W] = 0.885995
+Erro de Little: 18.97665974510941566678
+Tempo decorrido: 2500.000000 
+Ocupação: 0.948749
+E[N] = 117.353598
+E[W] = 0.734810
+Erro de Little: 7.83769983396794600594
+Tempo decorrido: 2600.000000 
+Ocupação: 0.950716
+E[N] = 117.156195
+E[W] = 1.270935
+Erro de Little: 65.22293533433477819017
+Tempo decorrido: 2700.000000 
+Ocupação: 0.952543
+E[N] = 115.553513
+E[W] = 0.871814
+Erro de Little: 5.08702227009420937520
+Tempo decorrido: 2800.000000 
+Ocupação: 0.954237
+E[N] = 113.499951
+E[W] = 0.685694
+Erro de Little: 21.88168563501865548915
+Tempo decorrido: 2900.000000 
+Ocupação: 0.955817
+E[N] = 111.929027
+E[W] = 0.896933
+Erro de Little: 3.93927808198405671192
+Tempo decorrido: 3000.000000 
+Ocupação: 0.957288
+E[N] = 109.943382
+E[W] = 0.864181
+Erro de Little: 1.89202207241326902931
+Tempo decorrido: 3100.000000 
+Ocupação: 0.958667
+E[N] = 108.470784
+E[W] = 1.064654
+Erro de Little: 20.54180887974909808236
+Tempo decorrido: 3200.000000 
+Ocupação: 0.958903
+E[N] = 105.915184
+E[W] = 1.758488
+Erro de Little: 100.77438984412718525618
+Tempo decorrido: 3300.000000 
+Ocupação: 0.957165
+E[N] = 103.106755
+E[W] = 1.493856
+Erro de Little: 67.38366557762503816775
+Tempo decorrido: 3400.000000 
+Ocupação: 0.957226
+E[N] = 100.623321
+E[W] = 1.048234
+Erro de Little: 15.66058455535349480670
+Tempo decorrido: 3500.000000 
+Ocupação: 0.957892
+E[N] = 98.352997
+E[W] = 0.987976
+Erro de Little: 8.25639533986003471000
+Tempo decorrido: 3600.000000 
+Ocupação: 0.956502
+E[N] = 96.015839
+E[W] = 0.921018
+Erro de Little: 0.73545867013372401289
+Tempo decorrido: 3700.000000 
+Ocupação: 0.956859
+E[N] = 94.213956
+E[W] = 1.073899
+Erro de Little: 15.69989299021433737380
+Tempo decorrido: 3800.000000 
+Ocupação: 0.956722
+E[N] = 92.342054
+E[W] = 0.690466
+Erro de Little: 23.44727368471873774070
+Tempo decorrido: 3900.000000 
+Ocupação: 0.956966
+E[N] = 90.494140
+E[W] = 1.178825
+Erro de Little: 24.27263212942034442676
+Tempo decorrido: 4000.000000 
+Ocupação: 0.955215
+E[N] = 88.610216
+E[W] = 1.652140
+Erro de Little: 68.41010034416603957652
+Tempo decorrido: 4100.000000 
+Ocupação: 0.954804
+E[N] = 86.823390
+E[W] = 0.743101
+Erro de Little: 17.83807335076316746836
+Tempo decorrido: 4200.000000 
+Ocupação: 0.952883
+E[N] = 85.219527
+E[W] = 1.019991
+Erro de Little: 7.33838475312730054156
+Tempo decorrido: 4300.000000 
+Ocupação: 0.953979
+E[N] = 84.277450
+E[W] = 0.445273
+Erro de Little: 44.75652444396750695432
+Tempo decorrido: 4400.000000 
+Ocupação: 0.955029
+E[N] = 83.278242
+E[W] = 0.733034
+Erro de Little: 19.61353914169527001832
+Tempo decorrido: 4500.000000 
+Ocupação: 0.953012
+E[N] = 81.802336
+E[W] = 0.877487
+Erro de Little: 7.19505132654521162294
+Tempo decorrido: 4600.000000 
+Ocupação: 0.952755
+E[N] = 80.373015
+E[W] = 1.278322
+Erro de Little: 26.08613250782750014878
+Tempo decorrido: 4700.000000 
+Ocupação: 0.951292
+E[N] = 78.923510
+E[W] = 1.026219
+Erro de Little: 4.82611519962345880685
+Tempo decorrido: 4800.000000 
+Ocupação: 0.950758
+E[N] = 77.554794
+E[W] = 1.192524
+Erro de Little: 17.85576231582300010814
+Tempo decorrido: 4900.000000 
+Ocupação: 0.950456
+E[N] = 76.609882
+E[W] = 0.530581
+Erro de Little: 34.96665051995496042991
+Tempo decorrido: 5000.000000 
+Ocupação: 0.951104
+E[N] = 75.795038
+E[W] = 1.195580
+Erro de Little: 16.28990374058084000808
+Tempo decorrido: 5100.000000 
+Ocupação: 0.950621
+E[N] = 74.657360
+E[W] = 1.336766
+Erro de Little: 26.40926124101120819887
+Tempo decorrido: 5200.000000 
+Ocupação: 0.948861
+E[N] = 73.446198
+E[W] = 0.899550
+Erro de Little: 6.65119961274662330197
+Tempo decorrido: 5300.000000 
+Ocupação: 0.948609
+E[N] = 72.326686
+E[W] = 0.183497
+Erro de Little: 58.94150945266331120820
+Tempo decorrido: 5400.000000 
+Ocupação: 0.949421
+E[N] = 71.605033
+E[W] = 0.667603
+Erro de Little: 23.74513079598478526577
+Tempo decorrido: 5500.000000 
+Ocupação: 0.950058
+E[N] = 70.629874
+E[W] = 1.059918
+Erro de Little: 4.07080790363549738231
+Tempo decorrido: 5600.000000 
+Ocupação: 0.950478
+E[N] = 69.677382
+E[W] = 1.023985
+Erro de Little: 1.29819398453628309653
+Tempo decorrido: 5700.000000 
+Ocupação: 0.949467
+E[N] = 68.692002
+E[W] = 1.387339
+Erro de Little: 25.90130914296139508224
+Tempo decorrido: 5800.000000 
+Ocupação: 0.948413
+E[N] = 67.747588
+E[W] = 1.891013
+Erro de Little: 59.10751379966731633431
+Tempo decorrido: 5900.000000 
+Ocupação: 0.948495
+E[N] = 66.975783
+E[W] = 0.987452
+Erro de Little: 1.76569483304237451193
+Tempo decorrido: 6000.000000 
+Ocupação: 0.948848
+E[N] = 66.207885
+E[W] = 0.938233
+Erro de Little: 5.20079265388147859994
+Tempo decorrido: 6100.000000 
+Ocupação: 0.948918
+E[N] = 65.371669
+E[W] = 0.807883
+Erro de Little: 13.63956063884291580734
+Tempo decorrido: 6200.000000 
+Ocupação: 0.948455
+E[N] = 64.542563
+E[W] = 1.439911
+Erro de Little: 26.28287743026501743770
+Tempo decorrido: 6300.000000 
+Ocupação: 0.948467
+E[N] = 63.813068
+E[W] = 0.933397
+Erro de Little: 5.79410483102790152543
+Tempo decorrido: 6400.000000 
+Ocupação: 0.949271
+E[N] = 63.288188
+E[W] = 1.157423
+Erro de Little: 7.62122299376908785007
+Tempo decorrido: 6500.000000 
+Ocupação: 0.950055
+E[N] = 62.764814
+E[W] = 0.951055
+Erro de Little: 5.32037141860936912963
+Tempo decorrido: 6600.000000 
+Ocupação: 0.949613
+E[N] = 62.018090
+E[W] = 1.292198
+Erro de Little: 14.94369624581138111807
+Tempo decorrido: 6700.000000 
+Ocupação: 0.950221
+E[N] = 61.494982
+E[W] = 0.924159
+Erro de Little: 7.20369410432167711633
+Tempo decorrido: 6800.000000 
+Ocupação: 0.949111
+E[N] = 60.751770
+E[W] = 0.884948
+Erro de Little: 9.46561489767879038482
+Tempo decorrido: 6900.000000 
+Ocupação: 0.949515
+E[N] = 60.174415
+E[W] = 1.162208
+Erro de Little: 6.28889549974540074118
+Tempo decorrido: 7000.000000 
+Ocupação: 0.949075
+E[N] = 59.536780
+E[W] = 0.825743
+Erro de Little: 12.93530635127044803312
+Tempo decorrido: 7100.000000 
+Ocupação: 0.949615
+E[N] = 59.039879
+E[W] = 0.874608
+Erro de Little: 10.31186721654113824798
+Tempo decorrido: 7200.000000 
+Ocupação: 0.950314
+E[N] = 58.659824
+E[W] = 0.928977
+Erro de Little: 7.56045057558301181189
+Tempo decorrido: 7300.000000 
+Ocupação: 0.950638
+E[N] = 58.163784
+E[W] = 1.379587
+Erro de Little: 16.77435687461574076451
+Tempo decorrido: 7400.000000 
+Ocupação: 0.950255
+E[N] = 57.655228
+E[W] = 1.176545
+Erro de Little: 5.47346747570477276668
+Tempo decorrido: 7500.000000 
+Ocupação: 0.950021
+E[N] = 57.110878
+E[W] = 1.464031
+Erro de Little: 20.48950600061181859246
+Tempo decorrido: 7600.000000 
+Ocupação: 0.949441
+E[N] = 56.537813
+E[W] = 0.838577
+Erro de Little: 12.61881114211928434088
+Tempo decorrido: 7700.000000 
+Ocupação: 0.950050
+E[N] = 56.074210
+E[W] = 1.082667
+Erro de Little: 0.03388969031918520614
+Tempo decorrido: 7800.000000 
+Ocupação: 0.949734
+E[N] = 55.562383
+E[W] = 1.196965
+Erro de Little: 5.67459251111128537559
+Tempo decorrido: 7900.000000 
+Ocupação: 0.949357
+E[N] = 55.049726
+E[W] = 1.335118
+Erro de Little: 12.47624287765312800502
+Tempo decorrido: 8000.000000 
+Ocupação: 0.948787
+E[N] = 54.520207
+E[W] = 1.033196
+Erro de Little: 2.85745712126324491464
+Tempo decorrido: 8100.000000 
+Ocupação: 0.948524
+E[N] = 54.045941
+E[W] = 1.099435
+Erro de Little: 0.31864766603724348215
+Tempo decorrido: 8200.000000 
+Ocupação: 0.948482
+E[N] = 53.684053
+E[W] = 0.897975
+Erro de Little: 9.77056912747931960439
+Tempo decorrido: 8300.000000 
+Ocupação: 0.947538
+E[N] = 53.239684
+E[W] = 1.048124
+Erro de Little: 2.54332929243116012685
+Tempo decorrido: 8400.000000 
+Ocupação: 0.946818
+E[N] = 52.747642
+E[W] = 1.323561
+Erro de Little: 10.58382843848290377764
+Tempo decorrido: 8500.000000 
+Ocupação: 0.946733
+E[N] = 52.377395
+E[W] = 1.165147
+Erro de Little: 2.78771081936502440612
+Tempo decorrido: 8600.000000 
+Ocupação: 0.947353
+E[N] = 52.427731
+E[W] = 0.984685
+Erro de Little: 6.28673861375831677378
+Tempo decorrido: 8700.000000 
+Ocupação: 0.947957
+E[N] = 52.727613
+E[W] = 1.183785
+Erro de Little: 2.17526214098112546935
+Tempo decorrido: 8800.000000 
+Ocupação: 0.948548
+E[N] = 52.584240
+E[W] = 1.321874
+Erro de Little: 8.10061998591447007811
+Tempo decorrido: 8900.000000 
+Ocupação: 0.948676
+E[N] = 52.245875
+E[W] = 1.243122
+Erro de Little: 4.25150180324769166873
+Tempo decorrido: 9000.000000 
+Ocupação: 0.949060
+E[N] = 52.015795
+E[W] = 1.025350
+Erro de Little: 5.87283402183850711253
+Tempo decorrido: 9100.000000 
+Ocupação: 0.949190
+E[N] = 51.871017
+E[W] = 1.046913
+Erro de Little: 5.21754152830035167199
+Tempo decorrido: 9200.000000 
+Ocupação: 0.948635
+E[N] = 51.441198
+E[W] = 1.270098
+Erro de Little: 4.61083179311254554023
+Tempo decorrido: 9300.000000 
+Ocupação: 0.948509
+E[N] = 51.035218
+E[W] = 1.630254
+Erro de Little: 20.22621497278239388606
+Tempo decorrido: 9400.000000 
+Ocupação: 0.949056
+E[N] = 50.970851
+E[W] = 1.192788
+Erro de Little: 0.68240814042416531038
+Tempo decorrido: 9500.000000 
+Ocupação: 0.949273
+E[N] = 50.696950
+E[W] = 1.234176
+Erro de Little: 2.24863003605194222700
+Tempo decorrido: 9600.000000 
+Ocupação: 0.949620
+E[N] = 50.477632
+E[W] = 1.124417
+Erro de Little: 2.68114217134401400244
+Tempo decorrido: 9700.000000 
+Ocupação: 0.949295
+E[N] = 50.145155
+E[W] = 0.881546
+Erro de Little: 13.01311693396791469013
+Tempo decorrido: 9800.000000 
+Ocupação: 0.949129
+E[N] = 49.812966
+E[W] = 1.375771
+Erro de Little: 7.61041446155537215645
+Tempo decorrido: 9900.000000 
+Ocupação: 0.948996
+E[N] = 49.429961
+E[W] = 1.173680
+Erro de Little: 0.87316091686031427344
+Tempo decorrido: 10000.000000 
+Ocupação: 0.948652
+E[N] = 49.083142
+E[W] = 1.490237
+Erro de Little: 12.02662965517266258075
+Tempo decorrido: 10100.000000 
+Ocupação: 0.948723
+E[N] = 48.867907
+E[W] = 1.204852
+Erro de Little: 0.10913849250485441189
+Tempo decorrido: 10200.000000 
+Ocupação: 0.948235
+E[N] = 48.554979
+E[W] = 1.057801
+Erro de Little: 5.92438049815318379387
+Tempo decorrido: 10300.000000 
+Ocupação: 0.947174
+E[N] = 48.211621
+E[W] = 1.316604
+Erro de Little: 4.39316196675184755804
+Tempo decorrido: 10400.000000 
+Ocupação: 0.946934
+E[N] = 47.882472
+E[W] = 1.078839
+Erro de Little: 5.14051785566748264955
+Tempo decorrido: 10500.000000 
+Ocupação: 0.947093
+E[N] = 47.630294
+E[W] = 1.430802
+Erro de Little: 8.58633459275772992214
+Tempo decorrido: 10600.000000 
+Ocupação: 0.947592
+E[N] = 47.699699
+E[W] = 1.349897
+Erro de Little: 4.90388622103545657183
+Tempo decorrido: 10700.000000 
+Ocupação: 0.947848
+E[N] = 47.553076
+E[W] = 1.283294
+Erro de Little: 2.05040807570522787273
+Tempo decorrido: 10800.000000 
+Ocupação: 0.947512
+E[N] = 47.223359
+E[W] = 0.918837
+Erro de Little: 11.99532180866405184361
+Tempo decorrido: 10900.000000 
+Ocupação: 0.946958
+E[N] = 46.914207
+E[W] = 1.053138
+Erro de Little: 6.86100809502153197172
+Tempo decorrido: 11000.000000 
+Ocupação: 0.947339
+E[N] = 46.744016
+E[W] = 0.683050
+Erro de Little: 20.97027894947969883788
+Tempo decorrido: 11100.000000 
+Ocupação: 0.947814
+E[N] = 46.646770
+E[W] = 0.729807
+Erro de Little: 19.32263460867256554820
+Tempo decorrido: 11200.000000 
+Ocupação: 0.947748
+E[N] = 46.409165
+E[W] = 1.136596
+Erro de Little: 4.18827929856536229636
+Tempo decorrido: 11300.000000 
+Ocupação: 0.947489
+E[N] = 46.174599
+E[W] = 1.574775
+Erro de Little: 11.87401122052777679983
+Tempo decorrido: 11400.000000 
+Ocupação: 0.947710
+E[N] = 45.921318
+E[W] = 1.408973
+Erro de Little: 5.62730657874484307968
+Tempo decorrido: 11500.000000 
+Ocupação: 0.947545
+E[N] = 45.699252
+E[W] = 1.223674
+Erro de Little: 1.26387719293911970908
+Tempo decorrido: 11600.000000 
+Ocupação: 0.947598
+E[N] = 45.422120
+E[W] = 1.859899
+Erro de Little: 21.61569773930293081321
+Tempo decorrido: 11700.000000 
+Ocupação: 0.947408
+E[N] = 45.151043
+E[W] = 1.566188
+Erro de Little: 10.88708640370560942756
+Tempo decorrido: 11800.000000 
+Ocupação: 0.947740
+E[N] = 45.035006
+E[W] = 1.153989
+Erro de Little: 4.04514840724443303088
+Tempo decorrido: 11900.000000 
+Ocupação: 0.948091
+E[N] = 44.883626
+E[W] = 0.892261
+Erro de Little: 13.41988956697694135300
+Tempo decorrido: 12000.000000 
+Ocupação: 0.947564
+E[N] = 44.621341
+E[W] = 1.588682
+Erro de Little: 10.99492439051404346628
+Tempo decorrido: 12100.000000 
+Ocupação: 0.947670
+E[N] = 44.408143
+E[W] = 1.383343
+Erro de Little: 3.67752974702396784323
+Tempo decorrido: 12200.000000 
+Ocupação: 0.947970
+E[N] = 44.275957
+E[W] = 1.471081
+Erro de Little: 6.50049234283113719357
+Tempo decorrido: 12300.000000 
+Ocupação: 0.947928
+E[N] = 44.071579
+E[W] = 1.508160
+Erro de Little: 7.62509223704368821473
+Tempo decorrido: 12400.000000 
+Ocupação: 0.947708
+E[N] = 43.863017
+E[W] = 1.308617
+Erro de Little: 0.68265291767512081833
+Tempo decorrido: 12500.000000 
+Ocupação: 0.947542
+E[N] = 43.653345
+E[W] = 1.960944
+Erro de Little: 22.64401162333261652293
+Tempo decorrido: 12600.000000 
+Ocupação: 0.946566
+E[N] = 43.396210
+E[W] = 1.605161
+Erro de Little: 10.50415512295604258952
+Tempo decorrido: 12700.000000 
+Ocupação: 0.945862
+E[N] = 43.171742
+E[W] = 1.251324
+Erro de Little: 1.43596156163491883717
+Tempo decorrido: 12800.000000 
+Ocupação: 0.945810
+E[N] = 43.004045
+E[W] = 1.050098
+Erro de Little: 8.21418462162227314138
+Tempo decorrido: 12900.000000 
+Ocupação: 0.946097
+E[N] = 42.878966
+E[W] = 2.017529
+Erro de Little: 23.52468436443938060165
+Tempo decorrido: 13000.000000 
+Ocupação: 0.945633
+E[N] = 42.642052
+E[W] = 1.150818
+Erro de Little: 5.01330277252045419800
+Tempo decorrido: 13100.000000 
+Ocupação: 0.945534
+E[N] = 42.514189
+E[W] = 1.428117
+Erro de Little: 3.88047090639829406200
+Tempo decorrido: 13200.000000 
+Ocupação: 0.945699
+E[N] = 42.348101
+E[W] = 1.310173
+Erro de Little: 0.05690804632030932453
+Tempo decorrido: 13300.000000 
+Ocupação: 0.945831
+E[N] = 42.158490
+E[W] = 1.178427
+Erro de Little: 4.36125456765633146006
+Tempo decorrido: 13400.000000 
+Ocupação: 0.945988
+E[N] = 41.970158
+E[W] = 1.326723
+Erro de Little: 0.31603089922314353544
+Tempo decorrido: 13500.000000 
+Ocupação: 0.945812
+E[N] = 41.770059
+E[W] = 1.434355
+Erro de Little: 3.66114173271012788291
+Tempo decorrido: 13600.000000 
+Ocupação: 0.945244
+E[N] = 41.586032
+E[W] = 1.352483
+Erro de Little: 0.98061104256110809274
+Tempo decorrido: 13700.000000 
+Ocupação: 0.945035
+E[N] = 41.386914
+E[W] = 1.520031
+Erro de Little: 6.15754214072710936989
+Tempo decorrido: 13800.000000 
+Ocupação: 0.944443
+E[N] = 41.170292
+E[W] = 1.372046
+Erro de Little: 1.48027134210796873504
+Tempo decorrido: 13900.000000 
+Ocupação: 0.944757
+E[N] = 41.012666
+E[W] = 1.708637
+Erro de Little: 11.78439563899662800850
+Tempo decorrido: 14000.000000 
+Ocupação: 0.944877
+E[N] = 40.884644
+E[W] = 1.268595
+Erro de Little: 1.91797436623418349200
+Tempo decorrido: 14100.000000 
+Ocupação: 0.944588
+E[N] = 40.688457
+E[W] = 0.938470
+Erro de Little: 12.03448374080148042253
+Tempo decorrido: 14200.000000 
+Ocupação: 0.944647
+E[N] = 40.586749
+E[W] = 1.823462
+Erro de Little: 14.75927624885763833618
+Tempo decorrido: 14300.000000 
+Ocupação: 0.945034
+E[N] = 40.514439
+E[W] = 1.176089
+Erro de Little: 5.02536085309758817630
+Tempo decorrido: 14400.000000 
+Ocupação: 0.944524
+E[N] = 40.310910
+E[W] = 1.214968
+Erro de Little: 3.86527062167963464390
+Tempo decorrido: 14500.000000 
+Ocupação: 0.944347
+E[N] = 40.148519
+E[W] = 1.978500
+Erro de Little: 18.86100506350384620191
+Tempo decorrido: 14600.000000 
+Ocupação: 0.943683
+E[N] = 39.948712
+E[W] = 1.527597
+Erro de Little: 5.34807571537827897146
+Tempo decorrido: 14700.000000 
+Ocupação: 0.943901
+E[N] = 39.810480
+E[W] = 0.973601
+Erro de Little: 11.10279804985059826095
+Tempo decorrido: 14800.000000 
+Ocupação: 0.943958
+E[N] = 39.706873
+E[W] = 1.285537
+Erro de Little: 2.01456120145176242886
+Tempo decorrido: 14900.000000 
+Ocupação: 0.943440
+E[N] = 39.524008
+E[W] = 1.410751
+Erro de Little: 1.60680218169385824467
+Tempo decorrido: 15000.000000 
+Ocupação: 0.943818
+E[N] = 39.735986
+E[W] = 0.814686
+Erro de Little: 16.11182089504315584350
+Tempo decorrido: 15100.000000 
+Ocupação: 0.944047
+E[N] = 39.697104
+E[W] = 1.418724
+Erro de Little: 1.21167278957837964981
+Tempo decorrido: 15200.000000 
+Ocupação: 0.944181
+E[N] = 39.547620
+E[W] = 1.481839
+Erro de Little: 2.94887169129459891792
+Tempo decorrido: 15300.000000 
+Ocupação: 0.944354
+E[N] = 39.411920
+E[W] = 1.366540
+Erro de Little: 0.43502944543547528156
+Tempo decorrido: 15400.000000 
+Ocupação: 0.944184
+E[N] = 39.241802
+E[W] = 1.393140
+Erro de Little: 0.28069017691910147505
+Tempo decorrido: 15500.000000 
+Ocupação: 0.944544
+E[N] = 39.284893
+E[W] = 1.266431
+Erro de Little: 3.54555579498434525476
+Tempo decorrido: 15600.000000 
+Ocupação: 0.944901
+E[N] = 39.506215
+E[W] = 0.956825
+Erro de Little: 12.64457658041173004904
+Tempo decorrido: 15700.000000 
+Ocupação: 0.945189
+E[N] = 39.482253
+E[W] = 2.016114
+Erro de Little: 16.81919574092164992862
+Tempo decorrido: 15800.000000 
+Ocupação: 0.945535
+E[N] = 39.527481
+E[W] = 1.480364
+Erro de Little: 1.60057346715642268009
+Tempo decorrido: 15900.000000 
+Ocupação: 0.945574
+E[N] = 39.392702
+E[W] = 1.240264
+Erro de Little: 5.11241170611539530455
+Tempo decorrido: 16000.000000 
+Ocupação: 0.945373
+E[N] = 39.227711
+E[W] = 1.459004
+Erro de Little: 0.88875896920572472482
+Tempo decorrido: 16100.000000 
+Ocupação: 0.945595
+E[N] = 39.159051
+E[W] = 1.036439
+Erro de Little: 10.80428206245300160049
+Tempo decorrido: 16200.000000 
+Ocupação: 0.945456
+E[N] = 39.021035
+E[W] = 1.543151
+Erro de Little: 2.98412496664288795500
+Tempo decorrido: 16300.000000 
+Ocupação: 0.945178
+E[N] = 38.879448
+E[W] = 2.105414
+Erro de Little: 18.14372365004896892060
+Tempo decorrido: 16400.000000 
+Ocupação: 0.944658
+E[N] = 38.711247
+E[W] = 1.417309
+Erro de Little: 0.51689505506430322157
+Tempo decorrido: 16500.000000 
+Ocupação: 0.944692
+E[N] = 38.580834
+E[W] = 1.260899
+Erro de Little: 4.77114240284333135378
+Tempo decorrido: 16600.000000 
+Ocupação: 0.944334
+E[N] = 38.426036
+E[W] = 1.285875
+Erro de Little: 4.11517834556634909404
+Tempo decorrido: 16700.000000 
+Ocupação: 0.944253
+E[N] = 38.276532
+E[W] = 2.003452
+Erro de Little: 14.92258106514712068247
+Tempo decorrido: 16800.000000 
+Ocupação: 0.944020
+E[N] = 38.174657
+E[W] = 1.721120
+Erro de Little: 7.30456147808581590652
+Tempo decorrido: 16900.000000 
+Ocupação: 0.944132
+E[N] = 38.078429
+E[W] = 1.388580
+Erro de Little: 1.56175801575295025714
+Tempo decorrido: 17000.000000 
+Ocupação: 0.944285
+E[N] = 37.955178
+E[W] = 1.172231
+Erro de Little: 7.27541748264563992166
+Tempo decorrido: 17100.000000 
+Ocupação: 0.944236
+E[N] = 37.855349
+E[W] = 1.123647
+Erro de Little: 8.58750324313205837257
+Tempo decorrido: 17200.000000 
+Ocupação: 0.943992
+E[N] = 37.731561
+E[W] = 1.454042
+Erro de Little: 0.03869104745123763678
+Tempo decorrido: 17300.000000 
+Ocupação: 0.944076
+E[N] = 37.617610
+E[W] = 1.516455
+Erro de Little: 1.50933695892371133596
+Tempo decorrido: 17400.000000 
+Ocupação: 0.944091
+E[N] = 37.475034
+E[W] = 1.384635
+Erro de Little: 1.91667477645597728042
+Tempo decorrido: 17500.000000 
+Ocupação: 0.944285
+E[N] = 37.475938
+E[W] = 1.090931
+Erro de Little: 9.58538824093980679208
+Tempo decorrido: 17600.000000 
+Ocupação: 0.944295
+E[N] = 37.411806
+E[W] = 1.390755
+Erro de Little: 2.02095840600597398407
+Tempo decorrido: 17700.000000 
+Ocupação: 0.943799
+E[N] = 37.262838
+E[W] = 1.400992
+Erro de Little: 1.77472387429426703420
+Tempo decorrido: 17800.000000 
+Ocupação: 0.943806
+E[N] = 37.160689
+E[W] = 1.648195
+Erro de Little: 4.39938505207825869547
+Tempo decorrido: 17900.000000 
+Ocupação: 0.944119
+E[N] = 37.126536
+E[W] = 1.170705
+Erro de Little: 7.73672787333661915454
+Tempo decorrido: 18000.000000 
+Ocupação: 0.944315
+E[N] = 37.094648
+E[W] = 0.690390
+Erro de Little: 19.84125512527044676858
+Tempo decorrido: 18100.000000 
+Ocupação: 0.944169
+E[N] = 36.967929
+E[W] = 1.514684
+Erro de Little: 0.71635927078572336768
+Tempo decorrido: 18200.000000 
+Ocupação: 0.943910
+E[N] = 36.846453
+E[W] = 1.486171
+Erro de Little: 0.03414997690037324674
+Tempo decorrido: 18300.000000 
+Ocupação: 0.944145
+E[N] = 36.785848
+E[W] = 1.485779
+Erro de Little: 0.14253024484364829050
+Tempo decorrido: 18400.000000 
+Ocupação: 0.944326
+E[N] = 36.744349
+E[W] = 1.979203
+Erro de Little: 11.85687098735589728449
+Tempo decorrido: 18500.000000 
+Ocupação: 0.943981
+E[N] = 36.603772
+E[W] = 1.675504
+Erro de Little: 4.35981461814406401345
+Tempo decorrido: 18600.000000 
+Ocupação: 0.943781
+E[N] = 36.488503
+E[W] = 1.292332
+Erro de Little: 5.02735504328129323426
+Tempo decorrido: 18700.000000 
+Ocupação: 0.944045
+E[N] = 36.384633
+E[W] = 1.346041
+Erro de Little: 3.75626567908257413819
+Tempo decorrido: 18800.000000 
+Ocupação: 0.944246
+E[N] = 36.302094
+E[W] = 1.553461
+Erro de Little: 1.19589540783583458960
+Tempo decorrido: 18900.000000 
+Ocupação: 0.944199
+E[N] = 36.175733
+E[W] = 1.488013
+Erro de Little: 0.41157996819337938632
+Tempo decorrido: 19000.000000 
+Ocupação: 0.944269
+E[N] = 36.086704
+E[W] = 1.561736
+Erro de Little: 1.29081639400654069050
+Tempo decorrido: 19100.000000 
+Ocupação: 0.944182
+E[N] = 35.975321
+E[W] = 1.275230
+Erro de Little: 5.57955743606737541995
+Tempo decorrido: 19200.000000 
+Ocupação: 0.944473
+E[N] = 36.043955
+E[W] = 1.639458
+Erro de Little: 2.87553531055986155707
+Tempo decorrido: 19300.000000 
+Ocupação: 0.944649
+E[N] = 36.018205
+E[W] = 1.603172
+Erro de Little: 1.88206000743109314044
+Tempo decorrido: 19400.000000 
+Ocupação: 0.944735
+E[N] = 35.942259
+E[W] = 1.409681
+Erro de Little: 2.75018990285736464330
+Tempo decorrido: 19500.000000 
+Ocupação: 0.944886
+E[N] = 35.870054
+E[W] = 1.755992
+Erro de Little: 5.30745346145764074208
+Tempo decorrido: 19600.000000 
+Ocupação: 0.945158
+E[N] = 35.843530
+E[W] = 1.575200
+Erro de Little: 0.94737070842533199766
+Tempo decorrido: 19700.000000 
+Ocupação: 0.944934
+E[N] = 35.742701
+E[W] = 1.463342
+Erro de Little: 1.70259346495616625816
+Tempo decorrido: 19800.000000 
+Ocupação: 0.945011
+E[N] = 35.636223
+E[W] = 1.559094
+Erro de Little: 0.48846269918528406606
+Tempo decorrido: 19900.000000 
+Ocupação: 0.944411
+E[N] = 35.509657
+E[W] = 1.614981
+Erro de Little: 1.75990632198507768180
+Tempo decorrido: 20000.000000 
+Ocupação: 0.944556
+E[N] = 35.432513
+E[W] = 2.259908
+Erro de Little: 16.51428145304895167556
+Tempo decorrido: 20100.000000 
+Ocupação: 0.944712
+E[N] = 35.362251
+E[W] = 1.421901
+Erro de Little: 2.80724856965273517062
+Tempo decorrido: 20200.000000 
+Ocupação: 0.944924
+E[N] = 35.268829
+E[W] = 2.055374
+Erro de Little: 11.60850109459486390051
+Tempo decorrido: 20300.000000 
+Ocupação: 0.944809
+E[N] = 35.164332
+E[W] = 1.843864
+Erro de Little: 6.72551292301913150595
+Tempo decorrido: 20400.000000 
+Ocupação: 0.945065
+E[N] = 35.201386
+E[W] = 1.511872
+Erro de Little: 0.97924815528501341078
+Tempo decorrido: 20500.000000 
+Ocupação: 0.945331
+E[N] = 35.321886
+E[W] = 1.621658
+Erro de Little: 1.24338620357787021931
+Tempo decorrido: 20600.000000 
+Ocupação: 0.945596
+E[N] = 35.274978
+E[W] = 1.594225
+Erro de Little: 0.53475231782051224627
+Tempo decorrido: 20700.000000 
+Ocupação: 0.945582
+E[N] = 35.188267
+E[W] = 1.600323
+Erro de Little: 0.62417427693007709877
+Tempo decorrido: 20800.000000 
+Ocupação: 0.945236
+E[N] = 35.097689
+E[W] = 1.614510
+Erro de Little: 0.89295338953152025852
+Tempo decorrido: 20900.000000 
+Ocupação: 0.944872
+E[N] = 34.988030
+E[W] = 1.442809
+Erro de Little: 2.94613047999990129711
+Tempo decorrido: 21000.000000 
+Ocupação: 0.944733
+E[N] = 34.893472
+E[W] = 1.929842
+Erro de Little: 7.80633325456268778453
+Tempo decorrido: 21100.000000 
+Ocupação: 0.944903
+E[N] = 34.810272
+E[W] = 1.686306
+Erro de Little: 2.36374825098965857251
+Tempo decorrido: 21200.000000 
+Ocupação: 0.944901
+E[N] = 34.727048
+E[W] = 1.656802
+Erro de Little: 1.66293680035688851149
+Tempo decorrido: 21300.000000 
+Ocupação: 0.944499
+E[N] = 34.623410
+E[W] = 1.827951
+Erro de Little: 5.37722247902973293776
+Tempo decorrido: 21400.000000 
+Ocupação: 0.944490
+E[N] = 34.531119
+E[W] = 1.458020
+Erro de Little: 2.73974788593837814688
+Tempo decorrido: 21500.000000 
+Ocupação: 0.944669
+E[N] = 34.473010
+E[W] = 1.503112
+Erro de Little: 1.81761295437531344987
+Tempo decorrido: 21600.000000 
+Ocupação: 0.944547
+E[N] = 34.394338
+E[W] = 1.377786
+Erro de Little: 4.56831807729816574692
+Tempo decorrido: 21700.000000 
+Ocupação: 0.943943
+E[N] = 34.284629
+E[W] = 1.426153
+Erro de Little: 3.52437185811090714083
+Tempo decorrido: 21800.000000 
+Ocupação: 0.943966
+E[N] = 34.199652
+E[W] = 1.708815
+Erro de Little: 2.52874350379579482251
+Tempo decorrido: 21900.000000 
+Ocupação: 0.943838
+E[N] = 34.102678
+E[W] = 1.899526
+Erro de Little: 6.58269217838336828663
+Tempo decorrido: 22000.000000 
+Ocupação: 0.943872
+E[N] = 34.020649
+E[W] = 1.356877
+Erro de Little: 5.05768094200787743375
+Tempo decorrido: 22100.000000 
+Ocupação: 0.944125
+E[N] = 34.079716
+E[W] = 1.532455
+Erro de Little: 1.48020328847305648878
+Tempo decorrido: 22200.000000 
+Ocupação: 0.944376
+E[N] = 34.084967
+E[W] = 1.577479
+Erro de Little: 0.64143735651545341625
+Tempo decorrido: 22300.000000 
+Ocupação: 0.944465
+E[N] = 34.007875
+E[W] = 1.950705
+Erro de Little: 7.20671967655720635548
+Tempo decorrido: 22400.000000 
+Ocupação: 0.944318
+E[N] = 33.918396
+E[W] = 1.822685
+Erro de Little: 4.45904444942944877539
+Tempo decorrido: 22500.000000 
+Ocupação: 0.944116
+E[N] = 33.835147
+E[W] = 1.498363
+Erro de Little: 2.39495964683055362343
+Tempo decorrido: 22600.000000 
+Ocupação: 0.944272
+E[N] = 33.763375
+E[W] = 1.665530
+Erro de Little: 1.06796251075711978729
+Tempo decorrido: 22700.000000 
+Ocupação: 0.944412
+E[N] = 33.777997
+E[W] = 1.645030
+Erro de Little: 0.51032095873302552036
+Tempo decorrido: 22800.000000 
+Ocupação: 0.944656
+E[N] = 33.868378
+E[W] = 1.715817
+Erro de Little: 1.77850388370473666555
+Tempo decorrido: 22900.000000 
+Ocupação: 0.944898
+E[N] = 33.893561
+E[W] = 1.521959
+Erro de Little: 2.37975052221514005169
+Tempo decorrido: 23000.000000 
+Ocupação: 0.944977
+E[N] = 33.869630
+E[W] = 1.594860
+Erro de Little: 0.95471560970776181421
+Tempo decorrido: 23100.000000 
+Ocupação: 0.945216
+E[N] = 33.989379
+E[W] = 1.609904
+Erro de Little: 0.86895230109006149632
+Tempo decorrido: 23200.000000 
+Ocupação: 0.945452
+E[N] = 34.204568
+E[W] = 1.615843
+Erro de Little: 1.06940082473096254034
+Tempo decorrido: 23300.000000 
+Ocupação: 0.945686
+E[N] = 34.420955
+E[W] = 1.656481
+Erro de Little: 0.56183312043955879744
+Tempo decorrido: 23400.000000 
+Ocupação: 0.945918
+E[N] = 34.480738
+E[W] = 1.719741
+Erro de Little: 0.55626071529123777282
+Tempo decorrido: 23500.000000 
+Ocupação: 0.946148
+E[N] = 34.484037
+E[W] = 1.406791
+Erro de Little: 5.91547119156421530306
+Tempo decorrido: 23600.000000 
+Ocupação: 0.945724
+E[N] = 34.385937
+E[W] = 1.885604
+Erro de Little: 3.77964605371290929270
+Tempo decorrido: 23700.000000 
+Ocupação: 0.945657
+E[N] = 34.301103
+E[W] = 1.722765
+Erro de Little: 0.45785916066414245051
+Tempo decorrido: 23800.000000 
+Ocupação: 0.945800
+E[N] = 34.236655
+E[W] = 1.937904
+Erro de Little: 4.73964532845101160774
+Tempo decorrido: 23900.000000 
+Ocupação: 0.945893
+E[N] = 34.163853
+E[W] = 1.815145
+Erro de Little: 2.22974207613720665222
+Tempo decorrido: 24000.000000 
+Ocupação: 0.946119
+E[N] = 34.127807
+E[W] = 1.720091
+Erro de Little: 0.25321475230230561237
+Tempo decorrido: 24100.000000 
+Ocupação: 0.946121
+E[N] = 34.043971
+E[W] = 1.573636
+Erro de Little: 2.68832025737397017906
+Tempo decorrido: 24200.000000 
+Ocupação: 0.946201
+E[N] = 33.983605
+E[W] = 2.465713
+Erro de Little: 14.99432946731763394155
+Tempo decorrido: 24300.000000 
+Ocupação: 0.945859
+E[N] = 33.894257
+E[W] = 1.613255
+Erro de Little: 1.94892349817560628367
+Tempo decorrido: 24400.000000 
+Ocupação: 0.945794
+E[N] = 33.833989
+E[W] = 1.885174
+Erro de Little: 3.38105130430949429865
+Tempo decorrido: 24500.000000 
+Ocupação: 0.945655
+E[N] = 33.746927
+E[W] = 1.681446
+Erro de Little: 0.65501118467572894133
+Tempo decorrido: 24600.000000 
+Ocupação: 0.945529
+E[N] = 33.671591
+E[W] = 2.036909
+Erro de Little: 6.29580768234784216020
+Tempo decorrido: 24700.000000 
+Ocupação: 0.945735
+E[N] = 33.648508
+E[W] = 1.478347
+Erro de Little: 4.72549406196353061205
+Tempo decorrido: 24800.000000 
+Ocupação: 0.945800
+E[N] = 33.608406
+E[W] = 2.046264
+Erro de Little: 6.30437664194742097834
+Tempo decorrido: 24900.000000 
+Ocupação: 0.945858
+E[N] = 33.598804
+E[W] = 1.825612
+Erro de Little: 1.90029224401554586166
+Tempo decorrido: 25000.000000 
+Ocupação: 0.945352
+E[N] = 33.505513
+E[W] = 1.728281
+Erro de Little: 0.00074235688868640182
+Tempo decorrido: 25100.000000 
+Ocupação: 0.945288
+E[N] = 33.421763
+E[W] = 1.837938
+Erro de Little: 2.10257018898504099980
+Tempo decorrido: 25200.000000 
+Ocupação: 0.945247
+E[N] = 33.342784
+E[W] = 1.714362
+Erro de Little: 0.30638057167951160409
+Tempo decorrido: 25300.000000 
+Ocupação: 0.945110
+E[N] = 33.271052
+E[W] = 1.858057
+Erro de Little: 2.43153669946283201853
+Tempo decorrido: 25400.000000 
+Ocupação: 0.944728
+E[N] = 33.195941
+E[W] = 1.839042
+Erro de Little: 2.03497503020683012664
+Tempo decorrido: 25500.000000 
+Ocupação: 0.944684
+E[N] = 33.128729
+E[W] = 1.744605
+Erro de Little: 0.19445464174998505769
+Tempo decorrido: 25600.000000 
+Ocupação: 0.944826
+E[N] = 33.070655
+E[W] = 1.313468
+Erro de Little: 8.05530699945154182728
+Tempo decorrido: 25700.000000 
+Ocupação: 0.944651
+E[N] = 32.991339
+E[W] = 2.368800
+Erro de Little: 11.98789345788038929186
+Tempo decorrido: 25800.000000 
+Ocupação: 0.944676
+E[N] = 32.932301
+E[W] = 2.007349
+Erro de Little: 5.07745936937923403320
+Tempo decorrido: 25900.000000 
+Ocupação: 0.944890
+E[N] = 32.977615
+E[W] = 1.643303
+Erro de Little: 1.94947573387053196825
+Tempo decorrido: 26000.000000 
+Ocupação: 0.944637
+E[N] = 32.902603
+E[W] = 1.696057
+Erro de Little: 0.97219768384193372412
+Tempo decorrido: 26100.000000 
+Ocupação: 0.944640
+E[N] = 32.832155
+E[W] = 1.579408
+Erro de Little: 3.18193688206770985971
+Tempo decorrido: 26200.000000 
+Ocupação: 0.944445
+E[N] = 32.772914
+E[W] = 1.919193
+Erro de Little: 3.15535690151013170635
+Tempo decorrido: 26300.000000 
+Ocupação: 0.944570
+E[N] = 32.771338
+E[W] = 1.805612
+Erro de Little: 0.93817430211261410022
+Tempo decorrido: 26400.000000 
+Ocupação: 0.944644
+E[N] = 32.741479
+E[W] = 1.612725
+Erro de Little: 2.71969046888873222656
+Tempo decorrido: 26500.000000 
+Ocupação: 0.944600
+E[N] = 32.662331
+E[W] = 1.566327
+Erro de Little: 3.58456938948970460501
+Tempo decorrido: 26600.000000 
+Ocupação: 0.944512
+E[N] = 32.604648
+E[W] = 1.815280
+Erro de Little: 0.99949917966422674453
+Tempo decorrido: 26700.000000 
+Ocupação: 0.944510
+E[N] = 32.547801
+E[W] = 1.746240
+Erro de Little: 0.31024736352684811891
+Tempo decorrido: 26800.000000 
+Ocupação: 0.944608
+E[N] = 32.523826
+E[W] = 2.031888
+Erro de Little: 4.88409945362074182640
+Tempo decorrido: 26900.000000 
+Ocupação: 0.944429
+E[N] = 32.455518
+E[W] = 1.873955
+Erro de Little: 1.95085787786574371694
+Tempo decorrido: 27000.000000 
+Ocupação: 0.944170
+E[N] = 32.385025
+E[W] = 1.671093
+Erro de Little: 1.78731050158475568423
+Tempo decorrido: 27100.000000 
+Ocupação: 0.943966
+E[N] = 32.317047
+E[W] = 1.886892
+Erro de Little: 2.13819627045771198937
+Tempo decorrido: 27200.000000 
+Ocupação: 0.944119
+E[N] = 32.267572
+E[W] = 1.546091
+Erro de Little: 4.11175926415451087337
+Tempo decorrido: 27300.000000 
+Ocupação: 0.944125
+E[N] = 32.206030
+E[W] = 1.136327
+Erro de Little: 11.56791320562897240620
+Tempo decorrido: 27400.000000 
+Ocupação: 0.943917
+E[N] = 32.158898
+E[W] = 1.619925
+Erro de Little: 2.81493091166376885326
+Tempo decorrido: 27500.000000 
+Ocupação: 0.943802
+E[N] = 32.118546
+E[W] = 1.682149
+Erro de Little: 1.72838891382168213795
+Tempo decorrido: 27600.000000 
+Ocupação: 0.943704
+E[N] = 32.081347
+E[W] = 1.862590
+Erro de Little: 1.47934451292088908758
+Tempo decorrido: 27700.000000 
+Ocupação: 0.943270
+E[N] = 32.005183
+E[W] = 2.140468
+Erro de Little: 6.45855574845453617172
+Tempo decorrido: 27800.000000 
+Ocupação: 0.943165
+E[N] = 31.936493
+E[W] = 2.257895
+Erro de Little: 8.53058702023699311212
+Tempo decorrido: 27900.000000 
+Ocupação: 0.943062
+E[N] = 31.872999
+E[W] = 1.512611
+Erro de Little: 4.83274969087448269534
+Tempo decorrido: 28000.000000 
+Ocupação: 0.943152
+E[N] = 31.823610
+E[W] = 2.314809
+Erro de Little: 9.45109949637027213498
+Tempo decorrido: 28100.000000 
+Ocupação: 0.943224
+E[N] = 31.830209
+E[W] = 1.831829
+Erro de Little: 0.74982111816714080987
+Tempo decorrido: 28200.000000 
+Ocupação: 0.943426
+E[N] = 31.877602
+E[W] = 1.685616
+Erro de Little: 1.97228189975266587908
+Tempo decorrido: 28300.000000 
+Ocupação: 0.943625
+E[N] = 31.949320
+E[W] = 1.976895
+Erro de Little: 3.03277048227836942829
+Tempo decorrido: 28400.000000 
+Ocupação: 0.943330
+E[N] = 31.878970
+E[W] = 1.796586
+Erro de Little: 0.16965846525040362280
+Tempo decorrido: 28500.000000 
+Ocupação: 0.943529
+E[N] = 31.867155
+E[W] = 1.842806
+Erro de Little: 0.57614593609154596265
+Tempo decorrido: 28600.000000 
+Ocupação: 0.943726
+E[N] = 31.899799
+E[W] = 1.965500
+Erro de Little: 2.61820117851403111331
+Tempo decorrido: 28700.000000 
+Ocupação: 0.943922
+E[N] = 31.951162
+E[W] = 2.299962
+Erro de Little: 8.33991157579168174152
+Tempo decorrido: 28800.000000 
+Ocupação: 0.943924
+E[N] = 31.905644
+E[W] = 1.806839
+Erro de Little: 0.33110788866116536155
+Tempo decorrido: 28900.000000 
+Ocupação: 0.944117
+E[N] = 31.899600
+E[W] = 2.076171
+Erro de Little: 4.29449578200947712503
+Tempo decorrido: 29000.000000 
+Ocupação: 0.944311
+E[N] = 31.897620
+E[W] = 1.577824
+Erro de Little: 4.45872467598475097361
+Tempo decorrido: 29100.000000 
+Ocupação: 0.944116
+E[N] = 31.831660
+E[W] = 1.810520
+Erro de Little: 0.42317768209984407690
+Tempo decorrido: 29200.000000 
+Ocupação: 0.944050
+E[N] = 31.770386
+E[W] = 2.776078
+Erro de Little: 16.26901096270518820575
+Tempo decorrido: 29300.000000 
+Ocupação: 0.943899
+E[N] = 31.740581
+E[W] = 1.848820
+Erro de Little: 0.17544292328343402687
+Tempo decorrido: 29400.000000 
+Ocupação: 0.943927
+E[N] = 31.694600
+E[W] = 1.916856
+Erro de Little: 1.31509007944870148776
+Tempo decorrido: 29500.000000 
+Ocupação: 0.943887
+E[N] = 31.635144
+E[W] = 1.817694
+Erro de Little: 0.40850696071154501965
+Tempo decorrido: 29600.000000 
+Ocupação: 0.943828
+E[N] = 31.576466
+E[W] = 1.696608
+Erro de Little: 2.50171886447025570988
+Tempo decorrido: 29700.000000 
+Ocupação: 0.943855
+E[N] = 31.512226
+E[W] = 2.291330
+Erro de Little: 7.65981939707076620039
+Tempo decorrido: 29800.000000 
+Ocupação: 0.943728
+E[N] = 31.449549
+E[W] = 1.679089
+Erro de Little: 2.81370423126623236953
+Tempo decorrido: 29900.000000 
+Ocupação: 0.943881
+E[N] = 31.442161
+E[W] = 2.164558
+Erro de Little: 5.38855100006320952843
+Tempo decorrido: 30000.000000 
+Ocupação: 0.944046
+E[N] = 31.434401
+E[W] = 1.331629
+Erro de Little: 8.82992192441642842482
+Tempo decorrido: 30100.000000 
+Ocupação: 0.944003
+E[N] = 31.377081
+E[W] = 1.925370
+Erro de Little: 1.22946046530313068956
+Tempo decorrido: 30200.000000 
+Ocupação: 0.944188
+E[N] = 31.402178
+E[W] = 1.682052
+Erro de Little: 2.98233947962649281749
+Tempo decorrido: 30300.000000 
+Ocupação: 0.944256
+E[N] = 31.372554
+E[W] = 1.954155
+Erro de Little: 1.56810022944935667510
+Tempo decorrido: 30400.000000 
+Ocupação: 0.944399
+E[N] = 31.340718
+E[W] = 1.990504
+Erro de Little: 2.13496791612279324113
+Tempo decorrido: 30500.000000 
+Ocupação: 0.944162
+E[N] = 31.287100
+E[W] = 2.083972
+Erro de Little: 3.67836550515102089776
+Tempo decorrido: 30600.000000 
+Ocupação: 0.944100
+E[N] = 31.246944
+E[W] = 2.059962
+Erro de Little: 3.23607121783319229280
+Tempo decorrido: 30700.000000 
+Ocupação: 0.943954
+E[N] = 31.183400
+E[W] = 1.961233
+Erro de Little: 1.56977632848686354805
+Tempo decorrido: 30800.000000 
+Ocupação: 0.944091
+E[N] = 31.164131
+E[W] = 1.771920
+Erro de Little: 1.63866161540646260164
+Tempo decorrido: 30900.000000 
+Ocupação: 0.944213
+E[N] = 31.151301
+E[W] = 1.811222
+Erro de Little: 1.04010516180483136850
+Tempo decorrido: 31000.000000 
+Ocupação: 0.944115
+E[N] = 31.093027
+E[W] = 2.280295
+Erro de Little: 6.73172175034281039530
+Tempo decorrido: 31100.000000 
+Ocupação: 0.944239
+E[N] = 31.061503
+E[W] = 2.103462
+Erro de Little: 3.75258691976337743768
+Tempo decorrido: 31200.000000 
+Ocupação: 0.944260
+E[N] = 31.041711
+E[W] = 2.192847
+Erro de Little: 5.16681672632632782438
+Tempo decorrido: 31300.000000 
+Ocupação: 0.944386
+E[N] = 31.018375
+E[W] = 2.153699
+Erro de Little: 4.46470982285422124392
+Tempo decorrido: 31400.000000 
+Ocupação: 0.944260
+E[N] = 30.961008
+E[W] = 2.706779
+Erro de Little: 13.53577432112853884405
+Tempo decorrido: 31500.000000 
+Ocupação: 0.944130
+E[N] = 30.922863
+E[W] = 1.870158
+Erro de Little: 0.24707760058425520810
+Tempo decorrido: 31600.000000 
+Ocupação: 0.944250
+E[N] = 30.906829
+E[W] = 2.424825
+Erro de Little: 8.78083298773478659882
+Tempo decorrido: 31700.000000 
+Ocupação: 0.944364
+E[N] = 30.885276
+E[W] = 2.273028
+Erro de Little: 6.23643923053735704798
+Tempo decorrido: 31800.000000 
+Ocupação: 0.944510
+E[N] = 30.859669
+E[W] = 2.130775
+Erro de Little: 3.86196861504967969836
+Tempo decorrido: 31900.000000 
+Ocupação: 0.944684
+E[N] = 30.884631
+E[W] = 1.674482
+Erro de Little: 3.65775240968000048269
+Tempo decorrido: 32000.000000 
+Ocupação: 0.944663
+E[N] = 30.859926
+E[W] = 1.871196
+Erro de Little: 0.49970032716947443419
+Tempo decorrido: 32100.000000 
+Ocupação: 0.944365
+E[N] = 30.806248
+E[W] = 2.241897
+Erro de Little: 5.48681235350678164764
+Tempo decorrido: 32200.000000 
+Ocupação: 0.944353
+E[N] = 30.753037
+E[W] = 1.861609
+Erro de Little: 0.68057169439387976695
+Tempo decorrido: 32300.000000 
+Ocupação: 0.944424
+E[N] = 30.716881
+E[W] = 1.936660
+Erro de Little: 0.50147714033292700719
+Tempo decorrido: 32400.000000 
+Ocupação: 0.944595
+E[N] = 30.721876
+E[W] = 1.868056
+Erro de Little: 0.67288083866135295352
+Tempo decorrido: 32500.000000 
+Ocupação: 0.944577
+E[N] = 30.681908
+E[W] = 1.943608
+Erro de Little: 0.51626725682950080909
+Tempo decorrido: 32600.000000 
+Ocupação: 0.944576
+E[N] = 30.647634
+E[W] = 2.051544
+Erro de Little: 2.21458159278129684822
+Tempo decorrido: 32700.000000 
+Ocupação: 0.944619
+E[N] = 30.597665
+E[W] = 1.904268
+Erro de Little: 0.15746691523094469289
+Tempo decorrido: 32800.000000 
+Ocupação: 0.944780
+E[N] = 30.628213
+E[W] = 2.056159
+Erro de Little: 2.17300634426604943883
+Tempo decorrido: 32900.000000 
+Ocupação: 0.944789
+E[N] = 30.581069
+E[W] = 1.829233
+Erro de Little: 1.46134902307769110053
+Tempo decorrido: 33000.000000 
+Ocupação: 0.944639
+E[N] = 30.529028
+E[W] = 2.365605
+Erro de Little: 7.05135502398135827207
+Tempo decorrido: 33100.000000 
+Ocupação: 0.944606
+E[N] = 30.501731
+E[W] = 1.502615
+Erro de Little: 6.68114703301473866759
+Tempo decorrido: 33200.000000 
+Ocupação: 0.944604
+E[N] = 30.460840
+E[W] = 1.947566
+Erro de Little: 0.34860528922155253895
+Tempo decorrido: 33300.000000 
+Ocupação: 0.944641
+E[N] = 30.412261
+E[W] = 2.150572
+Erro de Little: 3.54218548455350301651
+Tempo decorrido: 33400.000000 
+Ocupação: 0.944742
+E[N] = 30.379941
+E[W] = 1.863404
+Erro de Little: 1.01967646850071247400
+Tempo decorrido: 33500.000000 
+Ocupação: 0.944532
+E[N] = 30.327433
+E[W] = 1.718728
+Erro de Little: 3.30355023663327429517
+Tempo decorrido: 33600.000000 
+Ocupação: 0.944617
+E[N] = 30.339060
+E[W] = 2.242502
+Erro de Little: 4.85093340963301145052
+Tempo decorrido: 33700.000000 
+Ocupação: 0.944779
+E[N] = 30.356074
+E[W] = 2.008934
+Erro de Little: 1.10580008097318582827
+Tempo decorrido: 33800.000000 
+Ocupação: 0.944927
+E[N] = 30.333554
+E[W] = 1.795991
+Erro de Little: 2.26256578890894743950
+Tempo decorrido: 33900.000000 
+Ocupação: 0.945049
+E[N] = 30.362806
+E[W] = 1.997840
+Erro de Little: 0.79982985946395146470
+Tempo decorrido: 34000.000000 
+Ocupação: 0.945077
+E[N] = 30.325956
+E[W] = 1.881050
+Erro de Little: 1.04518035941073605954
+Tempo decorrido: 34100.000000 
+Ocupação: 0.945237
+E[N] = 30.320131
+E[W] = 1.896642
+Erro de Little: 0.85471708203584029206
+Tempo decorrido: 34200.000000 
+Ocupação: 0.945398
+E[N] = 30.313705
+E[W] = 1.970694
+Erro de Little: 0.24201418042023803423
+Tempo decorrido: 34300.000000 
+Ocupação: 0.945474
+E[N] = 30.319122
+E[W] = 1.872740
+Erro de Little: 1.33870108392238407191
+Tempo decorrido: 34400.000000 
+Ocupação: 0.945633
+E[N] = 30.359170
+E[W] = 2.118553
+Erro de Little: 2.36189349400470050000
+Tempo decorrido: 34500.000000 
+Ocupação: 0.945574
+E[N] = 30.317620
+E[W] = 2.416532
+Erro de Little: 6.92998512636960484201
+Tempo decorrido: 34600.000000 
+Ocupação: 0.945570
+E[N] = 30.304841
+E[W] = 1.931387
+Erro de Little: 0.59403401426233770621
+Tempo decorrido: 34700.000000 
+Ocupação: 0.945621
+E[N] = 30.269431
+E[W] = 2.070912
+Erro de Little: 1.52612613544062014626
+Tempo decorrido: 34800.000000 
+Ocupação: 0.945691
+E[N] = 30.265522
+E[W] = 2.327866
+Erro de Little: 5.40439987322134385295
+Tempo decorrido: 34900.000000 
+Ocupação: 0.945330
+E[N] = 30.208150
+E[W] = 2.549334
+Erro de Little: 8.77673654087957544334
+Tempo decorrido: 35000.000000 
+Ocupação: 0.945182
+E[N] = 30.165774
+E[W] = 2.809010
+Erro de Little: 12.70592038343567864445
+Tempo decorrido: 35100.000000 
+Ocupação: 0.945102
+E[N] = 30.128237
+E[W] = 2.386596
+Erro de Little: 6.22658951600664067882
+Tempo decorrido: 35200.000000 
+Ocupação: 0.944995
+E[N] = 30.093186
+E[W] = 1.801239
+Erro de Little: 2.70746332029360203819
+Tempo decorrido: 35300.000000 
+Ocupação: 0.945151
+E[N] = 30.082802
+E[W] = 1.756596
+Erro de Little: 3.42572832133291882428
+Tempo decorrido: 35400.000000 
+Ocupação: 0.945306
+E[N] = 30.078617
+E[W] = 1.663244
+Erro de Little: 4.88590084038499128383
+Tempo decorrido: 35500.000000 
+Ocupação: 0.945460
+E[N] = 30.075755
+E[W] = 1.951216
+Erro de Little: 0.57714272863426785420
+Tempo decorrido: 35600.000000 
+Ocupação: 0.945526
+E[N] = 30.049348
+E[W] = 2.119583
+Erro de Little: 1.93521731852920808592
+Tempo decorrido: 35700.000000 
+Ocupação: 0.945678
+E[N] = 30.094453
+E[W] = 2.225220
+Erro de Little: 3.42367877276004861642
+Tempo decorrido: 35800.000000 
+Ocupação: 0.945830
+E[N] = 30.224864
+E[W] = 2.208905
+Erro de Little: 2.98602494951073182960
+Tempo decorrido: 35900.000000 
+Ocupação: 0.945981
+E[N] = 30.307882
+E[W] = 1.990596
+Erro de Little: 0.43704679915700594961
+Tempo decorrido: 36000.000000 
+Ocupação: 0.946131
+E[N] = 30.329225
+E[W] = 1.798704
+Erro de Little: 3.38725412955459148634
+Tempo decorrido: 100.000000 
+Ocupação: 0.941995
+E[N] = -5578.651382
+E[W] = -1.479774
+Erro de Little: 2408.39401175775401497958
+Tempo decorrido: 200.000000 
+Ocupação: 0.970971
+E[N] = -2751.585550
+E[W] = -1.138317
+Erro de Little: 324.89152710794496670133
+Tempo decorrido: 300.000000 
+Ocupação: 0.980652
+E[N] = -1812.973753
+E[W] = -1.164144
+Erro de Little: 287.79288503421298628382
+Tempo decorrido: 400.000000 
+Ocupação: 0.985489
+E[N] = -1341.936987
+E[W] = -0.961762
+Erro de Little: 40.33671368303680537792
+Tempo decorrido: 500.000000 
+Ocupação: 0.970718
+E[N] = -1060.972839
+E[W] = -1.951688
+Erro de Little: 1054.01670259760180670128
+Tempo decorrido: 600.000000 
+Ocupação: 0.975592
+E[N] = -867.765302
+E[W] = -1.331250
+Erro de Little: 335.51565254754325451358
+Tempo decorrido: 700.000000 
+Ocupação: 0.979079
+E[N] = -727.204954
+E[W] = -0.952495
+Erro de Little: 11.83001255086492164992
+Tempo decorrido: 800.000000 
+Ocupação: 0.981691
+E[N] = -621.642648
+E[W] = -0.978601
+Erro de Little: 43.21301979663644488028
+Tempo decorrido: 900.000000 
+Ocupação: 0.983545
+E[N] = -544.871058
+E[W] = -0.883189
+Erro de Little: 11.23941917033653226099
+Tempo decorrido: 1000.000000 
+Ocupação: 0.985189
+E[N] = -483.260780
+E[W] = -0.634909
+Erro de Little: 137.67759030477884607535
+Tempo decorrido: 1100.000000 
+Ocupação: 0.986540
+E[N] = -432.975765
+E[W] = -0.518001
+Erro de Little: 176.41387402021803154639
+Tempo decorrido: 1200.000000 
+Ocupação: 0.984488
+E[N] = -391.857041
+E[W] = -1.079679
+Erro de Little: 98.75819802422336124437
+Tempo decorrido: 1300.000000 
+Ocupação: 0.985681
+E[N] = -355.668044
+E[W] = -1.099757
+Erro de Little: 106.07815756605941714952
+Tempo decorrido: 1400.000000 
+Ocupação: 0.986704
+E[N] = -322.112792
+E[W] = -0.934725
+Erro de Little: 42.64593304417286390162
+Tempo decorrido: 1500.000000 
+Ocupação: 0.987590
+E[N] = -292.307679
+E[W] = -0.509277
+Erro de Little: 106.63560871574921407046
+Tempo decorrido: 1600.000000 
+Ocupação: 0.988366
+E[N] = -267.740368
+E[W] = -0.885511
+Erro de Little: 35.15464848208540615815
+Tempo decorrido: 1700.000000 
+Ocupação: 0.989049
+E[N] = -247.647548
+E[W] = -0.764739
+Erro de Little: 1.22326958699380838880
+Tempo decorrido: 1800.000000 
+Ocupação: 0.989658
+E[N] = -229.789431
+E[W] = -0.769635
+Erro de Little: 4.65316050224552668624
+Tempo decorrido: 1900.000000 
+Ocupação: 0.989528
+E[N] = -214.551132
+E[W] = -0.261564
+Erro de Little: 138.99772181747846389044
+Tempo decorrido: 2000.000000 
+Ocupação: 0.989462
+E[N] = -200.805755
+E[W] = -0.819930
+Erro de Little: 24.38753294580013175619
+Tempo decorrido: 2100.000000 
+Ocupação: 0.986262
+E[N] = -188.727384
+E[W] = -0.257241
+Erro de Little: 121.37738864738400934584
+Tempo decorrido: 2200.000000 
+Ocupação: 0.985714
+E[N] = -177.382902
+E[W] = -0.437546
+Erro de Little: 67.93021457839924437394
+Tempo decorrido: 2300.000000 
+Ocupação: 0.984149
+E[N] = -167.132785
+E[W] = -0.885599
+Erro de Little: 44.94554748904710095303
+Tempo decorrido: 2400.000000 
+Ocupação: 0.982739
+E[N] = -157.869694
+E[W] = -1.002923
+Erro de Little: 72.50413025801245225921
+Tempo decorrido: 2500.000000 
+Ocupação: 0.981067
+E[N] = -149.140742
+E[W] = -0.696496
+Erro de Little: 4.58857688564620502802
+Tempo decorrido: 2600.000000 
+Ocupação: 0.981796
+E[N] = -139.387885
+E[W] = -0.769999
+Erro de Little: 24.18552501375674523842
+Tempo decorrido: 2700.000000 
+Ocupação: 0.982469
+E[N] = -130.224094
+E[W] = -0.550440
+Erro de Little: 17.52175282610292583740
+Tempo decorrido: 2800.000000 
+Ocupação: 0.983094
+E[N] = -121.948117
+E[W] = -0.791857
+Erro de Little: 34.52908727636314267784
+Tempo decorrido: 2900.000000 
+Ocupação: 0.983678
+E[N] = -113.671758
+E[W] = -0.622277
+Erro de Little: 5.16607421918135401029
+Tempo decorrido: 3000.000000 
+Ocupação: 0.984224
+E[N] = -106.629932
+E[W] = -0.579991
+Erro de Little: 0.54138648291737467844
+Tempo decorrido: 3100.000000 
+Ocupação: 0.984732
+E[N] = -100.588676
+E[W] = -0.492301
+Erro de Little: 12.47769344735318952644
+Tempo decorrido: 3200.000000 
+Ocupação: 0.984501
+E[N] = -95.583475
+E[W] = -0.384215
+Erro de Little: 28.90810530544315781754
+Tempo decorrido: 3300.000000 
+Ocupação: 0.983252
+E[N] = -91.070045
+E[W] = -0.586842
+Erro de Little: 7.77034305004060854571
+Tempo decorrido: 3400.000000 
+Ocupação: 0.982858
+E[N] = -86.473948
+E[W] = -0.846429
+Erro de Little: 52.01729387976281770989
+Tempo decorrido: 3500.000000 
+Ocupação: 0.981998
+E[N] = -81.893100
+E[W] = -0.232331
+Erro de Little: 44.93055189084534362109
+Tempo decorrido: 3600.000000 
+Ocupação: 0.982392
+E[N] = -77.385697
+E[W] = -0.117675
+Erro de Little: 59.17088803520465489783
+Tempo decorrido: 3700.000000 
+Ocupação: 0.980912
+E[N] = -73.737335
+E[W] = -0.518832
+Erro de Little: 4.47728699984871525430
+Tempo decorrido: 3800.000000 
+Ocupação: 0.980322
+E[N] = -70.291805
+E[W] = -0.395729
+Erro de Little: 12.15614922261138985959
+Tempo decorrido: 3900.000000 
+Ocupação: 0.980248
+E[N] = -66.396370
+E[W] = -0.667872
+Erro de Little: 29.29335336501300446344
+Tempo decorrido: 4000.000000 
+Ocupação: 0.980741
+E[N] = -61.720630
+E[W] = -0.429621
+Erro de Little: 1.65068665258206692670
+Tempo decorrido: 4100.000000 
+Ocupação: 0.981211
+E[N] = -57.478918
+E[W] = -0.514584
+Erro de Little: 12.77885851461265076523
+Tempo decorrido: 4200.000000 
+Ocupação: 0.981659
+E[N] = -53.267026
+E[W] = 0.496385
+Erro de Little: 119.48674589639460918988
+Tempo decorrido: 4300.000000 
+Ocupação: 0.982085
+E[N] = -49.410444
+E[W] = -0.511075
+Erro de Little: 17.24561758539905298449
+Tempo decorrido: 4400.000000 
+Ocupação: 0.982492
+E[N] = -45.890000
+E[W] = -0.393227
+Erro de Little: 4.27168039080024897203
+Tempo decorrido: 4500.000000 
+Ocupação: 0.982881
+E[N] = -42.940331
+E[W] = -0.396124
+Erro de Little: 6.51633726583592221004
+Tempo decorrido: 4600.000000 
+Ocupação: 0.983253
+E[N] = -39.717288
+E[W] = -0.524636
+Erro de Little: 24.41460361064884665439
+Tempo decorrido: 4700.000000 
+Ocupação: 0.983610
+E[N] = -36.654721
+E[W] = -0.046729
+Erro de Little: 31.05939297230276352479
+Tempo decorrido: 4800.000000 
+Ocupação: 0.983951
+E[N] = -33.330106
+E[W] = -0.176803
+Erro de Little: 12.58010843436705528120
+Tempo decorrido: 4900.000000 
+Ocupação: 0.984280
+E[N] = -28.679340
+E[W] = -0.425070
+Erro de Little: 20.23617684216462819791
+Tempo decorrido: 5000.000000 
+Ocupação: 0.984594
+E[N] = -23.408057
+E[W] = -0.247853
+Erro de Little: 4.56677791708133895554
+Tempo decorrido: 5100.000000 
+Ocupação: 0.984896
+E[N] = -18.279891
+E[W] = 0.390888
+Erro de Little: 61.57408675143722831535
+Tempo decorrido: 5200.000000 
+Ocupação: 0.985188
+E[N] = -14.621287
+E[W] = -0.060713
+Erro de Little: 8.02052430951581030172
+Tempo decorrido: 5300.000000 
+Ocupação: 0.985466
+E[N] = -11.825998
+E[W] = -0.079574
+Erro de Little: 3.33117445707556925072
+Tempo decorrido: 5400.000000 
+Ocupação: 0.985734
+E[N] = -9.375353
+E[W] = 0.370720
+Erro de Little: 48.25505100708369354834
+Tempo decorrido: 5500.000000 
+Ocupação: 0.985994
+E[N] = -6.772867
+E[W] = -0.114824
+Erro de Little: 5.06113414367888125867
+Tempo decorrido: 5600.000000 
+Ocupação: 0.986244
+E[N] = -4.715917
+E[W] = -0.073526
+Erro de Little: 2.73317452587391684915
+Tempo decorrido: 5700.000000 
+Ocupação: 0.986485
+E[N] = -2.311126
+E[W] = -0.000325
+Erro de Little: 2.27873097180596007050
+Tempo decorrido: 5800.000000 
+Ocupação: 0.986718
+E[N] = 0.829332
+E[W] = 0.243529
+Erro de Little: 23.03631162189681447217
+Tempo decorrido: 5900.000000 
+Ocupação: 0.986943
+E[N] = 4.268401
+E[W] = 0.122667
+Erro de Little: 7.55951777041630634812
+Tempo decorrido: 6000.000000 
+Ocupação: 0.987161
+E[N] = 7.674099
+E[W] = 0.159722
+Erro de Little: 7.48348318024628600398
+Tempo decorrido: 6100.000000 
+Ocupação: 0.987371
+E[N] = 10.852189
+E[W] = 0.268945
+Erro de Little: 14.27507862765837209906
+Tempo decorrido: 6200.000000 
+Ocupação: 0.987575
+E[N] = 13.828288
+E[W] = 0.384573
+Erro de Little: 21.55414185933875614865
+Tempo decorrido: 6300.000000 
+Ocupação: 0.987772
+E[N] = 16.105161
+E[W] = 0.120442
+Erro de Little: 5.19047632055219665403
+Tempo decorrido: 6400.000000 
+Ocupação: 0.987963
+E[N] = 18.282801
+E[W] = 0.273334
+Erro de Little: 6.12268012810893225151
+Tempo decorrido: 6500.000000 
+Ocupação: 0.988149
+E[N] = 20.225993
+E[W] = 0.152676
+Erro de Little: 6.79224651413055724447
+Tempo decorrido: 6600.000000 
+Ocupação: 0.988328
+E[N] = 21.680118
+E[W] = 0.187191
+Erro de Little: 5.44441235963330782965
+Tempo decorrido: 6700.000000 
+Ocupação: 0.988502
+E[N] = 23.225677
+E[W] = -0.009357
+Erro de Little: 24.02582102653676088266
+Tempo decorrido: 6800.000000 
+Ocupação: 0.988671
+E[N] = 24.431819
+E[W] = 0.236216
+Erro de Little: 4.51222129205855537748
+Tempo decorrido: 6900.000000 
+Ocupação: 0.988835
+E[N] = 25.318843
+E[W] = 0.552283
+Erro de Little: 20.61972952111034018685
+Tempo decorrido: 7000.000000 
+Ocupação: 0.987421
+E[N] = 25.753107
+E[W] = 0.361879
+Erro de Little: 3.94398769196449094920
+Tempo decorrido: 7100.000000 
+Ocupação: 0.987598
+E[N] = 26.523555
+E[W] = 1.449335
+Erro de Little: 90.84075639742202668003
+Tempo decorrido: 7200.000000 
+Ocupação: 0.987771
+E[N] = 27.351214
+E[W] = 0.431556
+Erro de Little: 7.13879214787323945757
+Tempo decorrido: 7300.000000 
+Ocupação: 0.987415
+E[N] = 27.830604
+E[W] = 1.619983
+Erro de Little: 99.97412532874389512472
+Tempo decorrido: 7400.000000 
+Ocupação: 0.987585
+E[N] = 28.572238
+E[W] = 0.113047
+Erro de Little: 19.76720440365221520551
+Tempo decorrido: 7500.000000 
+Ocupação: 0.986878
+E[N] = 28.892961
+E[W] = 0.880302
+Erro de Little: 38.81539208158469733689
+Tempo decorrido: 7600.000000 
+Ocupação: 0.985134
+E[N] = 29.174174
+E[W] = 0.158679
+Erro de Little: 17.11964308917318788872
+Tempo decorrido: 7700.000000 
+Ocupação: 0.984518
+E[N] = 29.502758
+E[W] = 1.230575
+Erro de Little: 62.83907334555276236188
+Tempo decorrido: 7800.000000 
+Ocupação: 0.984317
+E[N] = 29.937395
+E[W] = -0.834501
+Erro de Little: 91.80723946146895286802
+Tempo decorrido: 7900.000000 
+Ocupação: 0.984515
+E[N] = 30.612233
+E[W] = 0.553238
+Erro de Little: 9.92500363844593280760
+Tempo decorrido: 8000.000000 
+Ocupação: 0.984710
+E[N] = 31.291044
+E[W] = 0.227597
+Erro de Little: 14.81009652865728654092
+Tempo decorrido: 8100.000000 
+Ocupação: 0.984594
+E[N] = 31.587920
+E[W] = 0.435624
+Erro de Little: 0.40596779071132615968
+Tempo decorrido: 8200.000000 
+Ocupação: 0.984720
+E[N] = 32.149150
+E[W] = 0.284489
+Erro de Little: 12.01558064715592522020
+Tempo decorrido: 8300.000000 
+Ocupação: 0.984657
+E[N] = 32.507635
+E[W] = 0.421985
+Erro de Little: 2.97679768114408460633
+Tempo decorrido: 8400.000000 
+Ocupação: 0.984472
+E[N] = 32.891486
+E[W] = 0.562864
+Erro de Little: 6.06194716013995105186
+Tempo decorrido: 8500.000000 
+Ocupação: 0.984457
+E[N] = 33.216390
+E[W] = 0.297928
+Erro de Little: 12.82333145982978095390
+Tempo decorrido: 8600.000000 
+Ocupação: 0.984637
+E[N] = 34.022969
+E[W] = 0.681278
+Erro de Little: 12.11043280415548650808
+Tempo decorrido: 8700.000000 
+Ocupação: 0.984318
+E[N] = 34.438762
+E[W] = 0.682250
+Erro de Little: 11.26461180056320898757
+Tempo decorrido: 8800.000000 
+Ocupação: 0.984497
+E[N] = 35.140673
+E[W] = 0.457877
+Erro de Little: 4.78849751472098361660
+Tempo decorrido: 8900.000000 
+Ocupação: 0.984671
+E[N] = 36.006991
+E[W] = 0.808277
+Erro de Little: 17.01811889387324328027
+Tempo decorrido: 9000.000000 
+Ocupação: 0.984842
+E[N] = 37.126092
+E[W] = 0.923052
+Erro de Little: 22.80909078736816297805
+Tempo decorrido: 9100.000000 
+Ocupação: 0.985008
+E[N] = 38.589794
+E[W] = 0.860206
+Erro de Little: 16.69946332870166827433
+Tempo decorrido: 9200.000000 
+Ocupação: 0.985171
+E[N] = 40.112249
+E[W] = 0.670500
+Erro de Little: 2.55207282149300596075
+Tempo decorrido: 9300.000000 
+Ocupação: 0.985330
+E[N] = 41.574915
+E[W] = 0.892523
+Erro de Little: 14.65950727665605057837
+Tempo decorrido: 9400.000000 
+Ocupação: 0.985486
+E[N] = 42.892294
+E[W] = 0.915245
+Erro de Little: 14.20555965591778857515
+Tempo decorrido: 9500.000000 
+Ocupação: 0.985639
+E[N] = 43.978878
+E[W] = -0.012414
+Erro de Little: 44.74578807547541714484
+Tempo decorrido: 9600.000000 
+Ocupação: 0.985789
+E[N] = 44.753428
+E[W] = 0.085450
+Erro de Little: 39.52526434356391149549
+Tempo decorrido: 9700.000000 
+Ocupação: 0.985935
+E[N] = 45.419259
+E[W] = 0.723109
+Erro de Little: 1.59310504505244665552
+Tempo decorrido: 9800.000000 
+Ocupação: 0.986031
+E[N] = 45.715085
+E[W] = 0.765063
+Erro de Little: 0.21886813263892435089
+Tempo decorrido: 9900.000000 
+Ocupação: 0.986011
+E[N] = 46.113379
+E[W] = 0.784046
+Erro de Little: 0.52783287699121927972
+Tempo decorrido: 10000.000000 
+Ocupação: 0.986150
+E[N] = 46.814998
+E[W] = 0.860314
+Erro de Little: 3.89414543445086280826
+Tempo decorrido: 10100.000000 
+Ocupação: 0.986287
+E[N] = 47.341893
+E[W] = 0.638702
+Erro de Little: 10.03720266467978206038
+Tempo decorrido: 10200.000000 
+Ocupação: 0.986422
+E[N] = 47.739113
+E[W] = 0.910618
+Erro de Little: 4.97196519034790895830
+Tempo decorrido: 10300.000000 
+Ocupação: 0.986554
+E[N] = 48.292809
+E[W] = 0.769452
+Erro de Little: 4.14524096172922895676
+Tempo decorrido: 10400.000000 
+Ocupação: 0.986683
+E[N] = 48.994669
+E[W] = 0.812620
+Erro de Little: 2.77921437671543714032
+Tempo decorrido: 10500.000000 
+Ocupação: 0.986810
+E[N] = 49.952631
+E[W] = 0.279129
+Erro de Little: 34.21513917341301436181
+Tempo decorrido: 10600.000000 
+Ocupação: 0.986935
+E[N] = 51.522888
+E[W] = 0.929081
+Erro de Little: 0.41114949627677788158
+Tempo decorrido: 10700.000000 
+Ocupação: 0.987056
+E[N] = 53.211457
+E[W] = 1.296349
+Erro de Little: 18.63030095697481414163
+Tempo decorrido: 10800.000000 
+Ocupação: 0.987176
+E[N] = 54.860077
+E[W] = 1.098256
+Erro de Little: 5.48952763212689376360
+Tempo decorrido: 10900.000000 
+Ocupação: 0.987294
+E[N] = 56.073126
+E[W] = 1.018388
+Erro de Little: 0.57901910635168007957
+Tempo decorrido: 11000.000000 
+Ocupação: 0.987409
+E[N] = 57.158140
+E[W] = 0.745795
+Erro de Little: 16.85533295996171432307
+Tempo decorrido: 11100.000000 
+Ocupação: 0.987523
+E[N] = 58.455240
+E[W] = 0.984994
+Erro de Little: 5.65744326019029131203
+Tempo decorrido: 11200.000000 
+Ocupação: 0.987635
+E[N] = 59.719932
+E[W] = 0.938014
+Erro de Little: 9.84829253983399155459
+Tempo decorrido: 11300.000000 
+Ocupação: 0.987744
+E[N] = 61.014515
+E[W] = 0.939131
+Erro de Little: 11.48395167907267477858
+Tempo decorrido: 11400.000000 
+Ocupação: 0.987851
+E[N] = 61.881525
+E[W] = 0.993138
+Erro de Little: 9.91982390676692915576
+Tempo decorrido: 11500.000000 
+Ocupação: 0.987957
+E[N] = 62.717122
+E[W] = 1.485197
+Erro de Little: 14.37793967331764122264
+Tempo decorrido: 11600.000000 
+Ocupação: 0.988061
+E[N] = 63.483666
+E[W] = 1.417114
+Erro de Little: 9.50628604862927062413
+Tempo decorrido: 11700.000000 
+Ocupação: 0.988163
+E[N] = 64.363672
+E[W] = 1.247510
+Erro de Little: 0.60347363354681249348
+Tempo decorrido: 11800.000000 
+Ocupação: 0.988263
+E[N] = 65.157881
+E[W] = 1.320810
+Erro de Little: 1.83029363386719978735
+Tempo decorrido: 11900.000000 
+Ocupação: 0.988362
+E[N] = 65.974775
+E[W] = 1.476950
+Erro de Little: 8.36996937506322069567
+Tempo decorrido: 12000.000000 
+Ocupação: 0.988459
+E[N] = 67.215121
+E[W] = 1.451963
+Erro de Little: 5.32675072314552267017
+Tempo decorrido: 12100.000000 
+Ocupação: 0.988554
+E[N] = 68.420644
+E[W] = 0.988026
+Erro de Little: 19.42599453262027964229
+Tempo decorrido: 12200.000000 
+Ocupação: 0.988648
+E[N] = 69.884246
+E[W] = 1.912292
+Erro de Little: 24.24993772008197367995
+Tempo decorrido: 12300.000000 
+Ocupação: 0.988740
+E[N] = 71.507838
+E[W] = 1.470333
+Erro de Little: 0.34104377021360221534
+Tempo decorrido: 12400.000000 
+Ocupação: 0.988831
+E[N] = 72.914960
+E[W] = 2.286709
+Erro de Little: 38.01496419459833475685
+Tempo decorrido: 12500.000000 
+Ocupação: 0.988921
+E[N] = 74.562445
+E[W] = 1.342979
+Erro de Little: 9.87767868414800886967
+Tempo decorrido: 12600.000000 
+Ocupação: 0.989008
+E[N] = 76.206661
+E[W] = 1.388976
+Erro de Little: 9.77889347716831025537
+Tempo decorrido: 12700.000000 
+Ocupação: 0.989095
+E[N] = 77.973994
+E[W] = 1.418220
+Erro de Little: 10.62989116946867795832
+Tempo decorrido: 12800.000000 
+Ocupação: 0.989180
+E[N] = 79.483751
+E[W] = 1.746192
+Erro de Little: 2.85347783769825014133
+Tempo decorrido: 12900.000000 
+Ocupação: 0.989264
+E[N] = 80.761970
+E[W] = 1.927655
+Erro de Little: 9.50001295820348445886
+Tempo decorrido: 13000.000000 
+Ocupação: 0.989346
+E[N] = 82.184426
+E[W] = 2.520079
+Erro de Little: 35.00875617427014674377
+Tempo decorrido: 13100.000000 
+Ocupação: 0.989428
+E[N] = 83.519661
+E[W] = 1.821058
+Erro de Little: 0.58918404111895483766
+Tempo decorrido: 13200.000000 
+Ocupação: 0.989508
+E[N] = 84.763114
+E[W] = 1.909964
+Erro de Little: 2.85300934716771337207
+Tempo decorrido: 13300.000000 
+Ocupação: 0.989587
+E[N] = 85.835261
+E[W] = 2.599974
+Erro de Little: 32.62413464328803058834
+Tempo decorrido: 13400.000000 
+Ocupação: 0.989665
+E[N] = 86.745877
+E[W] = 1.915293
+Erro de Little: 0.06407565542117765744
+Tempo decorrido: 13500.000000 
+Ocupação: 0.989741
+E[N] = 87.541083
+E[W] = 2.011037
+Erro de Little: 2.87651526677200308768
+Tempo decorrido: 13600.000000 
+Ocupação: 0.989816
+E[N] = 88.296407
+E[W] = 1.860412
+Erro de Little: 5.19860985225417948641
+Tempo decorrido: 13700.000000 
+Ocupação: 0.989891
+E[N] = 88.927624
+E[W] = 2.156992
+Erro de Little: 6.79275756520921447645
+Tempo decorrido: 13800.000000 
+Ocupação: 0.989964
+E[N] = 89.518610
+E[W] = 1.957229
+Erro de Little: 3.22372773045222515975
+Tempo decorrido: 13900.000000 
+Ocupação: 0.990036
+E[N] = 90.121036
+E[W] = 1.730798
+Erro de Little: 14.29773991463822824244
+Tempo decorrido: 14000.000000 
+Ocupação: 0.990107
+E[N] = 90.782732
+E[W] = 2.354853
+Erro de Little: 11.73119248410723969300
+Tempo decorrido: 14100.000000 
+Ocupação: 0.990178
+E[N] = 91.363358
+E[W] = 2.088283
+Erro de Little: 1.02043941248450664716
+Tempo decorrido: 14200.000000 
+Ocupação: 0.990247
+E[N] = 92.076009
+E[W] = 2.225081
+Erro de Little: 3.58969593245166151974
+Tempo decorrido: 14300.000000 
+Ocupação: 0.990315
+E[N] = 92.762518
+E[W] = 2.356487
+Erro de Little: 7.93285825734865568393
+Tempo decorrido: 14400.000000 
+Ocupação: 0.990382
+E[N] = 93.617802
+E[W] = 1.828165
+Erro de Little: 15.97168436400387747653
+Tempo decorrido: 14500.000000 
+Ocupação: 0.990448
+E[N] = 94.622199
+E[W] = 1.441335
+Erro de Little: 33.77856336817195170852
+Tempo decorrido: 14600.000000 
+Ocupação: 0.990514
+E[N] = 95.604889
+E[W] = 2.159076
+Erro de Little: 5.01500936760042748119
+Tempo decorrido: 14700.000000 
+Ocupação: 0.990578
+E[N] = 96.478309
+E[W] = 2.435194
+Erro de Little: 5.07411363035423335077
+Tempo decorrido: 14800.000000 
+Ocupação: 0.990642
+E[N] = 96.966501
+E[W] = 2.403946
+Erro de Little: 2.68643740713993395275
+Tempo decorrido: 14900.000000 
+Ocupação: 0.990705
+E[N] = 97.295722
+E[W] = 2.254806
+Erro de Little: 4.37591618391964232160
+Tempo decorrido: 15000.000000 
+Ocupação: 0.990767
+E[N] = 97.552470
+E[W] = 2.242617
+Erro de Little: 5.67234205987429618290
+Tempo decorrido: 15100.000000 
+Ocupação: 0.990828
+E[N] = 97.648097
+E[W] = 2.229553
+Erro de Little: 6.83938362138918876099
+Tempo decorrido: 15200.000000 
+Ocupação: 0.990640
+E[N] = 97.383859
+E[W] = 2.548180
+Erro de Little: 5.79810272635423018528
+Tempo decorrido: 15300.000000 
+Ocupação: 0.990437
+E[N] = 97.145425
+E[W] = 2.416929
+Erro de Little: 0.16125049834536753224
+Tempo decorrido: 15400.000000 
+Ocupação: 0.990156
+E[N] = 96.867654
+E[W] = 2.433493
+Erro de Little: 0.54675270844745682552
+Tempo decorrido: 15500.000000 
+Ocupação: 0.989966
+E[N] = 96.599509
+E[W] = 2.638992
+Erro de Little: 8.44825045364459015218
+Tempo decorrido: 15600.000000 
+Ocupação: 0.990030
+E[N] = 96.476570
+E[W] = 2.411631
+Erro de Little: 1.01463534387798404168
+Tempo decorrido: 15700.000000 
+Ocupação: 0.989517
+E[N] = 96.193328
+E[W] = 2.706197
+Erro de Little: 10.32940618857212200510
+Tempo decorrido: 15800.000000 
+Ocupação: 0.989583
+E[N] = 96.079174
+E[W] = 2.503816
+Erro de Little: 1.93517161147453009562
+Tempo decorrido: 15900.000000 
+Ocupação: 0.989649
+E[N] = 96.082262
+E[W] = 2.186822
+Erro de Little: 10.94307549508184251863
+Tempo decorrido: 16000.000000 
+Ocupação: 0.989713
+E[N] = 96.067684
+E[W] = 2.494821
+Erro de Little: 0.53087863790651113050
+Tempo decorrido: 16100.000000 
+Ocupação: 0.989777
+E[N] = 96.002525
+E[W] = 2.625121
+Erro de Little: 5.09125614877552834514
+Tempo decorrido: 16200.000000 
+Ocupação: 0.989832
+E[N] = 95.887528
+E[W] = 2.847484
+Erro de Little: 13.17846336786467986713
+Tempo decorrido: 16300.000000 
+Ocupação: 0.989818
+E[N] = 95.759864
+E[W] = 2.398641
+Erro de Little: 4.37497180938279939255
+Tempo decorrido: 16400.000000 
+Ocupação: 0.989880
+E[N] = 95.844121
+E[W] = 2.559773
+Erro de Little: 1.16450291034342967578
+Tempo decorrido: 16500.000000 
+Ocupação: 0.989941
+E[N] = 96.030005
+E[W] = 2.760908
+Erro de Little: 8.05515751169106408724
+Tempo decorrido: 16600.000000 
+Ocupação: 0.990002
+E[N] = 96.464599
+E[W] = 2.478173
+Erro de Little: 3.51926282292872372182
+Tempo decorrido: 16700.000000 
+Ocupação: 0.990062
+E[N] = 96.623678
+E[W] = 2.847678
+Erro de Little: 9.62441965971919444200
+Tempo decorrido: 16800.000000 
+Ocupação: 0.990121
+E[N] = 96.558706
+E[W] = 2.666540
+Erro de Little: 2.41906268058188800296
+Tempo decorrido: 16900.000000 
+Ocupação: 0.990180
+E[N] = 96.379527
+E[W] = 2.859995
+Erro de Little: 9.24156271130840423211
+Tempo decorrido: 17000.000000 
+Ocupação: 0.990083
+E[N] = 96.190234
+E[W] = 3.120937
+Erro de Little: 18.48353160927142369019
+Tempo decorrido: 17100.000000 
+Ocupação: 0.990121
+E[N] = 95.966984
+E[W] = 2.637026
+Erro de Little: 0.43131228427600376563
+Tempo decorrido: 17200.000000 
+Ocupação: 0.990025
+E[N] = 95.803659
+E[W] = 2.584375
+Erro de Little: 1.80374826626979256616
+Tempo decorrido: 17300.000000 
+Ocupação: 0.989836
+E[N] = 95.614267
+E[W] = 2.363036
+Erro de Little: 10.09776091190111912965
+Tempo decorrido: 17400.000000 
+Ocupação: 0.989596
+E[N] = 95.386261
+E[W] = 2.706895
+Erro de Little: 2.08675161917261675626
+Tempo decorrido: 17500.000000 
+Ocupação: 0.989656
+E[N] = 95.253017
+E[W] = 2.815292
+Erro de Little: 5.62577716529601445927
+Tempo decorrido: 17600.000000 
+Ocupação: 0.989715
+E[N] = 95.220166
+E[W] = 2.497556
+Erro de Little: 6.16197796462071778478
+Tempo decorrido: 17700.000000 
+Ocupação: 0.989662
+E[N] = 95.099822
+E[W] = 2.790039
+Erro de Little: 3.90317025129382955129
+Tempo decorrido: 17800.000000 
+Ocupação: 0.989470
+E[N] = 94.912075
+E[W] = 2.503710
+Erro de Little: 6.49553238623126105722
+Tempo decorrido: 17900.000000 
+Ocupação: 0.989473
+E[N] = 94.743998
+E[W] = 2.769972
+Erro de Little: 2.60528277315927425661
+Tempo decorrido: 18000.000000 
+Ocupação: 0.989178
+E[N] = 94.536485
+E[W] = 2.801992
+Erro de Little: 3.46479622713560786451
+Tempo decorrido: 18100.000000 
+Ocupação: 0.989003
+E[N] = 94.340158
+E[W] = 2.347959
+Erro de Little: 12.60852727600035905198
+Tempo decorrido: 18200.000000 
+Ocupação: 0.988873
+E[N] = 94.164321
+E[W] = 2.972385
+Erro de Little: 8.81186286468421542395
+Tempo decorrido: 18300.000000 
+Ocupação: 0.988648
+E[N] = 93.978684
+E[W] = 2.232821
+Erro de Little: 16.98440547559258106958
+Tempo decorrido: 18400.000000 
+Ocupação: 0.988416
+E[N] = 93.767719
+E[W] = 2.737741
+Erro de Little: 0.19741069982198666821
+Tempo decorrido: 18500.000000 
+Ocupação: 0.988478
+E[N] = 93.622453
+E[W] = 2.766210
+Erro de Little: 0.88501450023566974323
+Tempo decorrido: 18600.000000 
+Ocupação: 0.988516
+E[N] = 93.488126
+E[W] = 3.195187
+Erro de Little: 15.17505054504492534306
+Tempo decorrido: 18700.000000 
+Ocupação: 0.988369
+E[N] = 93.288922
+E[W] = 3.071170
+Erro de Little: 10.67810084428518280220
+Tempo decorrido: 18800.000000 
+Ocupação: 0.988431
+E[N] = 93.130462
+E[W] = 2.550587
+Erro de Little: 7.18179064150817225709
+Tempo decorrido: 18900.000000 
+Ocupação: 0.988492
+E[N] = 93.012408
+E[W] = 2.735769
+Erro de Little: 1.24102866262452948831
+Tempo decorrido: 19000.000000 
+Ocupação: 0.988553
+E[N] = 93.057070
+E[W] = 2.780976
+Erro de Little: 0.18274449514269974770
+Tempo decorrido: 19100.000000 
+Ocupação: 0.988613
+E[N] = 93.263038
+E[W] = 2.968053
+Erro de Little: 5.42059194415288914115
+Tempo decorrido: 19200.000000 
+Ocupação: 0.988672
+E[N] = 93.366287
+E[W] = 2.820436
+Erro de Little: 0.00697557710172702627
+Tempo decorrido: 19300.000000 
+Ocupação: 0.988731
+E[N] = 93.363838
+E[W] = 3.078100
+Erro de Little: 8.07389591111437709969
+Tempo decorrido: 19400.000000 
+Ocupação: 0.988789
+E[N] = 93.322002
+E[W] = 2.736342
+Erro de Little: 3.54145549530323933141
+Tempo decorrido: 19500.000000 
+Ocupação: 0.988846
+E[N] = 93.255533
+E[W] = 2.941222
+Erro de Little: 2.82669221126860747972
+Tempo decorrido: 19600.000000 
+Ocupação: 0.988563
+E[N] = 93.086467
+E[W] = 2.407125
+Erro de Little: 14.79553401345167173986
+Tempo decorrido: 19700.000000 
+Ocupação: 0.988621
+E[N] = 93.056704
+E[W] = 2.673940
+Erro de Little: 6.45547759329343762147
+Tempo decorrido: 19800.000000 
+Ocupação: 0.988679
+E[N] = 93.245789
+E[W] = 2.909029
+Erro de Little: 0.56473633861160976721
+Tempo decorrido: 19900.000000 
+Ocupação: 0.988736
+E[N] = 93.481567
+E[W] = 3.067278
+Erro de Little: 5.01771595789043090008
+Tempo decorrido: 20000.000000 
+Ocupação: 0.988792
+E[N] = 93.733301
+E[W] = 3.316048
+Erro de Little: 12.30485080849537382619
+Tempo decorrido: 20100.000000 
+Ocupação: 0.988848
+E[N] = 94.117714
+E[W] = 2.551229
+Erro de Little: 12.87513388551199966514
+Tempo decorrido: 20200.000000 
+Ocupação: 0.988903
+E[N] = 94.604874
+E[W] = 2.917955
+Erro de Little: 2.07422317111563359049
+Tempo decorrido: 20300.000000 
+Ocupação: 0.988957
+E[N] = 95.205085
+E[W] = 3.062670
+Erro de Little: 1.51527739555851326259
+Tempo decorrido: 20400.000000 
+Ocupação: 0.989012
+E[N] = 95.974853
+E[W] = 3.129927
+Erro de Little: 2.46349144396297958792
+Tempo decorrido: 20500.000000 
+Ocupação: 0.989065
+E[N] = 96.931534
+E[W] = 3.116844
+Erro de Little: 0.69351423086099828197
+Tempo decorrido: 20600.000000 
+Ocupação: 0.989118
+E[N] = 97.872031
+E[W] = 3.042663
+Erro de Little: 2.95605812086517971693
+Tempo decorrido: 20700.000000 
+Ocupação: 0.989171
+E[N] = 98.892085
+E[W] = 3.182826
+Erro de Little: 0.00501490170516660783
+Tempo decorrido: 20800.000000 
+Ocupação: 0.989223
+E[N] = 99.943050
+E[W] = 3.087194
+Erro de Little: 4.40885998913732635174
+Tempo decorrido: 20900.000000 
+Ocupação: 0.989274
+E[N] = 100.957960
+E[W] = 3.404823
+Erro de Little: 3.98419185186546087607
+Tempo decorrido: 21000.000000 
+Ocupação: 0.989326
+E[N] = 102.032122
+E[W] = 3.673711
+Erro de Little: 10.74956722464098390901
+Tempo decorrido: 21100.000000 
+Ocupação: 0.989376
+E[N] = 103.220986
+E[W] = 3.276166
+Erro de Little: 3.03701631166345009660
+Tempo decorrido: 21200.000000 
+Ocupação: 0.989426
+E[N] = 104.196045
+E[W] = 3.391619
+Erro de Little: 0.89754667500034202021
+Tempo decorrido: 21300.000000 
+Ocupação: 0.989476
+E[N] = 105.158336
+E[W] = 3.900071
+Erro de Little: 13.16463807852765910411
+Tempo decorrido: 21400.000000 
+Ocupação: 0.989525
+E[N] = 106.267657
+E[W] = 3.492468
+Erro de Little: 0.72340055604945519008
+Tempo decorrido: 21500.000000 
+Ocupação: 0.989574
+E[N] = 107.448899
+E[W] = 4.003028
+Erro de Little: 13.06199990070578564882
+Tempo decorrido: 21600.000000 
+Ocupação: 0.989622
+E[N] = 108.684853
+E[W] = 3.359480
+Erro de Little: 7.93762722899256800702
+Tempo decorrido: 21700.000000 
+Ocupação: 0.989670
+E[N] = 109.724444
+E[W] = 3.724483
+Erro de Little: 1.53886572250129916029
+Tempo decorrido: 21800.000000 
+Ocupação: 0.989717
+E[N] = 110.692135
+E[W] = 4.003710
+Erro de Little: 8.45861161389801452515
+Tempo decorrido: 21900.000000 
+Ocupação: 0.989764
+E[N] = 111.689976
+E[W] = 3.644150
+Erro de Little: 3.65630655951859750985
+Tempo decorrido: 22000.000000 
+Ocupação: 0.989811
+E[N] = 112.641585
+E[W] = 3.815586
+Erro de Little: 0.04358486953043438916
+Tempo decorrido: 22100.000000 
+Ocupação: 0.989857
+E[N] = 113.479629
+E[W] = 3.830206
+Erro de Little: 0.79107209721269100555
+Tempo decorrido: 22200.000000 
+Ocupação: 0.989903
+E[N] = 114.203869
+E[W] = 4.095969
+Erro de Little: 5.85197085985002729558
+Tempo decorrido: 22300.000000 
+Ocupação: 0.989948
+E[N] = 114.962170
+E[W] = 3.983335
+Erro de Little: 1.35893221352463910989
+Tempo decorrido: 22400.000000 
+Ocupação: 0.989993
+E[N] = 115.661601
+E[W] = 3.704522
+Erro de Little: 7.88053272592200926283
+Tempo decorrido: 22500.000000 
+Ocupação: 0.990037
+E[N] = 116.467115
+E[W] = 4.168475
+Erro de Little: 4.36981010227376032162
+Tempo decorrido: 22600.000000 
+Ocupação: 0.990081
+E[N] = 117.213542
+E[W] = 3.989519
+Erro de Little: 1.98719404438564595239
+Tempo decorrido: 22700.000000 
+Ocupação: 0.990125
+E[N] = 117.959307
+E[W] = 4.148062
+Erro de Little: 1.41022955169114538876
+Tempo decorrido: 22800.000000 
+Ocupação: 0.990168
+E[N] = 118.809324
+E[W] = 4.226876
+Erro de Little: 2.39123526180037515587
+Tempo decorrido: 22900.000000 
+Ocupação: 0.990211
+E[N] = 119.515400
+E[W] = 4.205465
+Erro de Little: 0.63364555668356103979
+Tempo decorrido: 23000.000000 
+Ocupação: 0.990254
+E[N] = 120.232050
+E[W] = 4.047133
+Erro de Little: 5.02349171254027737632
+Tempo decorrido: 23100.000000 
+Ocupação: 0.990296
+E[N] = 120.911120
+E[W] = 4.234073
+Erro de Little: 0.81285184442572244734
+Tempo decorrido: 23200.000000 
+Ocupação: 0.990338
+E[N] = 121.350893
+E[W] = 4.290996
+Erro de Little: 0.07507326587244733673
+Tempo decorrido: 23300.000000 
+Ocupação: 0.990379
+E[N] = 121.593552
+E[W] = 4.866316
+Erro de Little: 15.45297195867740924768
+Tempo decorrido: 23400.000000 
+Ocupação: 0.990420
+E[N] = 121.782660
+E[W] = 4.416458
+Erro de Little: 2.16059688167882768539
+Tempo decorrido: 23500.000000 
+Ocupação: 0.990461
+E[N] = 122.083223
+E[W] = 4.435102
+Erro de Little: 1.94924280095662538770
+Tempo decorrido: 23600.000000 
+Ocupação: 0.990502
+E[N] = 122.349135
+E[W] = 3.929937
+Erro de Little: 12.82208039884882566639
+Tempo decorrido: 23700.000000 
+Ocupação: 0.990542
+E[N] = 122.478561
+E[W] = 4.339503
+Erro de Little: 1.95869665782443291846
+Tempo decorrido: 23800.000000 
+Ocupação: 0.990581
+E[N] = 122.553285
+E[W] = 4.398551
+Erro de Little: 0.80904891748721752265
+Tempo decorrido: 23900.000000 
+Ocupação: 0.990621
+E[N] = 122.649802
+E[W] = 4.226302
+Erro de Little: 6.07911966553838567506
+Tempo decorrido: 24000.000000 
+Ocupação: 0.990660
+E[N] = 122.752983
+E[W] = 4.210510
+Erro de Little: 7.01079811559432641843
+Tempo decorrido: 24100.000000 
+Ocupação: 0.990699
+E[N] = 122.853677
+E[W] = 4.527243
+Erro de Little: 1.16908707528311595070
+Tempo decorrido: 24200.000000 
+Ocupação: 0.990737
+E[N] = 122.948416
+E[W] = 4.620632
+Erro de Little: 3.20754688846471935904
+Tempo decorrido: 24300.000000 
+Ocupação: 0.990775
+E[N] = 123.142495
+E[W] = 4.590862
+Erro de Little: 1.78407160810660059269
+Tempo decorrido: 24400.000000 
+Ocupação: 0.990813
+E[N] = 123.665844
+E[W] = 4.662281
+Erro de Little: 2.78288399548394238536
+Tempo decorrido: 24500.000000 
+Ocupação: 0.990850
+E[N] = 124.300399
+E[W] = 4.619761
+Erro de Little: 0.58486216690515391292
+Tempo decorrido: 24600.000000 
+Ocupação: 0.990888
+E[N] = 124.996656
+E[W] = 4.622224
+Erro de Little: 0.45059092703392877866
+Tempo decorrido: 24700.000000 
+Ocupação: 0.990925
+E[N] = 125.727552
+E[W] = 4.894876
+Erro de Little: 5.72907512223684989294
+Tempo decorrido: 24800.000000 
+Ocupação: 0.990961
+E[N] = 126.430157
+E[W] = 4.629917
+Erro de Little: 2.49714269907849484298
+Tempo decorrido: 24900.000000 
+Ocupação: 0.990998
+E[N] = 127.032547
+E[W] = 4.886463
+Erro de Little: 3.33651064591865065267
+Tempo decorrido: 25000.000000 
+Ocupação: 0.991033
+E[N] = 127.423438
+E[W] = 4.776019
+Erro de Little: 0.42347602176859311385
+Tempo decorrido: 25100.000000 
+Ocupação: 0.991069
+E[N] = 127.765541
+E[W] = 4.569606
+Erro de Little: 6.65016240961229243567
+Tempo decorrido: 25200.000000 
+Ocupação: 0.991105
+E[N] = 127.927607
+E[W] = 4.792035
+Erro de Little: 1.32861112967965766529
+Tempo decorrido: 25300.000000 
+Ocupação: 0.991140
+E[N] = 127.910175
+E[W] = 5.280935
+Erro de Little: 11.15336946320552158340
+Tempo decorrido: 25400.000000 
+Ocupação: 0.991175
+E[N] = 127.970281
+E[W] = 5.412647
+Erro de Little: 14.11123655370022333955
+Tempo decorrido: 25500.000000 
+Ocupação: 0.991209
+E[N] = 127.946443
+E[W] = 4.988041
+Erro de Little: 2.57379339655048511304
+Tempo decorrido: 25600.000000 
+Ocupação: 0.991244
+E[N] = 127.899945
+E[W] = 4.606153
+Erro de Little: 7.75193960241355739527
+Tempo decorrido: 25700.000000 
+Ocupação: 0.991278
+E[N] = 127.838529
+E[W] = 4.788782
+Erro de Little: 3.32613359570939337573
+Tempo decorrido: 25800.000000 
+Ocupação: 0.991191
+E[N] = 127.561683
+E[W] = 4.839383
+Erro de Little: 2.12839054860646115230
+Tempo decorrido: 25900.000000 
+Ocupação: 0.991208
+E[N] = 127.328054
+E[W] = 4.881669
+Erro de Little: 1.19503552023975601060
+Tempo decorrido: 26000.000000 
+Ocupação: 0.991224
+E[N] = 127.156834
+E[W] = 4.764204
+Erro de Little: 4.44185756165677503304
+Tempo decorrido: 26100.000000 
+Ocupação: 0.991223
+E[N] = 126.928932
+E[W] = 4.852795
+Erro de Little: 2.31537464738181597568
+Tempo decorrido: 26200.000000 
+Ocupação: 0.991256
+E[N] = 126.767406
+E[W] = 5.102860
+Erro de Little: 3.86670666976051791153
+Tempo decorrido: 26300.000000 
+Ocupação: 0.991289
+E[N] = 126.605273
+E[W] = 4.994844
+Erro de Little: 0.87176750649268797133
+Tempo decorrido: 26400.000000 
+Ocupação: 0.991323
+E[N] = 126.594365
+E[W] = 4.976125
+Erro de Little: 0.01747716465230553240
+Tempo decorrido: 26500.000000 
+Ocupação: 0.991355
+E[N] = 126.474337
+E[W] = 4.925646
+Erro de Little: 1.52868643218330646505
+Tempo decorrido: 26600.000000 
+Ocupação: 0.991388
+E[N] = 126.357614
+E[W] = 4.843828
+Erro de Little: 3.86154290027791091688
+Tempo decorrido: 26700.000000 
+Ocupação: 0.991420
+E[N] = 126.164011
+E[W] = 5.035278
+Erro de Little: 0.78694589400770098564
+Tempo decorrido: 26800.000000 
+Ocupação: 0.991395
+E[N] = 125.928735
+E[W] = 4.960634
+Erro de Little: 1.23256025932037971415
+Tempo decorrido: 26900.000000 
+Ocupação: 0.991318
+E[N] = 125.692300
+E[W] = 5.168884
+Erro de Little: 3.85587477853597704325
+Tempo decorrido: 27000.000000 
+Ocupação: 0.991350
+E[N] = 125.566262
+E[W] = 4.871044
+Erro de Little: 3.84476525147741199362
+Tempo decorrido: 27100.000000 
+Ocupação: 0.991382
+E[N] = 125.464193
+E[W] = 4.984467
+Erro de Little: 1.27886586413892189285
+Tempo decorrido: 27200.000000 
+Ocupação: 0.991413
+E[N] = 125.607130
+E[W] = 4.637164
+Erro de Little: 10.40274497680059084814
+Tempo decorrido: 27300.000000 
+Ocupação: 0.991445
+E[N] = 125.851575
+E[W] = 5.310375
+Erro de Little: 5.69519157252146612791
+Tempo decorrido: 27400.000000 
+Ocupação: 0.991476
+E[N] = 126.111506
+E[W] = 5.370265
+Erro de Little: 6.53032234013979007159
+Tempo decorrido: 27500.000000 
+Ocupação: 0.991507
+E[N] = 126.350978
+E[W] = 5.135478
+Erro de Little: 0.11874293620577702768
+Tempo decorrido: 27600.000000 
+Ocupação: 0.991538
+E[N] = 126.458575
+E[W] = 5.182056
+Erro de Little: 0.78518128898073769051
+Tempo decorrido: 27700.000000 
+Ocupação: 0.991568
+E[N] = 126.526746
+E[W] = 5.317952
+Erro de Little: 3.68221622721564756375
+Tempo decorrido: 27800.000000 
+Ocupação: 0.991599
+E[N] = 126.513385
+E[W] = 5.188162
+Erro de Little: 0.15061718460613349180
+Tempo decorrido: 27900.000000 
+Ocupação: 0.991629
+E[N] = 126.510047
+E[W] = 5.176579
+Erro de Little: 0.48719858218477440914
+Tempo decorrido: 28000.000000 
+Ocupação: 0.991659
+E[N] = 126.491636
+E[W] = 5.391525
+Erro de Little: 4.39290839383677678143
+Tempo decorrido: 28100.000000 
+Ocupação: 0.991688
+E[N] = 126.392139
+E[W] = 5.912654
+Erro de Little: 16.73782991884183957154
+Tempo decorrido: 28200.000000 
+Ocupação: 0.991718
+E[N] = 126.261307
+E[W] = 4.869690
+Erro de Little: 8.71343698612170669549
+Tempo decorrido: 28300.000000 
+Ocupação: 0.991727
+E[N] = 126.064680
+E[W] = 4.599232
+Erro de Little: 15.36290337747242062960
+Tempo decorrido: 28400.000000 
+Ocupação: 0.991669
+E[N] = 125.835237
+E[W] = 5.633505
+Erro de Little: 9.38318471161960587779
+Tempo decorrido: 28500.000000 
+Ocupação: 0.991458
+E[N] = 125.577596
+E[W] = 5.467131
+Erro de Little: 5.28052654440925550716
+Tempo decorrido: 28600.000000 
+Ocupação: 0.991455
+E[N] = 125.333692
+E[W] = 5.613740
+Erro de Little: 8.66007552476919784112
+Tempo decorrido: 28700.000000 
+Ocupação: 0.991380
+E[N] = 125.113536
+E[W] = 5.421426
+Erro de Little: 3.92666706695406730887
+Tempo decorrido: 28800.000000 
+Ocupação: 0.991398
+E[N] = 124.890508
+E[W] = 5.482090
+Erro de Little: 5.23469944948452337030
+Tempo decorrido: 28900.000000 
+Ocupação: 0.991422
+E[N] = 124.685354
+E[W] = 5.355293
+Erro de Little: 2.07836209157551365934
+Tempo decorrido: 29000.000000 
+Ocupação: 0.991159
+E[N] = 124.442109
+E[W] = 5.467590
+Erro de Little: 4.62675023832836984639
+Tempo decorrido: 29100.000000 
+Ocupação: 0.991109
+E[N] = 124.267053
+E[W] = 5.529276
+Erro de Little: 5.90438020664868190579
+Tempo decorrido: 29200.000000 
+Ocupação: 0.990990
+E[N] = 124.069255
+E[W] = 5.050456
+Erro de Little: 5.49424252212246244653
+Tempo decorrido: 29300.000000 
+Ocupação: 0.990565
+E[N] = 123.819129
+E[W] = 5.344451
+Erro de Little: 1.30777508583615542648
+Tempo decorrido: 29400.000000 
+Ocupação: 0.990307
+E[N] = 123.582321
+E[W] = 5.345744
+Erro de Little: 1.24128819144090130067
+Tempo decorrido: 29500.000000 
+Ocupação: 0.989985
+E[N] = 123.355831
+E[W] = 5.153521
+Erro de Little: 3.34541880384989553932
+Tempo decorrido: 29600.000000 
+Ocupação: 0.990019
+E[N] = 123.215998
+E[W] = 5.364422
+Erro de Little: 1.38352149086496467589
+Tempo decorrido: 29700.000000 
+Ocupação: 0.990052
+E[N] = 123.170221
+E[W] = 5.235502
+Erro de Little: 1.88419304715230850888
+Tempo decorrido: 29800.000000 
+Ocupação: 0.990086
+E[N] = 123.080777
+E[W] = 4.981384
+Erro de Little: 7.98853543057779802439
+Tempo decorrido: 29900.000000 
+Ocupação: 0.990077
+E[N] = 122.895843
+E[W] = 6.608871
+Erro de Little: 29.39692109490424343221
+Tempo decorrido: 30000.000000 
+Ocupação: 0.990110
+E[N] = 122.814059
+E[W] = 5.382342
+Erro de Little: 0.88729733348922934510
+Tempo decorrido: 30100.000000 
+Ocupação: 0.990143
+E[N] = 122.786308
+E[W] = 5.320313
+Erro de Little: 0.82423023233927494857
+Tempo decorrido: 30200.000000 
+Ocupação: 0.990176
+E[N] = 122.725055
+E[W] = 5.564780
+Erro de Little: 4.50983173187584895913
+Tempo decorrido: 30300.000000 
+Ocupação: 0.990186
+E[N] = 122.610595
+E[W] = 5.306548
+Erro de Little: 1.59206870937036626401
+Tempo decorrido: 30400.000000 
+Ocupação: 0.989916
+E[N] = 122.385571
+E[W] = 5.347201
+Erro de Little: 0.75235823636928955693
+Tempo decorrido: 30500.000000 
+Ocupação: 0.989949
+E[N] = 122.244887
+E[W] = 5.399526
+Erro de Little: 0.26875681059026135244
+Tempo decorrido: 30600.000000 
+Ocupação: 0.989982
+E[N] = 122.187582
+E[W] = 5.638422
+Erro de Little: 5.42338742508516702401
+Tempo decorrido: 30700.000000 
+Ocupação: 0.990014
+E[N] = 122.052613
+E[W] = 5.652389
+Erro de Little: 5.54745950626481487689
+Tempo decorrido: 30800.000000 
+Ocupação: 0.990005
+E[N] = 121.867559
+E[W] = 5.368722
+Erro de Little: 0.97298000204024504001
+Tempo decorrido: 30900.000000 
+Ocupação: 0.990038
+E[N] = 121.797919
+E[W] = 5.659780
+Erro de Little: 5.33120009580777320934
+Tempo decorrido: 31000.000000 
+Ocupação: 0.990070
+E[N] = 121.668454
+E[W] = 5.363300
+Erro de Little: 1.50497742359497976850
+Tempo decorrido: 31100.000000 
+Ocupação: 0.989915
+E[N] = 121.451070
+E[W] = 4.840753
+Erro de Little: 13.26694546488226933434
+Tempo decorrido: 31200.000000 
+Ocupação: 0.989884
+E[N] = 121.248358
+E[W] = 4.781174
+Erro de Little: 14.66498175674655612966
+Tempo decorrido: 31300.000000 
+Ocupação: 0.989764
+E[N] = 121.031220
+E[W] = 5.389155
+Erro de Little: 1.19014584207850759867
+Tempo decorrido: 31400.000000 
+Ocupação: 0.989750
+E[N] = 120.825253
+E[W] = 5.903689
+Erro de Little: 10.12704839236577925021
+Tempo decorrido: 31500.000000 
+Ocupação: 0.989782
+E[N] = 120.684639
+E[W] = 5.362220
+Erro de Little: 2.02697564284113695976
+Tempo decorrido: 31600.000000 
+Ocupação: 0.989815
+E[N] = 120.634989
+E[W] = 5.681960
+Erro de Little: 4.79640637430512128958
+Tempo decorrido: 31700.000000 
+Ocupação: 0.989847
+E[N] = 120.572056
+E[W] = 5.436330
+Erro de Little: 0.86054831917800811425
+Tempo decorrido: 31800.000000 
+Ocupação: 0.989652
+E[N] = 120.367855
+E[W] = 5.579055
+Erro de Little: 2.18374216234860796249
+Tempo decorrido: 31900.000000 
+Ocupação: 0.989594
+E[N] = 120.176033
+E[W] = 5.690434
+Erro de Little: 4.52705653798001605992
+Tempo decorrido: 32000.000000 
+Ocupação: 0.989626
+E[N] = 120.068517
+E[W] = 6.009899
+Erro de Little: 11.31392695026306682848
+Tempo decorrido: 32100.000000 
+Ocupação: 0.989659
+E[N] = 119.924979
+E[W] = 5.060581
+Erro de Little: 9.56126825959849213632
+Tempo decorrido: 32200.000000 
+Ocupação: 0.989640
+E[N] = 119.783186
+E[W] = 5.454272
+Erro de Little: 1.11698896657058810433
+Tempo decorrido: 32300.000000 
+Ocupação: 0.989672
+E[N] = 119.669174
+E[W] = 5.579777
+Erro de Little: 1.43327128044356300052
+Tempo decorrido: 32400.000000 
+Ocupação: 0.989704
+E[N] = 119.586118
+E[W] = 5.589389
+Erro de Little: 1.43674599716240436464
+Tempo decorrido: 32500.000000 
+Ocupação: 0.989736
+E[N] = 119.481211
+E[W] = 5.487938
+Erro de Little: 0.93471278447574945858
+Tempo decorrido: 32600.000000 
+Ocupação: 0.989767
+E[N] = 119.349603
+E[W] = 5.146834
+Erro de Little: 8.43443521186641476106
+Tempo decorrido: 32700.000000 
+Ocupação: 0.989404
+E[N] = 119.149343
+E[W] = 5.442790
+Erro de Little: 2.13588886880589257089
+Tempo decorrido: 32800.000000 
+Ocupação: 0.989352
+E[N] = 118.967526
+E[W] = 5.517093
+Erro de Little: 0.62952423978990168507
+Tempo decorrido: 32900.000000 
+Ocupação: 0.989160
+E[N] = 118.766314
+E[W] = 5.558564
+Erro de Little: 0.17512710400275466327
+Tempo decorrido: 33000.000000 
+Ocupação: 0.989192
+E[N] = 118.590247
+E[W] = 5.472114
+Erro de Little: 1.77406422051859635758
+Tempo decorrido: 33100.000000 
+Ocupação: 0.989136
+E[N] = 118.413114
+E[W] = 5.439713
+Erro de Little: 2.55826284407510229357
+Tempo decorrido: 33200.000000 
+Ocupação: 0.989169
+E[N] = 118.323388
+E[W] = 5.720680
+Erro de Little: 3.23920325717828916368
+Tempo decorrido: 33300.000000 
+Ocupação: 0.989202
+E[N] = 118.234330
+E[W] = 5.498086
+Erro de Little: 1.66923181431761236126
+Tempo decorrido: 33400.000000 
+Ocupação: 0.989234
+E[N] = 118.140792
+E[W] = 5.731302
+Erro de Little: 3.08969812828641465785
+Tempo decorrido: 33500.000000 
+Ocupação: 0.989155
+E[N] = 117.980661
+E[W] = 5.820266
+Erro de Little: 4.84734898374736644655
+Tempo decorrido: 33600.000000 
+Ocupação: 0.989183
+E[N] = 117.863057
+E[W] = 5.465781
+Erro de Little: 2.77576965202275971478
+Tempo decorrido: 33700.000000 
+Ocupação: 0.989215
+E[N] = 117.799835
+E[W] = 5.379048
+Erro de Little: 4.79233238243480741403
+Tempo decorrido: 33800.000000 
+Ocupação: 0.989247
+E[N] = 117.698343
+E[W] = 5.693493
+Erro de Little: 1.64482646284304223627
+Tempo decorrido: 33900.000000 
+Ocupação: 0.989264
+E[N] = 117.570872
+E[W] = 5.555746
+Erro de Little: 1.37720516767498679656
+Tempo decorrido: 34000.000000 
+Ocupação: 0.989155
+E[N] = 117.383390
+E[W] = 5.458911
+Erro de Little: 3.47510851244533114368
+Tempo decorrido: 34100.000000 
+Ocupação: 0.989187
+E[N] = 117.235310
+E[W] = 5.508555
+Erro de Little: 2.54577379053387176100
+Tempo decorrido: 34200.000000 
+Ocupação: 0.989219
+E[N] = 117.129795
+E[W] = 5.807611
+Erro de Little: 3.52217463826666232762
+Tempo decorrido: 34300.000000 
+Ocupação: 0.989162
+E[N] = 116.993264
+E[W] = 5.851098
+Erro de Little: 4.28991184805271075220
+Tempo decorrido: 34400.000000 
+Ocupação: 0.989170
+E[N] = 116.903510
+E[W] = 5.195295
+Erro de Little: 9.44634677215057649846
+Tempo decorrido: 34500.000000 
+Ocupação: 0.989202
+E[N] = 116.859077
+E[W] = 5.905564
+Erro de Little: 5.02288479930386699834
+Tempo decorrido: 34600.000000 
+Ocupação: 0.989233
+E[N] = 116.814953
+E[W] = 5.707241
+Erro de Little: 0.71263753812790753273
+Tempo decorrido: 34700.000000 
+Ocupação: 0.989264
+E[N] = 116.699502
+E[W] = 5.694183
+Erro de Little: 0.30603045181054255863
+Tempo decorrido: 34800.000000 
+Ocupação: 0.989295
+E[N] = 116.598929
+E[W] = 6.155826
+Erro de Little: 9.62817291243236184073
+Tempo decorrido: 34900.000000 
+Ocupação: 0.989326
+E[N] = 116.675242
+E[W] = 5.746784
+Erro de Little: 0.91479986793531509193
+Tempo decorrido: 35000.000000 
+Ocupação: 0.989356
+E[N] = 116.712877
+E[W] = 6.027155
+Erro de Little: 6.35444293919287872541
+Tempo decorrido: 35100.000000 
+Ocupação: 0.989386
+E[N] = 116.766088
+E[W] = 5.606419
+Erro de Little: 2.53563050925430388816
+Tempo decorrido: 35200.000000 
+Ocupação: 0.989416
+E[N] = 116.862493
+E[W] = 5.733416
+Erro de Little: 0.29804197424628853241
+Tempo decorrido: 35300.000000 
+Ocupação: 0.989446
+E[N] = 116.914329
+E[W] = 5.779518
+Erro de Little: 0.34122236667080585448
+Tempo decorrido: 35400.000000 
+Ocupação: 0.989476
+E[N] = 116.928193
+E[W] = 5.775111
+Erro de Little: 0.01088040617247543196
+Tempo decorrido: 35500.000000 
+Ocupação: 0.989423
+E[N] = 116.851883
+E[W] = 5.341926
+Erro de Little: 8.93566856266063780367
+Tempo decorrido: 35600.000000 
+Ocupação: 0.989430
+E[N] = 116.708308
+E[W] = 5.771725
+Erro de Little: 0.35083976436564512369
+Tempo decorrido: 35700.000000 
+Ocupação: 0.989460
+E[N] = 116.550527
+E[W] = 6.080807
+Erro de Little: 5.77747423020062456089
+Tempo decorrido: 35800.000000 
+Ocupação: 0.989173
+E[N] = 116.399094
+E[W] = 6.211112
+Erro de Little: 8.27872139710142107560
+Tempo decorrido: 35900.000000 
+Ocupação: 0.989019
+E[N] = 116.282521
+E[W] = 6.037982
+Erro de Little: 4.67182668279920676468
+Tempo decorrido: 36000.000000 
+Ocupação: 0.989049
+E[N] = 116.212741
+E[W] = 5.460489
+Erro de Little: 7.05223917819699863685
