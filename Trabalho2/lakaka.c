@@ -14,7 +14,7 @@ typedef struct little_{
 
 double aleatorio()
 {
-    double u = rand() / ((double)RAND_MAX + 3);
+    double u = rand() / ((double)RAND_MAX + 1);
     // limitando entre (0,1]
     u = 1.0 - u;
 
@@ -49,7 +49,7 @@ void inicia_little(little *l)
 int main()
 {
     double tempo_simulacao = 36000;
-    double intervalo_media_chegada = 0.01;
+    double intervalo_media_chegada = 0.2;
 
     double tempo_decorrido = 0.0;
     double tempo_anterior = 0.0;
@@ -65,46 +65,14 @@ int main()
 
     unsigned long int fila = 0;
     unsigned int max_fila = 0;
-    double num_aleatorio = 0.0;
-    double lakaka = 0.0;
-    int pacote550 = 0;
-    int pacote40 = 0;
-    int pacote1500 = 0;
-// taxa de chegada = 0.01
-// tempo de atendimento = L/R
-// L1 = 550 bytes
-// L2 = 40 bytes
-// L3 = 1500 bytes
-// taxa de transmissão média = (0.5*550 + 0.4*40 + 0.1*1500) = 44100 bytes/segundo
-// tamanho do link(ocupação 60%) = taxa de transmissão / ocupação = 44100 / 0.6 = 73500 bytes/segundo
-// tamanho do link(ocupação 80%) = taxa de transmissão / ocupação = 44100 / 0.8 = 55125 bytes/segundo
-// tamanho do link(ocupação 95%) = taxa de transmissão / ocupação = 44100 / 0.95 = 46421 bytes/segundo
-// tamanho do link(ocupação 99%) = taxa de transmissão / ocupação = 44100 / 0.99 = 44545 bytes/segundo
-// Ocupação 60% = 735 bytes/segunds
-// ocupação = taxa media de chegada / tempo medio de serviço
-// 60/100 = 73500 / tempo medio de srviço -> 122500
-// tempo de atendimento = L/R = 550 / 122500 = 0,007483 segundos
-// tempo de atendimento = L/R = 40 / 122500 = 0,0005442 segundos
-// tempo de atendimento = L/R = 1500 / 122500 = 0,020408 segundos
-// Ocupação 80% = 55125 bytes/segunds
-// ocupação = taxa media de chegada / tempo medio de serviço
-// 80/100 = 55125 / tempo medio de srviço -> 68906,25
-// tempo de atendimento = L/R = 550 / 68906,25 = 0,009977 segundos
-// tempo de atendimento = L/R = 40 / 68906,25 = 0,000726 segundos
-// tempo de atendimento = L/R = 1500 / 68906,25 = 0,027211 segundos
-// Ocupação 95% = 46421 bytes/segunds
-// ocupação = taxa media de chegada / tempo medio de serviço
-// 95/100 = 46421 / tempo medio de srviço -> 48864,21
-// tempo de atendimento = L/R = 550 / 464,21 = 0,010771 segundos
-// tempo de atendimento = L/R = 40 / 464,21 = 0,000862 segundos
-// tempo de atendimento = L/R = 1500 / 464,21 = 0,032313 segundos
-// Ocupação 99% = 445,45 bytes/segunds
-// tempo de atendimento = L/R = 550 / 445,45 = 0,012347 segundos
-// tempo de atendimento = L/R = 40 / 445,45 = 0,000898 segundos
-// tempo de atendimento = L/R = 1500 / 445,45 = 0,033674 segundos
 
+    //Cálculo para descobrir o tempo médio de serviço
+    // (0.2 / x) = (80 / 100)  ----> x = 0.16
+    // (0.2 / x) = (90 / 100)  ----> x = 0.18
+    // (0.2 / x) = (95 / 100)  ----> x = 0.19
+    // (0.2 / x) = (99 / 100)  ----> x = 0.198
+    double tempos_medios_servicos[4] = {0.16, 0.18, 0.19, 0.198};
 
-    double tempos_medios_servicos[4][3] = {{0.004490, 0.0003265, 0.12245}, {0.007982, 0.000580, 0.02177}, {0.01125, 0.000818, 0.030697}, {0.012347, 0.000898, 0.033674}};
     double e_n_final;
     double e_w_final;
     double lambda;
@@ -136,28 +104,14 @@ int main()
 
     // gerando o tempo de chegada da primeira requisição.
     chegada = (-1.0 / (1.0 / intervalo_media_chegada)) * log(aleatorio());
+
     for (int i = 0; i < 4; i++)
     {   
         //zera as variáveis para cada cenário
+        tempo_medio_servico = tempos_medios_servicos[i];
         tempo_decorrido = 0.0;
         tempo_simulacao = 36000;
-        num_aleatorio = aleatorio();
-        chegada = (-1.0 / (1.0 / intervalo_media_chegada)) *(log(num_aleatorio));
-        if (num_aleatorio < 0.5)
-        {
-            tempo_medio_servico = tempos_medios_servicos[i][0];
-            pacote550++;
-        }
-        else if (num_aleatorio >= 0.5 && num_aleatorio < 0.9)
-        {
-            tempo_medio_servico = tempos_medios_servicos[i][1];
-            pacote40++;
-        }
-        else if (num_aleatorio >= 0.9)
-        {
-            tempo_medio_servico = tempos_medios_servicos[i][2];
-            pacote1500++;
-        }
+        chegada = (-1.0 / (1.0 / intervalo_media_chegada)) * log(aleatorio());
         coleta_dados = 100;
         tempo_anterior = 0.0;
         soma_tempo_servico = 0.0;
@@ -176,7 +130,6 @@ int main()
         e_w_saida.tempo_anterior = 0.0;
         e_w_chegada.no_eventos = 0.0;
         e_w_saida.no_eventos = 0.0;
-        servico = tempo_decorrido + (-1.0 / (1.0 / intervalo_media_chegada)) * (log(num_aleatorio));
         while (tempo_decorrido <= tempo_simulacao)
         {
             //Verificar o tempo mínimo entre chegada e saída e verificar se está em um tempo múltiplo de 100
@@ -187,113 +140,82 @@ int main()
                 if (!fila)
                 {
                     //printf("tempo_decorrido: %lF\n", tempo_decorrido);
-                    num_aleatorio = aleatorio();
-                    /*if (num_aleatorio < 0.5)
-                    {
-                        tempo_medio_servico = tempos_medios_servicos[i][0];
-                    }
-                    else if (num_aleatorio >= 0.5 && num_aleatorio < 0.9)
-                    {
-                        tempo_medio_servico = tempos_medios_servicos[i][1];
-                    }
-                    else if (num_aleatorio >= 0.9)
-                    {
-                        tempo_medio_servico = tempos_medios_servicos[i][2];
-                    }*/
-                    servico = tempo_decorrido + (-1.0 / (1.0 / intervalo_media_chegada)) * (log(num_aleatorio));
+                    servico = tempo_decorrido + (-1.0 / (1.0 / intervalo_media_chegada)) * log(aleatorio());
                     soma_tempo_servico += servico - tempo_decorrido;
                 }
                 fila++;
                 max_fila = fila > max_fila ? fila : max_fila;
-                num_aleatorio = aleatorio();
-                /*if (num_aleatorio < 0.5)
-                {
-                    tempo_medio_servico = tempos_medios_servicos[i][0];
-                }
-                else if (num_aleatorio >= 0.5 && num_aleatorio < 0.9)
-                {
-                    tempo_medio_servico = tempos_medios_servicos[i][1];
-                }
-                else if (num_aleatorio >= 0.9)
-                {
-                    tempo_medio_servico = tempos_medios_servicos[i][2];
-                }*/
-                chegada = tempo_decorrido + (-1.0 / (1.0 / intervalo_media_chegada)) * (log(num_aleatorio));
+
+                chegada = tempo_decorrido + (-1.0 / (1.0 / intervalo_media_chegada)) * log(aleatorio());
+
                 //little
                 e_n.soma_areas += (tempo_decorrido - e_n.tempo_anterior) * e_n.no_eventos;
                 e_n.tempo_anterior = tempo_decorrido;
                 e_n.no_eventos++;
+
                 e_w_chegada.soma_areas += (tempo_decorrido - e_w_chegada.tempo_anterior) * e_w_chegada.no_eventos;
                 e_w_chegada.tempo_anterior = tempo_decorrido;
                 e_w_chegada.no_eventos++;
                 tempo_anterior = tempo_decorrido;
+
             }
             // saída
             else if (tempo_decorrido == servico)
             {
                 //printf("Saída em %lF.\n", tempo_decorrido);
                 fila--;
+
                 if (fila)
                 {
-                    num_aleatorio = aleatorio();
-                    if (num_aleatorio < 0.5)
-                    {
-                        tempo_medio_servico = tempos_medios_servicos[i][0];
-                        pacote550++;
-                    }
-                    else if (num_aleatorio >= 0.5 && num_aleatorio < 0.9)
-                    {
-                        tempo_medio_servico = tempos_medios_servicos[i][1];
-                        pacote40++;
-                    }
-                    else if (num_aleatorio >= 0.9)
-                    {
-                        tempo_medio_servico = tempos_medios_servicos[i][2];
-                        pacote1500++;
-                    }
-                    servico = tempo_decorrido + (-1.0 / (1.0 / tempo_medio_servico)) * (log(num_aleatorio));
+                    servico = tempo_decorrido + (-1.0 / (1.0 / tempo_medio_servico)) * log(aleatorio());
                     soma_tempo_servico += servico - tempo_decorrido;
-
                 }
+
                 //little
                 e_n.soma_areas += (tempo_decorrido - e_n.tempo_anterior) * e_n.no_eventos;
                 e_n.tempo_anterior = tempo_decorrido;
                 e_n.no_eventos--;
+
                 e_w_saida.soma_areas += (tempo_decorrido - e_w_saida.tempo_anterior) * e_w_saida.no_eventos;
                 e_w_saida.tempo_anterior = tempo_decorrido;
                 e_w_saida.no_eventos++;
                 tempo_anterior = tempo_decorrido;
             }
+        
             else if(tempo_decorrido == coleta_dados)
             {   
                 e_n.soma_areas += (tempo_decorrido - e_n.tempo_anterior) * e_n.no_eventos;
                 e_w_chegada.soma_areas += (tempo_decorrido - e_w_chegada.tempo_anterior) * e_w_chegada.no_eventos;
                 e_w_saida.soma_areas += (tempo_decorrido - e_w_saida.tempo_anterior) * e_w_saida.no_eventos;
+
                 e_n_final = e_n.soma_areas / tempo_anterior;
                 e_w_final = (e_w_chegada.soma_areas - e_w_saida.soma_areas) / e_w_chegada.no_eventos;
                 lambda = e_w_chegada.no_eventos / tempo_anterior;
+
                 erro_little = (e_n_final - lambda * e_w_final) < 0 ? (e_n_final - lambda * e_w_final) * -1 : (e_n_final - lambda * e_w_final);
-                // tirar comentario printf("%d\t%lF\t%lF\t%lF\t%.20lF\n", coleta_dados, soma_tempo_servico / maximo(tempo_decorrido, servico), e_n_final, e_w_final, erro_little );
+                printf("%d\t%lF\t%lF\t%lF\t%.20lF\n", coleta_dados, soma_tempo_servico / maximo(tempo_decorrido, servico), e_n_final, e_w_final, erro_little );
+                
                 coleta_dados += 100;
                 e_n.tempo_anterior = tempo_decorrido;
                 e_w_chegada.tempo_anterior = tempo_decorrido;
                 e_w_saida.tempo_anterior = tempo_decorrido;
             }
+
             //Printar os resultados finais de cada iteração
             if(tempo_decorrido == tempo_simulacao)
             {
                 e_n.soma_areas += (tempo_decorrido - e_n.tempo_anterior) * e_n.no_eventos;
                 e_w_chegada.soma_areas += (tempo_decorrido - e_w_chegada.tempo_anterior) * e_w_chegada.no_eventos;
                 e_w_saida.soma_areas += (tempo_decorrido - e_w_saida.tempo_anterior) * e_w_saida.no_eventos;
+
                 e_n_final = e_n.soma_areas / tempo_decorrido;
                 e_w_final = (e_w_chegada.soma_areas - e_w_saida.soma_areas) / e_w_chegada.no_eventos;
                 lambda = e_w_chegada.no_eventos / tempo_decorrido;
                 erro_little = (e_n_final - lambda * e_w_final) < 0 ? (e_n_final - lambda * e_w_final) * -1 : (e_n_final - lambda * e_w_final);
-                // tirar comentario printf("%d\t%lF\t%lF\t%lF\t%.20lF\n", coleta_dados, soma_tempo_servico / maximo(tempo_decorrido, servico), e_n_final, e_w_final, erro_little );
-            }
+                printf("%d\t%lF\t%lF\t%lF\t%.20lF\n", coleta_dados, soma_tempo_servico / maximo(tempo_decorrido, servico), e_n_final, e_w_final, erro_little );
         }
-    }   
-    
+    }
+    }
     e_n.soma_areas += (tempo_decorrido - e_n.tempo_anterior) * e_n.no_eventos;
     e_w_chegada.soma_areas += (tempo_decorrido - e_w_chegada.tempo_anterior) * e_w_chegada.no_eventos;
     e_w_saida.soma_areas += (tempo_decorrido - e_w_saida.tempo_anterior) * e_w_saida.no_eventos;
@@ -312,9 +234,5 @@ int main()
     printf("Max Fila: %d\n", max_fila);
 
     printf("Tempo decorrido: %lF.\n", tempo_decorrido);*/
-    
-    /*printf("pacote550 %d\n", pacote550);
-    printf("pacote40 %d\n", pacote40);
-    printf("pacote1500 %d\n", pacote1500);*/
     return 0;
 }
