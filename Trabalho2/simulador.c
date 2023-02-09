@@ -104,7 +104,7 @@ int main()
 // tempo de atendimento = L/R = 1500 / 445,45 = 0,033674 segundos
 
 
-    double tempos_medios_servicos[4][3] = {{0.004490, 0.0003265, 0.12245}, {0.007982, 0.000580, 0.02177}, {0.01125, 0.000818, 0.030697}, {0.012347, 0.000898, 0.033674}};
+    double tempos_medios_servicos[4][3] = {{550.0/73500.0, 40.0/73500.0, 1500.0/73500.0}, {550.0/55125.0, 40.0/55125.0, 1500.0/55125.0}, {550.0/46421.0, 40.0/46421.0, 1500.0/46421.0}, {550.0/44545.0, 40.0/44545.0, 1500.0/44545.0}};
     double e_n_final;
     double e_w_final;
     double lambda;
@@ -143,21 +143,6 @@ int main()
         tempo_simulacao = 36000;
         num_aleatorio = aleatorio();
         chegada = (-1.0 / (1.0 / intervalo_media_chegada)) *(log(num_aleatorio));
-        if (num_aleatorio < 0.5)
-        {
-            tempo_medio_servico = tempos_medios_servicos[i][0];
-            pacote550++;
-        }
-        else if (num_aleatorio >= 0.5 && num_aleatorio < 0.9)
-        {
-            tempo_medio_servico = tempos_medios_servicos[i][1];
-            pacote40++;
-        }
-        else if (num_aleatorio >= 0.9)
-        {
-            tempo_medio_servico = tempos_medios_servicos[i][2];
-            pacote1500++;
-        }
         coleta_dados = 100;
         tempo_anterior = 0.0;
         soma_tempo_servico = 0.0;
@@ -176,7 +161,6 @@ int main()
         e_w_saida.tempo_anterior = 0.0;
         e_w_chegada.no_eventos = 0.0;
         e_w_saida.no_eventos = 0.0;
-        servico = tempo_decorrido + (-1.0 / (1.0 / intervalo_media_chegada)) * (log(num_aleatorio));
         while (tempo_decorrido <= tempo_simulacao)
         {
             //Verificar o tempo mínimo entre chegada e saída e verificar se está em um tempo múltiplo de 100
@@ -188,7 +172,7 @@ int main()
                 {
                     //printf("tempo_decorrido: %lF\n", tempo_decorrido);
                     num_aleatorio = aleatorio();
-                    /*if (num_aleatorio < 0.5)
+                    if (num_aleatorio < 0.5)
                     {
                         tempo_medio_servico = tempos_medios_servicos[i][0];
                     }
@@ -199,8 +183,8 @@ int main()
                     else if (num_aleatorio >= 0.9)
                     {
                         tempo_medio_servico = tempos_medios_servicos[i][2];
-                    }*/
-                    servico = tempo_decorrido + (-1.0 / (1.0 / intervalo_media_chegada)) * (log(num_aleatorio));
+                    }
+                    servico = tempo_decorrido + tempo_medio_servico;
                     soma_tempo_servico += servico - tempo_decorrido;
                 }
                 fila++;
@@ -251,7 +235,7 @@ int main()
                         tempo_medio_servico = tempos_medios_servicos[i][2];
                         pacote1500++;
                     }
-                    servico = tempo_decorrido + (-1.0 / (1.0 / tempo_medio_servico)) * (log(num_aleatorio));
+                    servico = tempo_decorrido + tempo_medio_servico;
                     soma_tempo_servico += servico - tempo_decorrido;
 
                 }
@@ -273,7 +257,7 @@ int main()
                 e_w_final = (e_w_chegada.soma_areas - e_w_saida.soma_areas) / e_w_chegada.no_eventos;
                 lambda = e_w_chegada.no_eventos / tempo_anterior;
                 erro_little = (e_n_final - lambda * e_w_final) < 0 ? (e_n_final - lambda * e_w_final) * -1 : (e_n_final - lambda * e_w_final);
-                // tirar comentario printf("%d\t%lF\t%lF\t%lF\t%.20lF\n", coleta_dados, soma_tempo_servico / maximo(tempo_decorrido, servico), e_n_final, e_w_final, erro_little );
+                printf("%d\t%lF\t%lF\t%lF\t%.20lF\n", coleta_dados, soma_tempo_servico / maximo(tempo_decorrido, servico), e_n_final, e_w_final, erro_little );
                 coleta_dados += 100;
                 e_n.tempo_anterior = tempo_decorrido;
                 e_w_chegada.tempo_anterior = tempo_decorrido;
@@ -289,7 +273,7 @@ int main()
                 e_w_final = (e_w_chegada.soma_areas - e_w_saida.soma_areas) / e_w_chegada.no_eventos;
                 lambda = e_w_chegada.no_eventos / tempo_decorrido;
                 erro_little = (e_n_final - lambda * e_w_final) < 0 ? (e_n_final - lambda * e_w_final) * -1 : (e_n_final - lambda * e_w_final);
-                // tirar comentario printf("%d\t%lF\t%lF\t%lF\t%.20lF\n", coleta_dados, soma_tempo_servico / maximo(tempo_decorrido, servico), e_n_final, e_w_final, erro_little );
+                printf("%d\t%lF\t%lF\t%lF\t%.20lF\n", coleta_dados, soma_tempo_servico / maximo(tempo_decorrido, servico), e_n_final, e_w_final, erro_little );
             }
         }
     }   
