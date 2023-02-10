@@ -70,38 +70,33 @@ int main()
     int pacote550 = 0;
     int pacote40 = 0;
     int pacote1500 = 0;
-// taxa de chegada = 0.01
-// tempo de atendimento = L/R
-// L1 = 550 bytes
-// L2 = 40 bytes
-// L3 = 1500 bytes
-// taxa de transmissão média = (0.5*550 + 0.4*40 + 0.1*1500) = 44100 bytes/segundo
-// tamanho do link(ocupação 60%) = taxa de transmissão / ocupação = 44100 / 0.6 = 73500 bytes/segundo
-// tamanho do link(ocupação 80%) = taxa de transmissão / ocupação = 44100 / 0.8 = 55125 bytes/segundo
-// tamanho do link(ocupação 95%) = taxa de transmissão / ocupação = 44100 / 0.95 = 46421 bytes/segundo
-// tamanho do link(ocupação 99%) = taxa de transmissão / ocupação = 44100 / 0.99 = 44545 bytes/segundo
-// Ocupação 60% = 735 bytes/segunds
-// ocupação = taxa media de chegada / tempo medio de serviço
-// 60/100 = 73500 / tempo medio de srviço -> 122500
-// tempo de atendimento = L/R = 550 / 122500 = 0,007483 segundos
-// tempo de atendimento = L/R = 40 / 122500 = 0,0005442 segundos
-// tempo de atendimento = L/R = 1500 / 122500 = 0,020408 segundos
-// Ocupação 80% = 55125 bytes/segunds
-// ocupação = taxa media de chegada / tempo medio de serviço
-// 80/100 = 55125 / tempo medio de srviço -> 68906,25
-// tempo de atendimento = L/R = 550 / 68906,25 = 0,009977 segundos
-// tempo de atendimento = L/R = 40 / 68906,25 = 0,000726 segundos
-// tempo de atendimento = L/R = 1500 / 68906,25 = 0,027211 segundos
-// Ocupação 95% = 46421 bytes/segunds
-// ocupação = taxa media de chegada / tempo medio de serviço
-// 95/100 = 46421 / tempo medio de srviço -> 48864,21
-// tempo de atendimento = L/R = 550 / 464,21 = 0,010771 segundos
-// tempo de atendimento = L/R = 40 / 464,21 = 0,000862 segundos
-// tempo de atendimento = L/R = 1500 / 464,21 = 0,032313 segundos
-// Ocupação 99% = 445,45 bytes/segunds
-// tempo de atendimento = L/R = 550 / 445,45 = 0,012347 segundos
-// tempo de atendimento = L/R = 40 / 445,45 = 0,000898 segundos
-// tempo de atendimento = L/R = 1500 / 445,45 = 0,033674 segundos
+
+    // taxa de chegada = 0.01
+    // tempo de atendimento = L/R
+    // L1 = 550 bytes
+    // L2 = 40 bytes
+    // L3 = 1500 bytes
+    // taxa de transmissão média = (0.5*550 + 0.4*40 + 0.1*1500) = 44100 bytes/segundo
+    // tamanho do link(ocupação 60%) = taxa de transmissão / ocupação = 44100 / 0.6 = 73500 bytes/segundo
+    // tamanho do link(ocupação 80%) = taxa de transmissão / ocupação = 44100 / 0.8 = 55125 bytes/segundo
+    // tamanho do link(ocupação 95%) = taxa de transmissão / ocupação = 44100 / 0.95 = 46421 bytes/segundo
+    // tamanho do link(ocupação 99%) = taxa de transmissão / ocupação = 44100 / 0.99 = 44545 bytes/segundo
+    // Ocupação 60% = 73500 bytes/segunds
+    // tempo de atendimento = L/R = 550 / 73500 segundos
+    // tempo de atendimento = L/R = 40 / 73500 = 0,0005442 segundos
+    // tempo de atendimento = L/R = 1500 / 73500 = 0,020408 segundos
+    // Ocupação 80% = 55125 bytes/segunds
+    // tempo de atendimento = L/R = 550 / 55125 = 0,009977 segundos
+    // tempo de atendimento = L/R = 40 / 55125 = 0,000726 segundos
+    // tempo de atendimento = L/R = 1500 / 55125 = 0,027211 segundos
+    // Ocupação 95% = 46421 bytes/segunds
+    // tempo de atendimento = L/R = 550 / 46421 = 0,010771 segundos
+    // tempo de atendimento = L/R = 40 / 46421 = 0,000862 segundos
+    // tempo de atendimento = L/R = 1500 / 46421 = 0,032313 segundos
+    // Ocupação 99% = 44545 bytes/segunds
+    // tempo de atendimento = L/R = 550 / 44545 = 0,012347 segundos
+    // tempo de atendimento = L/R = 40 / 44545 = 0,000898 segundos
+    // tempo de atendimento = L/R = 1500 / 44545 = 0,033674 segundos
 
 
     double tempos_medios_servicos[4][3] = {{550.0/73500.0, 40.0/73500.0, 1500.0/73500.0}, {550.0/55125.0, 40.0/55125.0, 1500.0/55125.0}, {550.0/46421.0, 40.0/46421.0, 1500.0/46421.0}, {550.0/44545.0, 40.0/44545.0, 1500.0/44545.0}};
@@ -190,18 +185,7 @@ int main()
                 fila++;
                 max_fila = fila > max_fila ? fila : max_fila;
                 num_aleatorio = aleatorio();
-                /*if (num_aleatorio < 0.5)
-                {
-                    tempo_medio_servico = tempos_medios_servicos[i][0];
-                }
-                else if (num_aleatorio >= 0.5 && num_aleatorio < 0.9)
-                {
-                    tempo_medio_servico = tempos_medios_servicos[i][1];
-                }
-                else if (num_aleatorio >= 0.9)
-                {
-                    tempo_medio_servico = tempos_medios_servicos[i][2];
-                }*/
+
                 chegada = tempo_decorrido + (-1.0 / (1.0 / intervalo_media_chegada)) * (log(num_aleatorio));
                 //little
                 e_n.soma_areas += (tempo_decorrido - e_n.tempo_anterior) * e_n.no_eventos;
@@ -289,16 +273,19 @@ int main()
     /*printf("E[N] = %lF\n", e_n_final);
     printf("E[W] = %lF\n", e_w_final);
     printf("Lambda = %lF\n\n", lambda);
-
     printf("Erro de Little: %.20lF\n\n", (e_n_final - lambda * e_w_final) < 0 ? (e_n_final - lambda * e_w_final) * -1 : (e_n_final - lambda * e_w_final));
-
     printf("Ocupação: %lF.\n", soma_tempo_servico / maximo(tempo_decorrido, servico));
     printf("Max Fila: %d\n", max_fila);
-
     printf("Tempo decorrido: %lF.\n", tempo_decorrido);*/
     
     /*printf("pacote550 %d\n", pacote550);
     printf("pacote40 %d\n", pacote40);
     printf("pacote1500 %d\n", pacote1500);*/
+    
+    
+    //float total_pacotes = pacote550 + pacote40 + pacote1500;
+    //printf("pacote550 %lF\n", pacote550 / total_pacotes);
+    //printf("pacote40 %lF\n", pacote40 / total_pacotes);
+    //printf("pacote1500 %lF\n", pacote1500 / total_pacotes);
     return 0;
 }
